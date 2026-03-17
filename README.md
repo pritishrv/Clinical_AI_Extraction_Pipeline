@@ -60,5 +60,4 @@ This project was developed as part of the **Clinical AI Hackathon (March 2026)**
 *   **FHIR Integration:** Moving from Excel to HL7 FHIR standards for direct EHR integration.
 
 ---
-*This project is a prototype designed to demonstrate the feasibility of AI-assisted clinical data structured. It uses 100% synthetic, anonymized data.*
-.
+*This project is a prototype designed to demonstrate the feasibility of AI-assisted clinical data structured. It uses 100% synthetic, anonymized data.*.
