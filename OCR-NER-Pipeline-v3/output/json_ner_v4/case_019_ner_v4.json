@@ -2,6 +2,13 @@
     "case_index": 19,
     "entities": [
         {
+            "text": "polyp",
+            "label": "DIAGNOSIS",
+            "start": 394,
+            "end": 399,
+            "negated": false
+        },
+        {
             "text": "hemicolectomy",
             "label": "SURGERY",
             "start": 824,

@@ -2,6 +2,20 @@
     "case_index": 11,
     "entities": [
         {
+            "text": "adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 388,
+            "end": 402,
+            "negated": false
+        },
+        {
+            "text": "Surgery",
+            "label": "SURGERY",
+            "start": 741,
+            "end": 748,
+            "negated": false
+        },
+        {
             "text": "CRT",
             "label": "TREATMENT",
             "start": 807,

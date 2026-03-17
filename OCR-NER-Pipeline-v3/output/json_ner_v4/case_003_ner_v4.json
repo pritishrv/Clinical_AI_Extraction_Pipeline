@@ -2,6 +2,20 @@
     "case_index": 3,
     "entities": [
         {
+            "text": "ADENOCARCINOMA",
+            "label": "DIAGNOSIS",
+            "start": 370,
+            "end": 384,
+            "negated": false
+        },
+        {
+            "text": "adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 617,
+            "end": 631,
+            "negated": true
+        },
+        {
             "text": "CRT",
             "label": "TREATMENT",
             "start": 731,

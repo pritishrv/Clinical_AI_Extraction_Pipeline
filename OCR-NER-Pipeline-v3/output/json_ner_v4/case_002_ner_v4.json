@@ -2,6 +2,34 @@
     "case_index": 2,
     "entities": [
         {
+            "text": "polyp",
+            "label": "DIAGNOSIS",
+            "start": 605,
+            "end": 610,
+            "negated": false
+        },
+        {
+            "text": "polyp",
+            "label": "DIAGNOSIS",
+            "start": 765,
+            "end": 770,
+            "negated": false
+        },
+        {
+            "text": "adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 793,
+            "end": 807,
+            "negated": false
+        },
+        {
+            "text": "surgery",
+            "label": "SURGERY",
+            "start": 1040,
+            "end": 1047,
+            "negated": false
+        },
+        {
             "text": "colonoscopy",
             "label": "PROCEDURE",
             "start": 1056,

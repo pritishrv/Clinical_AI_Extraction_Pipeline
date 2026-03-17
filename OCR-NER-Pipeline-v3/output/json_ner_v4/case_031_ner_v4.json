@@ -2,6 +2,13 @@
     "case_index": 31,
     "entities": [
         {
+            "text": "surgery",
+            "label": "SURGERY",
+            "start": 844,
+            "end": 851,
+            "negated": false
+        },
+        {
             "text": "chemotherapy",
             "label": "TREATMENT",
             "start": 868,

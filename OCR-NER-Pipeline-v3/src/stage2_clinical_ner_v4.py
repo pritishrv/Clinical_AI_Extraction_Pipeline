@@ -46,6 +46,12 @@ def setup_nlp():
         TargetRule(r"capecitabine", "CHEMO_AGENT"),
         TargetRule(r"resection", "SURGERY"),
         TargetRule(r"hemicolectomy", "SURGERY"),
+        TargetRule(r"surgery", "SURGERY"),
+        
+        # Pathology
+        TargetRule(r"Adenocarcinoma", "DIAGNOSIS"),
+        TargetRule(r"carcinoma", "DIAGNOSIS"),
+        TargetRule(r"polyp", "DIAGNOSIS"),
         
         # Identifiers
         TargetRule(r"NHS\s*Number\s*[:\-\u2013]?\s*\d+", "NHS_NUMBER"),
@@ -61,14 +67,10 @@ def setup_nlp():
     return nlp
 
 def extract_case_entities(nlp, case_data):
-    # Process table rows
     table_text = " | ".join([row["text"] for row in case_data["table_rows"]])
-    # Process context paragraphs
     para_text = " | ".join(case_data["context_paragraphs"])
-    
     full_text = table_text + " || " + para_text
     doc = nlp(full_text)
-    
     entities = []
     for ent in doc.ents:
         entities.append({
@@ -78,32 +80,19 @@ def extract_case_entities(nlp, case_data):
             "end": ent.end_char,
             "negated": ent._.is_negated
         })
-    
     return entities, full_text
 
 def main():
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
-        
+    if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
     nlp = setup_nlp()
     raw_files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".json")])
-    
     for raw_file in raw_files:
-        with open(INPUT_DIR / raw_file, "r") as f:
-            case_data = json.load(f)
-        
+        with open(INPUT_DIR / raw_file, "r") as f: case_data = json.load(f)
         print(f"Processing NER v4 for {raw_file}...")
         entities, full_text = extract_case_entities(nlp, case_data)
-        
-        processed_data = {
-            "case_index": case_data["case_index"],
-            "entities": entities,
-            "full_text": full_text
-        }
-        
+        processed_data = {"case_index": case_data["case_index"], "entities": entities, "full_text": full_text}
         output_file = OUTPUT_DIR / raw_file.replace("_raw.json", "_ner_v4.json")
-        with open(output_file, "w") as f:
-            json.dump(processed_data, f, indent=4)
+        with open(output_file, "w") as f: json.dump(processed_data, f, indent=4)
 
 if __name__ == "__main__":
     main()

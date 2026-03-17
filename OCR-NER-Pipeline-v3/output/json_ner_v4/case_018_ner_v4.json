@@ -2,6 +2,13 @@
     "case_index": 18,
     "entities": [
         {
+            "text": "adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 402,
+            "end": 416,
+            "negated": false
+        },
+        {
             "text": "chemotherapy",
             "label": "TREATMENT",
             "start": 857,

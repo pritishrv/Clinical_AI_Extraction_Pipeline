@@ -2,6 +2,13 @@
     "case_index": 38,
     "entities": [
         {
+            "text": "adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 405,
+            "end": 419,
+            "negated": false
+        },
+        {
             "text": "hemicolectomy",
             "label": "SURGERY",
             "start": 779,

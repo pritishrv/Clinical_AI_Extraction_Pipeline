@@ -2,6 +2,13 @@
     "case_index": 0,
     "entities": [
         {
+            "text": "ADENOCARCINOMA",
+            "label": "DIAGNOSIS",
+            "start": 381,
+            "end": 395,
+            "negated": false
+        },
+        {
             "text": "Colonoscopy",
             "label": "PROCEDURE",
             "start": 621,
@@ -13,6 +20,13 @@
             "label": "PROCEDURE",
             "start": 1000,
             "end": 1011,
+            "negated": false
+        },
+        {
+            "text": "Adenocarcinoma",
+            "label": "DIAGNOSIS",
+            "start": 1027,
+            "end": 1041,
             "negated": false
         }
     ],
