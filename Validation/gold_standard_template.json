@@ -1,0 +1,51 @@
+{
+  "case_metadata": {
+    "case_index": 0,
+    "source_file": "hackathon-mdt-outcome-proformas.docx",
+    "patient_id_nhs": "9990000001"
+  },
+  
+  "stage1_ocr_ground_truth": {
+    "description": "The 100% correct raw text as it should be read by OCR.",
+    "raw_text": "NHS Number: 9990000001 | Name: Alice O'Brien | DOB: 26/05/1970 | Gender: Female | Diagnosis: Sigmoid adenocarcinoma | MDT Date: 07/03/2025 | Outcome: CRT followed by surgical review in 6 weeks."
+  },
+
+  "stage2_ner_ground_truth": {
+    "description": "Manually labeled entities for clinical NER validation (Precision/Recall).",
+    "entities": [
+      { "text": "9990000001", "label": "NHS_NUMBER", "start": 12, "end": 22 },
+      { "text": "Alice O'Brien", "label": "PATIENT_NAME", "start": 30, "end": 43 },
+      { "text": "26/05/1970", "label": "DOB", "start": 51, "end": 61 },
+      { "text": "Female", "label": "GENDER", "start": 71, "end": 77 },
+      { "text": "Sigmoid adenocarcinoma", "label": "DIAGNOSIS", "start": 89, "end": 111 },
+      { "text": "07/03/2025", "label": "MDT_DATE", "start": 123, "end": 133 },
+      { "text": "CRT", "label": "TREATMENT", "start": 144, "end": 147 }
+    ]
+  },
+
+  "stage3_final_fields_ground_truth": {
+    "description": "The exact values that should appear in the 88-column Excel output.",
+    "fields": {
+      "Demographics: \nDOB(a)": "26/05/1970",
+      "Demographics: Initials(b)": "AO",
+      "Demographics: MRN(c)": "123456",
+      "Demographics: \nNHS number(d)": "9990000001",
+      "Demographics: \nGender(e)": "Female",
+      "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
+      "1st MDT: date(i)": "07/03/2025",
+      "1st MDT: Treatment approach": "downstaging nCRT",
+      "MDT (after 6 week: Decision ": "CRT followed by surgical review in 6 weeks."
+    }
+  },
+
+  "overall_accuracy_metrics": {
+    "ocr_cer_target": 0.02,
+    "ner_f1_target": 0.95,
+    "field_match_target": 1.0,
+    "weighting": {
+      "ocr": 0.2,
+      "ner": 0.3,
+      "final_fields": 0.5
+    }
+  }
+}
