@@ -1,6 +1,6 @@
 # 📊 Data Analysis
 
-This folder contains analysis scripts, notebooks, and reports derived from the extracted clinical data.
+This folder contains analysis scripts, notebooks, and reports derived from the extracted clinical data.2
 
 ## 🎯 Objectives
 1.  **Extraction Performance:** Evaluating the AI's accuracy against ground-truth datasets (e.g., F1-score per clinical field).
