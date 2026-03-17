@@ -76,6 +76,35 @@ baseline-solution/
 
 ---
 
+## Per-Stage Validation Strategy
+
+To ensure clinical safety, each stage of the pipeline must be validated independently before data proceeds to the next step.
+
+### Stage 1 Validation: OCR Integrity
+- **Objective:** Confirm the text was read correctly and layout was preserved.
+- **Method:**
+    - **Visual Overlay:** Generate a PDF/Image overlay with OCR bounding boxes to ensure no text was skipped.
+    - **Sample CER/WER:** Compare OCR output of 2-3 sample proforma tables against manual transcriptions.
+- **Success Criteria:** Character Error Rate (CER) < 2% for core fields (NHS Number, Dates).
+
+### Stage 2 Validation: NER Semantic Accuracy
+- **Objective:** Confirm clinical entities were correctly identified and categorized.
+- **Method:**
+    - **Gold Standard JSON:** Create a manually labeled JSON for 5 cases (The "Gold Standard").
+    - **Entity Matching:** Run the NER model and compare its output JSON against the Gold Standard.
+    - **Precision/Recall/F1:** Calculate metrics specifically for high-risk entities like `STAGE (TNM)` and `DATE`.
+- **Success Criteria:** F1-score > 0.90 for core clinical identifiers.
+
+### Stage 3 Validation: Assembly & Schema Consistency
+- **Objective:** Confirm the final Excel matches the required clinical database format.
+- **Method:**
+    - **Schema Validation:** Ensure every JSON key maps correctly to one of the 88 target Excel columns.
+    - **Formatting Audit:** Verify that dates are in `DD/MM/YYYY` format and NHS Numbers are strings (not floats).
+    - **Prototype Alignment:** Run `validate_ocr_ner.py` to compare the final output against `data/hackathon-database-prototype.xlsx`.
+- **Success Criteria:** 100% column alignment and zero "inferred" data without a corresponding flag.
+
+---
+
 ## Engineering Constraints & Best Practices
 
 1.  **Local Execution:** Prioritize local models (MedSPaCy/Tesseract) over cloud APIs to ensure clinical data privacy.
