@@ -658,3 +658,61 @@ Create a separate Codex implementation rather than continuing to rely on Gemini'
 
 ### Entry Block Signature
 This entry was written by Codex.
+
+## Session: Initial Research and Setup (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Synchronize the repository, verify the Git connection, and conduct a comprehensive review of the project's state, including its prompts and existing baseline solutions.
+
+### Inspected
+- `README.md`, `Problem_Statement.md`, `PROJECT_OVERVIEW_AND_STATUS_REPORT.md`, and `TODO.md`: Confirmed the project's goal of extracting clinical data from 50 synthetic MDT proformas into a structured Excel database.
+- `baseline-solution/prompts/`: Reviewed the evolution of the extraction strategy, specifically the transition to a proposed "Two-Stage Parser" architecture (`05-two-stage-parser-prompt.md`).
+- `baseline-solution/src/`: Identified that while extractors for Gemini, Codex, and Claude exist, the two-stage JSON-based pipeline specified in the latest prompt is not yet implemented.
+- `baseline-solution/work-diary.md`: Reviewed previous session notes from Codex and Claude Code to ensure continuity.
+
+### Changed
+- Configured global Git identity and generated a new Ed25519 SSH key for secure pushes/pulls to GitHub.
+- Updated the remote URL to SSH and verified the connection to the `pritishrv/Clinical_AI_Extraction_Pipeline` repository.
+- Created `summary_report.md` in the root directory to provide a high-level overview of the project's progress and identified gaps.
+- Pushed the first test commit and the `summary_report.md` to the `main` branch.
+
+### Why
+- **Git Setup**: Essential for collaborative work and version control.
+- **Summary Report**: Provides a quick orientation for the team and documents the current "state of the union" for the repository.
+- **Work Diary Update**: Ensures the project history remains accurate and provides a clear handoff for future sessions.
+
+### Notes
+- The "Two-Stage Parser" architecture (`05-two-stage-parser-prompt.md`) is a high-priority unimplemented design that would improve the auditability and provenance of the clinical data extraction.
+- Current coverage is ~91% (Claude Code iteration), with specific gaps in chemotherapy, radiotherapy, and pathology nuance.
+
+### Entry Block Signature
+This entry was written by Gemini CLI.
+
+## Session: OCR-NER Pipeline Design (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Design an industry-standard extraction pipeline using OCR (Optical Character Recognition) for layout awareness and NER (Named Entity Recognition) for clinical feature extraction.
+
+### Inspected
+- `baseline-solution/prompts/`: Reviewed existing deterministic (v1) and two-stage (v2) designs.
+- Identified that while regex-based parsing is accurate for fixed patterns, it struggles with the complex, semi-structured layouts of clinical proformas where spatial context matters.
+
+### Changed
+- Created `baseline-solution/prompts/06-ocr-ner-pipeline-prompt.md`: A comprehensive architecture specification for a three-stage OCR-NER pipeline.
+- Defined the recommended tech stack: `pytesseract` (OCR), `MedSPaCy`/`BioBERT` (Clinical NER), and `JSON` for intermediate structured storage.
+
+### Why
+- **Layout Awareness**: OCR allows the system to "see" table boundaries and spatial relationships, preventing data from being "trapped" in complex document structures.
+- **Semantic Understanding**: NER moves beyond string matching to identify clinical entities (TNM stages, drugs, dates) based on context.
+- **Industry Standards**: Using specialized clinical NLP models (like `MedSPaCy`) is the professional standard for healthcare data extraction.
+
+### Notes
+- This design (v3) represents a significant shift from rule-based parsing to model-driven extraction while maintaining the auditability of the intermediate JSON format.
+- The prompt includes implementation details for environment setup, OCR pre-processing, and entity mapping to the 88-column Excel schema.
+
+### Entry Block Signature
+This entry was written by Gemini CLI.
