@@ -1,0 +1,40 @@
+{
+    "case_index": 12,
+    "table_rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "Colpnoscopy, biopsy, MRI"
+        }
+    ],
+    "context_paragraphs": [
+        "Colorectal Multidisciplinary Meeting 27/02/2024(i)"
+    ]
+}

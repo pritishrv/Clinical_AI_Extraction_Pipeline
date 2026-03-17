@@ -1,0 +1,40 @@
+{
+    "case_index": 39,
+    "table_rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "For right hemicolectomy"
+        }
+    ],
+    "context_paragraphs": [
+        "Colorectal Multidisciplinary Meeting 17/11/2024(i)"
+    ]
+}

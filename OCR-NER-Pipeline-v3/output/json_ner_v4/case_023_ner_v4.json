@@ -1,0 +1,13 @@
+{
+    "case_index": 23,
+    "entities": [
+        {
+            "text": "chemotherapy",
+            "label": "TREATMENT",
+            "start": 889,
+            "end": 901,
+            "negated": false
+        }
+    ],
+    "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy). | MDT Outcome(h) | For surgery || Colorectal Multidisciplinary Meeting 07/02/2024(i)"
+}

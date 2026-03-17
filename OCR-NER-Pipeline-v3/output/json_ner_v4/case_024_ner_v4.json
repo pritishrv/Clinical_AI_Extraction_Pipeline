@@ -1,0 +1,13 @@
+{
+    "case_index": 24,
+    "entities": [
+        {
+            "text": "CRT",
+            "label": "TREATMENT",
+            "start": 757,
+            "end": 760,
+            "negated": false
+        }
+    ],
+    "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive. | MDT Outcome(h) | For CRT || Colorectal Multidisciplinary Meeting 30/07/2024(i)"
+}

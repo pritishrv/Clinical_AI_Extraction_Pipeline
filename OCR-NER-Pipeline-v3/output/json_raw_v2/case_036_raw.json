@@ -1,0 +1,40 @@
+{
+    "case_index": 36,
+    "table_rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "For chemotherapy, surgical margin is unsafe"
+        }
+    ],
+    "context_paragraphs": [
+        "Colorectal Multidisciplinary Meeting 24/09/2024(i)"
+    ]
+}

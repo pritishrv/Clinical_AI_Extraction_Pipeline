@@ -1,0 +1,40 @@
+{
+    "case_index": 33,
+    "table_rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "Chemotherapy and review"
+        }
+    ],
+    "context_paragraphs": [
+        "Colorectal Multidisciplinary Meeting 23/04/2024(i)"
+    ]
+}

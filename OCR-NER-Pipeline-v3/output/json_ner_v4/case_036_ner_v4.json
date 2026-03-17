@@ -1,0 +1,20 @@
+{
+    "case_index": 36,
+    "entities": [
+        {
+            "text": "Colonoscopy",
+            "label": "PROCEDURE",
+            "start": 747,
+            "end": 758,
+            "negated": false
+        },
+        {
+            "text": "chemotherapy",
+            "label": "TREATMENT",
+            "start": 1130,
+            "end": 1142,
+            "negated": false
+        }
+    ],
+    "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0 | MDT Outcome(h) | For chemotherapy, surgical margin is unsafe || Colorectal Multidisciplinary Meeting 24/09/2024(i)"
+}

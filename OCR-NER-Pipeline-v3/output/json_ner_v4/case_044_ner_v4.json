@@ -1,0 +1,13 @@
+{
+    "case_index": 44,
+    "entities": [
+        {
+            "text": "Colonoscopy",
+            "label": "PROCEDURE",
+            "start": 760,
+            "end": 771,
+            "negated": false
+        }
+    ],
+    "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 | MDT Outcome(h) | Surgery || Colorectal Multidisciplinary Meeting 12/11/2024(i)"
+}

@@ -1,0 +1,20 @@
+{
+    "case_index": 40,
+    "entities": [
+        {
+            "text": "CRT",
+            "label": "TREATMENT",
+            "start": 955,
+            "end": 958,
+            "negated": false
+        },
+        {
+            "text": "colonoscopy",
+            "label": "PROCEDURE",
+            "start": 988,
+            "end": 999,
+            "negated": false
+        }
+    ],
+    "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion | MDT Outcome(h) | CRT\nCT adrenal study \nCompletion colonoscopy and tattoo || Colorectal Multidisciplinary Meeting 07/04/2024(i)"
+}
