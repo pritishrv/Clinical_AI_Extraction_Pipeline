@@ -1,0 +1,37 @@
+{
+    "case_index": 13,
+    "rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years | 62 DAY TARGET: 29/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "For MRI liver with contrast and PET-CT"
+        }
+    ]
+}

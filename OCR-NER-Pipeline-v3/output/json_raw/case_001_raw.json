@@ -1,0 +1,37 @@
+{
+    "case_index": 1,
+    "rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9990002(d)\nNHS Number: 9990000002(c)\nZIAD AL-FARSI(b)\nMale(e)\n30/03/1944 Age: 81 Years(a) | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Poorly differentiated | Staging: T3 N0 M0 \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Known prior lymphoma, treated \nNow fresh PR bleeding \nWeight loss\nReferral from haematology MDT with PET-CT avidity in rectum. \n\nCT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum \nPET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation. \n\nHaematology-oncology MDT 3/3/25: for discussion in the lower GI MDT \n\nLower-GI MDT 5/3/35 \u2013 for colonoscopy"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. \n\nMRI 4/3/25 \u2013 low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear"
+        }
+    ]
+}

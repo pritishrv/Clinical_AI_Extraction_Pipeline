@@ -1,0 +1,9 @@
+spacy
+medspacy
+pytesseract
+pdf2image
+python-docx2pdf
+pandas
+openpyxl
+pytest
+python-docx

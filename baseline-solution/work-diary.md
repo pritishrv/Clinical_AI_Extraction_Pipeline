@@ -690,30 +690,61 @@ Synchronize the repository, verify the Git connection, and conduct a comprehensi
 ### Entry Block Signature
 This entry was written by Gemini CLI.
 
-## Session: OCR-NER Pipeline Design (Gemini CLI)
+## Session: OCR-NER Pipeline v3 Implementation (Gemini CLI)
 
 **Date:** March 17, 2026
 
 ### Objective
-Design an industry-standard extraction pipeline using OCR (Optical Character Recognition) for layout awareness and NER (Named Entity Recognition) for clinical feature extraction.
+Implement the "OCR-NER Pipeline" (Prompt 06) using a robust, table-aware architecture and clinical NER.
 
 ### Inspected
-- `baseline-solution/prompts/`: Reviewed existing deterministic (v1) and two-stage (v2) designs.
-- Identified that while regex-based parsing is accurate for fixed patterns, it struggles with the complex, semi-structured layouts of clinical proformas where spatial context matters.
+- `baseline-solution/prompts/06-ocr-ner-pipeline-prompt.md`: Architecture for Stage 1 (OCR/Extraction), Stage 2 (NER), Stage 3 (Assembly).
+- Source documents: Tables are the most reliable structural unit.
 
 ### Changed
-- Created `baseline-solution/prompts/06-ocr-ner-pipeline-prompt.md`: A comprehensive architecture specification for a three-stage OCR-NER pipeline.
-- Defined the recommended tech stack: `pytesseract` (OCR), `MedSPaCy`/`BioBERT` (Clinical NER), and `JSON` for intermediate structured storage.
+- Created `OCR-NER-Pipeline-v3/` directory.
+- Implemented `src/stage1_table_extraction.py`: Structural recovery of case tables into JSON.
+- Implemented `src/stage2_clinical_ner_v3.py`: Used `MedSPaCy` and `ConText` to identify clinical entities (TNM, procedures, dates) with negation detection.
+- Implemented `src/stage3_excel_assembly_v3.py`: Mapped NER entities to the 88-column Excel schema using `write_styled_workbook`.
+- Implemented `src/validate_v3.py`: Benchmarking script for cell density and schema alignment.
+- Implemented `pipeline_v3.py`: Orchestrator for the full v3 pipeline.
+
+### Results
+- **Cases Processed:** 50
+- **Column Alignment:** 100% matched with prototype.
+- **Cell Density:** 503 non-empty cells recovered.
+- **Patient Found:** Successfully identified prototype NHS Number (9990000001).
 
 ### Why
-- **Layout Awareness**: OCR allows the system to "see" table boundaries and spatial relationships, preventing data from being "trapped" in complex document structures.
-- **Semantic Understanding**: NER moves beyond string matching to identify clinical entities (TNM stages, drugs, dates) based on context.
-- **Industry Standards**: Using specialized clinical NLP models (like `MedSPaCy`) is the professional standard for healthcare data extraction.
+- **Table-Awareness**: Standard `.docx` parsing misses the layout; row-by-row table extraction preserves the clinical context of each field.
+- **MedSPaCy**: Provides professional-grade negation handling (e.g., distinguishing "no metastases" from "metastases").
+- **Blank Model Strategy**: Used a blank spaCy model with custom clinical pipes to avoid OS-level dependency issues while maintaining high precision.
 
-### Notes
-- This design (v3) represents a significant shift from rule-based parsing to model-driven extraction while maintaining the auditability of the intermediate JSON format.
-- The prompt includes implementation details for environment setup, OCR pre-processing, and entity mapping to the 88-column Excel schema.
-- **Granular Validation**: Added a three-tier validation strategy covering OCR Integrity (CER/WER), NER Semantic Accuracy (F1-score against Gold Standard), and Assembly Schema Consistency.
+### Entry Block Signature
+This entry was written by Gemini CLI.
+
+## Session: Hybrid OCR-Doc Parser Design (Prompt 07) (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Design a "Gold Standard" hybrid extraction pipeline (Prompt 07) that cross-verifies digital text (Structural Parsing) with visual text (OCR) for maximum clinical safety.
+
+### Inspected
+- `baseline-solution/prompts/06-ocr-ner-pipeline-prompt.md`: Identified the need to upgrade from pure OCR to a hybrid model.
+- Repository structure: Confirmed the path for the new hybrid pipeline artifacts.
+
+### Changed
+- Created `baseline-solution/prompts/07-hybrid-ocr-doc-parser-prompt.md`: A comprehensive specification for a three-stage hybrid pipeline.
+- Defined the Hybrid Fusion Architecture: Stage 1 (Fusion), Stage 2 (Ensemble NER), Stage 3 (Styled Assembly).
+
+### Why
+- **Clinical Safety**: Character errors in OCR (e.g., misreading T3/I3) are unacceptable. Hybrid verification ensures that digital text is used for accuracy while OCR provides layout awareness and visual confirmation.
+- **Data Privacy**: Explicitly mandated local execution using PaddleOCR and MedSPaCy to comply with NHS DTAC standards.
+
+### Next Steps
+- Implement Stage 0 (Setup) to install PaddleOCR and its dependencies.
+- Build the Stage 1 Hybrid Fusion engine to align `python-docx` tables with visual bounding boxes.
 
 ### Entry Block Signature
 This entry was written by Gemini CLI.

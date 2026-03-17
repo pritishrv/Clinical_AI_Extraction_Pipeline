@@ -1,0 +1,37 @@
+{
+    "case_index": 19,
+    "rows": [
+        {
+            "row_index": 0,
+            "text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row_index": 1,
+            "text": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row_index": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row_index": 3,
+            "text": "Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row_index": 4,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row_index": 5,
+            "text": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0"
+        },
+        {
+            "row_index": 6,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row_index": 7,
+            "text": "For right hemicolectomy"
+        }
+    ]
+}
