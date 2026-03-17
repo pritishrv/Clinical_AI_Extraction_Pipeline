@@ -713,6 +713,7 @@ Design an industry-standard extraction pipeline using OCR (Optical Character Rec
 ### Notes
 - This design (v3) represents a significant shift from rule-based parsing to model-driven extraction while maintaining the auditability of the intermediate JSON format.
 - The prompt includes implementation details for environment setup, OCR pre-processing, and entity mapping to the 88-column Excel schema.
+- **Granular Validation**: Added a three-tier validation strategy covering OCR Integrity (CER/WER), NER Semantic Accuracy (F1-score against Gold Standard), and Assembly Schema Consistency.
 
 ### Entry Block Signature
 This entry was written by Gemini CLI.
