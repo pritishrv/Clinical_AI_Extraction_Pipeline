@@ -1,5 +1,13 @@
 {
     "case_index": 14,
-    "entities": [],
+    "entities": [
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 722,
+            "end": 725,
+            "negated": false
+        }
+    ],
     "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years | 62 DAY TARGET: 08/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive. | MDT Outcome(h) | Review ? Local excision \nNeeds CT || Colorectal Multidisciplinary Meeting(i)"
 }

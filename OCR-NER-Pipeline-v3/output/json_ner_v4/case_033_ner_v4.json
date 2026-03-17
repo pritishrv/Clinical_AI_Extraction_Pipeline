@@ -9,6 +9,13 @@
             "negated": false
         },
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 859,
+            "end": 862,
+            "negated": false
+        },
+        {
             "text": "Chemotherapy",
             "label": "TREATMENT",
             "start": 876,

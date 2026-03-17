@@ -2,17 +2,10 @@
     "case_index": 41,
     "entities": [
         {
-            "text": "polyp",
-            "label": "DIAGNOSIS",
-            "start": 395,
-            "end": 400,
-            "negated": false
-        },
-        {
-            "text": "Colonoscopy",
-            "label": "PROCEDURE",
-            "start": 708,
-            "end": 719,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 804,
+            "end": 807,
             "negated": false
         },
         {

@@ -2,6 +2,13 @@
     "case_index": 15,
     "entities": [
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 777,
+            "end": 780,
+            "negated": false
+        },
+        {
             "text": "CRT",
             "label": "TREATMENT",
             "start": 803,

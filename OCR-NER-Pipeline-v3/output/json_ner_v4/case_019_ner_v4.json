@@ -2,10 +2,10 @@
     "case_index": 19,
     "entities": [
         {
-            "text": "polyp",
-            "label": "DIAGNOSIS",
-            "start": 394,
-            "end": 399,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 797,
+            "end": 800,
             "negated": false
         },
         {

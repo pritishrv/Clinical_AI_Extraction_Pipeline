@@ -16,51 +16,63 @@ def setup_nlp():
     matcher = nlp.add_pipe("medspacy_target_matcher")
     
     rules = [
-        # Staging (Improved)
+        # --- STAGING ---
         TargetRule(r"\bT[0-4]([a-d]|sm\d)?\b", "T_STAGE"),
         TargetRule(r"\bN[0-3][a-c]?\b", "N_STAGE"),
         TargetRule(r"\bM[0-1][a-c]?\b", "M_STAGE"),
-        TargetRule(r"\bmrT[0-4]\b", "MR_T_STAGE"),
-        TargetRule(r"\bmrN[0-3]\b", "MR_N_STAGE"),
+        TargetRule(r"mrT[0-4][a-d]?", "MR_T_STAGE"),
+        TargetRule(r"mrN[0-3][a-c]?", "MR_N_STAGE"),
         TargetRule(r"EMVI\s*(positive|negative|clear|unsafe|\+|-)", "EMVI"),
         TargetRule(r"CRM\s*(clear|unsafe|threatened|involved|negative)", "CRM"),
         TargetRule(r"PSW\s*(clear|unsafe|\+|-)", "PSW"),
+        TargetRule(r"mrTRG\s*[1-5]", "TRG_SCORE"),
         
-        # Procedures & Imaging
-        TargetRule(r"colonoscopy", "PROCEDURE"),
-        TargetRule(r"flexi\s*sig", "PROCEDURE"),
-        TargetRule(r"sigmoidoscopy", "PROCEDURE"),
-        TargetRule(r"CT\s*TAP", "IMAGING"),
-        TargetRule(r"CT\s*abdomen", "IMAGING"),
-        TargetRule(r"CT\s*thorax", "IMAGING"),
-        TargetRule(r"MRI\s*rectum", "IMAGING"),
-        TargetRule(r"MRI\s*pelvis", "IMAGING"),
-        TargetRule(r"PET\s*CT", "IMAGING"),
-        
-        # Treatment
+        # --- CHEMOTHERAPY ---
         TargetRule(r"chemotherapy", "TREATMENT"),
+        TargetRule(r"FOLFOX", "CHEMO_DRUG"),
+        TargetRule(r"CAPOX", "CHEMO_DRUG"),
+        TargetRule(r"capecitabine", "CHEMO_DRUG"),
+        TargetRule(r"Oxaliplatin", "CHEMO_DRUG"),
+        TargetRule(r"5-FU", "CHEMO_DRUG"),
+        TargetRule(r"Iriontecan", "CHEMO_DRUG"),
+        TargetRule(r"cycle\s*\d+", "CHEMO_CYCLE"),
+        TargetRule(r"break", "CHEMO_BREAK"),
+        
+        # --- RADIOTHERAPY ---
         TargetRule(r"radiotherapy", "TREATMENT"),
+        TargetRule(r"RT", "TREATMENT"),
         TargetRule(r"CRT", "TREATMENT"),
-        TargetRule(r"FOLFOX", "CHEMO_AGENT"),
-        TargetRule(r"CAPOX", "CHEMO_AGENT"),
-        TargetRule(r"capecitabine", "CHEMO_AGENT"),
+        TargetRule(r"nCRT", "TREATMENT"),
+        TargetRule(r"\d+\s*Gy", "RT_DOSE"),
+        TargetRule(r"\d+\s*fractions", "RT_FRACTIONS"),
+        
+        # --- SURGERY ---
         TargetRule(r"resection", "SURGERY"),
         TargetRule(r"hemicolectomy", "SURGERY"),
+        TargetRule(r"anterior resection", "SURGERY"),
+        TargetRule(r"APR", "SURGERY"),
+        TargetRule(r"Hartmann's", "SURGERY"),
         TargetRule(r"surgery", "SURGERY"),
+        TargetRule(r"defunctioning", "SURGERY_DETAIL"),
+        TargetRule(r"stoma", "SURGERY_DETAIL"),
         
-        # Pathology
+        # --- PATHOLOGY ---
         TargetRule(r"Adenocarcinoma", "DIAGNOSIS"),
         TargetRule(r"carcinoma", "DIAGNOSIS"),
-        TargetRule(r"polyp", "DIAGNOSIS"),
+        TargetRule(r"Dukes\s*[A-D]", "DUKES"),
+        TargetRule(r"(well|moderately|poorly)\s+differentiated", "DIFFERENTIATION"),
         
-        # Identifiers
-        TargetRule(r"NHS\s*Number\s*[:\-\u2013]?\s*\d+", "NHS_NUMBER"),
-        TargetRule(r"Hospital\s*Number\s*[:\-\u2013]?\s*\d+", "MRN"),
-        TargetRule(r"DOB\s*[:\-\u2013]?\s*\d{1,2}[/\-\.]\d{1,2}[/\-\.]\d{2,4}", "DOB"),
+        # --- WATCH & WAIT ---
+        TargetRule(r"watch and wait", "W_AND_W"),
+        TargetRule(r"W&W", "W_AND_W"),
         
-        # MMR
-        TargetRule(r"MMR\s+deficient", "MMR_STATUS"),
-        TargetRule(r"MMR\s+proficient", "MMR_STATUS")
+        # --- CLINICAL MARKERS ---
+        TargetRule(r"62\s*DAY\s*TARGET", "TARGET_MARKER"),
+        TargetRule(r"31\s*DAY\s*TARGET", "TARGET_MARKER"),
+        TargetRule(r"CEA", "CEA_MARKER"),
+        TargetRule(r"MDT", "MDT_MARKER"),
+        TargetRule(r"curative", "INTENT"),
+        TargetRule(r"palliative", "INTENT")
     ]
     matcher.add(rules)
     nlp.add_pipe("medspacy_context")
@@ -88,7 +100,7 @@ def main():
     raw_files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".json")])
     for raw_file in raw_files:
         with open(INPUT_DIR / raw_file, "r") as f: case_data = json.load(f)
-        print(f"Processing NER v4 for {raw_file}...")
+        print(f"Processing NER v4 ULTRA for {raw_file}...")
         entities, full_text = extract_case_entities(nlp, case_data)
         processed_data = {"case_index": case_data["case_index"], "entities": entities, "full_text": full_text}
         output_file = OUTPUT_DIR / raw_file.replace("_raw.json", "_ner_v4.json")

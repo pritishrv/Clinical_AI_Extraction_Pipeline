@@ -9,10 +9,10 @@
             "negated": false
         },
         {
-            "text": "colonoscopy",
-            "label": "PROCEDURE",
-            "start": 729,
-            "end": 740,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 708,
+            "end": 711,
             "negated": true
         }
     ],

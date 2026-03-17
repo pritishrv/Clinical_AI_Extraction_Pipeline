@@ -23,6 +23,13 @@
             "negated": false
         },
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 820,
+            "end": 823,
+            "negated": false
+        },
+        {
             "text": "CRT",
             "label": "TREATMENT",
             "start": 854,

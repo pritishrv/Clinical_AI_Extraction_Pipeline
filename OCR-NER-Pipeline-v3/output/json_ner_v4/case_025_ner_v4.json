@@ -2,10 +2,10 @@
     "case_index": 25,
     "entities": [
         {
-            "text": "colonoscopy",
-            "label": "PROCEDURE",
-            "start": 802,
-            "end": 813,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 781,
+            "end": 784,
             "negated": false
         }
     ],

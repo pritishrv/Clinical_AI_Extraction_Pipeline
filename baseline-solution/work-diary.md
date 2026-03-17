@@ -802,3 +802,29 @@ Resolve remaining formatting issues (.0 suffixes, scientific notation) and optim
 
 ### Entry Block Signature
 This entry was written by Gemini CLI.
+
+## Session: Platinum Block Parser Design (Prompt 08) (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Design a "Platinum Standard" pipeline (Prompt 08) to break the 532-cell density plateau by implementing Timeline-Aware block segmentation and fuzzy key-value mapping.
+
+### Inspected
+- v4 Extraction Results: Identified that global parsing causes ambiguity between Baseline and Follow-up staging (e.g., multiple "T3" mentions).
+- 88-column Schema: Confirmed that many fields are "Long Tail" clinical markers that require semantic similarity rather than just string matching.
+
+### Changed
+- Created `baseline-solution/prompts/08-timeline-aware-block-parser-prompt.md`: A comprehensive specification for a zonal, fuzzy-mapped pipeline.
+- Defined the "Platinum Architecture": Stage 1 (Segmentation), Stage 2 (Fuzzy KV Mapping), Stage 3 (Clinical Inference).
+
+### Why
+- **Context Resolution**: Segmenting the document into chronological blocks (Referral, Baseline, Treatment, Follow-up) ensures that clinical entities are anchored to the correct event in the patient journey.
+- **Density Breakthrough**: Fuzzy key-value mapping allows the system to capture variations in clinical shorthand that fixed regex and generic NER miss.
+
+### Next Steps
+- Implement Stage 1 (Segmentation) to divide proformas into the four chronological zones.
+- Implement the local fuzzy mapper using `Sentence-Transformers` for high-precision field assignment.
+
+### Entry Block Signature
+This entry was written by Gemini CLI.

@@ -2,6 +2,13 @@
     "case_index": 28,
     "entities": [
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 782,
+            "end": 785,
+            "negated": false
+        },
+        {
             "text": "chemotherapy",
             "label": "TREATMENT",
             "start": 840,

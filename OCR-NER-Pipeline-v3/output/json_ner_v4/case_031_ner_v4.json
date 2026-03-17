@@ -2,6 +2,13 @@
     "case_index": 31,
     "entities": [
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 823,
+            "end": 826,
+            "negated": false
+        },
+        {
             "text": "surgery",
             "label": "SURGERY",
             "start": 844,

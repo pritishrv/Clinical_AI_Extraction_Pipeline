@@ -1,5 +1,13 @@
 {
     "case_index": 16,
-    "entities": [],
+    "entities": [
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 742,
+            "end": 745,
+            "negated": false
+        }
+    ],
     "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake. | MDT Outcome(h) | Needs MRI for local staging || Colorectal Multidisciplinary Meeting 20/10/2024(i)"
 }

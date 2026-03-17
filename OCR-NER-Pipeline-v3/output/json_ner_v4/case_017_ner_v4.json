@@ -7,6 +7,13 @@
             "start": 386,
             "end": 400,
             "negated": false
+        },
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 793,
+            "end": 796,
+            "negated": false
         }
     ],
     "full_text": "Patient Details | Cancer Target Dates | Hospital Number: 9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years | 62 DAY TARGET: 21/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. | Staging & Diagnosis(g) | Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake. | MDT Outcome(h) | PET\u2011CT and oncology consultation. || Colorectal Multidisciplinary Meeting 30/01/2024(i)"

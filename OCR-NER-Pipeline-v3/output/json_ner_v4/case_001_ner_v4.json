@@ -9,17 +9,38 @@
             "negated": false
         },
         {
-            "text": "colonoscopy",
-            "label": "PROCEDURE",
-            "start": 999,
-            "end": 1010,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 699,
+            "end": 702,
+            "negated": true
+        },
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 924,
+            "end": 927,
             "negated": false
         },
         {
-            "text": "Colonoscopy",
-            "label": "PROCEDURE",
-            "start": 1030,
-            "end": 1041,
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 967,
+            "end": 970,
+            "negated": false
+        },
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 982,
+            "end": 985,
+            "negated": false
+        },
+        {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 1013,
+            "end": 1016,
             "negated": false
         },
         {

@@ -9,17 +9,17 @@
             "negated": false
         },
         {
+            "text": "MDT",
+            "label": "MDT_MARKER",
+            "start": 938,
+            "end": 941,
+            "negated": false
+        },
+        {
             "text": "CRT",
             "label": "TREATMENT",
             "start": 955,
             "end": 958,
-            "negated": false
-        },
-        {
-            "text": "colonoscopy",
-            "label": "PROCEDURE",
-            "start": 988,
-            "end": 999,
             "negated": false
         }
     ],
