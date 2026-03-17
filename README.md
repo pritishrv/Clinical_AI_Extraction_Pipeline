@@ -61,3 +61,4 @@ This project was developed as part of the **Clinical AI Hackathon (March 2026)**
 
 ---
 *This project is a prototype designed to demonstrate the feasibility of AI-assisted clinical data structured. It uses 100% synthetic, anonymized data.*
+.
