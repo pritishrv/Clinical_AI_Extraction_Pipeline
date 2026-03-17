@@ -85,6 +85,33 @@ baseline-solution/
 
 ---
 
+## Validation and Benchmarking Strategy
+
+To ensure clinical safety and data integrity, the OCR-NER pipeline must be rigorously validated against the established "Gold Standard."
+
+### 1. OCR Accuracy (Data Integrity)
+- **Metric:** Character Error Rate (CER) and Word Error Rate (WER).
+- **Test:** Compare raw OCR output against a manual transcription of sample proforma segments (e.g., Demographics and Staging).
+- **Goal:** Minimize misreadings (e.g., "T3" as "I3") before semantic parsing begins.
+
+### 2. NER Performance (Clinical Precision)
+- **Precision:** Of all extracted clinical entities (TNM, dates, drugs), how many were correct? (Prevents hallucinations).
+- **Recall:** Of all the entities present in the source document, how many did the AI successfully extract? (Prevents data loss).
+- **F1-Score:** The harmonic mean of Precision and Recall, used as the primary quality metric for the NER model.
+
+### 3. End-to-End Cell-Level Accuracy
+- **Boolean Match:** Direct comparison of generated Excel cells against `data/hackathon-database-prototype.xlsx`.
+- **Fuzzy Match:** Use Levenshtein distance or cosine similarity for long-prose fields (e.g., MDT Outcomes) to measure semantic alignment.
+- **Density Check:** Compare total non-empty cell counts (Target: > 675 cells) to measure improvements in data recovery.
+
+### 4. Automated Validation Script
+Implement `src/validate_ocr_ner.py` to:
+1.  Align generated and prototype workbooks by NHS Number.
+2.  Calculate field-level deltas and generate a **Confusion Matrix** for clinical categories (e.g., misclassifying "Chemotherapy" as "Immunotherapy").
+3.  Flag any "High-Confidence Failures" where the AI was wrong but certain.
+
+---
+
 ## Implementation Order
 
 1.  **Environment Setup:** Install Tesseract, Spacy, and MedSPaCy.
