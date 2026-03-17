@@ -1,0 +1,45 @@
+Subject: Clinical AI Hackathon – 16-20 March 2026
+
+You are receiving this email because you expressed interest in taking part in the Clinical AI
+Hackathon in one or more of the following capacities: participant, mentor, judge, organiser.
+
+The Clinical AI Hackathon aims to tackle a real life problem in healthcare.
+
+We will be working with a synthetic dataset that reflects the semi-structured format of medical
+notes. With the help of AI, we will code solutions to present the data in a sequence, simulating
+a time-consuming process undertaken by real life clinicians.
+
+The problem statement can be found in the link below, please take a moment to read it and
+familiarise yourself with the problem we are trying to solve:
+
+https://github.com/dsikar/clinical-ai-hackathon/
+
+The better you understand the problem that we are trying to solve, the more likely you and your
+team are to come up with a winning solution.
+
+Dr Wale and Dr Nicholls, plus domain expert Hitesh Patel and synthetic dataset curator Ellie
+Hickey will be available to take your questions and explain success criteria Monday 16th, from
+10:00 online:
+
+Hackathon intro chat
+Mon 16/03/2026 10:00 - 10:30
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/37043891575225?p=OAaSEhT8PZcOsFp4Zs
+Meeting ID: 370 438 915 752 25
+Passcode: KR2Zk2XG
+
+Please take the time to add the Hackathon intro chat meeting to your calendar.
+
+We look forward to seeing you there, and thank you for your interest.
+
+Kind regards
+
+The Clinical AI Hackathon Organising Committee - Daniel, Ferheen, Isaac
+
+=========================================================
+
+Clinical AI Hackathon
+City St George's, University of London
+March 16-20 2026 Clerkenwell Campus
+
+[logo: docs/logo_asset_2.jpg at 50% width]
