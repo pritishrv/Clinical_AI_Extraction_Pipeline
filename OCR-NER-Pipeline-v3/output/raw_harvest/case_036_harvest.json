@@ -1,0 +1,345 @@
+{
+    "case_index": 36,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T4b"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T4b"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T4b"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Poorly"
+        },
+        {
+            "type": "kv",
+            "key": "Radiotherapy: Dates",
+            "value": "15/08/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990037"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990037"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000037"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Eljay Fraser"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "06/10/1947    Age: 79 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990037"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000037"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Eljay Fraser"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "06/10/1947    Age: 79 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/08/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Right\u2011sided colonic tumour"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Right\u2011sided colonic tumour"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C18.0"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons."
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Transverse colon",
+            "value": "T3 N1 EMVI negative,"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon",
+            "value": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons."
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Transverse colon",
+            "value": "T3 N1 EMVI negative,"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon",
+            "value": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons."
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Transverse colon",
+            "value": "T3 N1 EMVI negative,"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon",
+            "value": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "For chemotherapy, surgical margin is unsafe"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "15/08/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "06/10/1947"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "06/10/1947"
+        }
+    ]
+}

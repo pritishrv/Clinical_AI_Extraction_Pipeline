@@ -1,0 +1,19 @@
+{
+    "case_index": 29,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T1",
+        "Baseline CT: N(h)": "N0",
+        "Histology: Biopsy result(g)": "Rectal adenocarcinoma",
+        "Radiotherapy: Dates": "30/06/2024",
+        "Chemotherapy: Dates": "Hospital Number: 9990030",
+        "Demographics: \nNHS number(d)": "9990000030",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "12/05/1957     Age: 69 Years",
+        "2nd MRI: Date": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+        "MDT (after 6 week: Decision ": "Consider local excision with histology review at MDT.",
+        "1st MDT: date(i)": "15/04/2024",
+        "Baseline CT: Date(h)": "12/05/1957",
+        "Baseline MRI: date(h)": "12/05/1957",
+        "12 week MRI: Date": "15/04/2024"
+    }
+}

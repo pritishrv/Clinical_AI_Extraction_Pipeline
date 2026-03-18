@@ -1,0 +1,21 @@
+{
+    "case_index": 40,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T3c",
+        "Baseline CT: N(h)": "N1",
+        "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
+        "Radiotherapy: Dates": "18/01/2025",
+        "Chemotherapy: Dates": "Hospital Number: 9990041",
+        "Demographics: \nNHS number(d)": "9990000041",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "09/10/1970    Age: 56 Years",
+        "Flex sig: Fidnings ": "rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision",
+        "MDT (after 6 week: Decision ": "CRT",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "CRT",
+        "1st MDT: date(i)": "03/11/2024",
+        "Baseline CT: Date(h)": "09/10/1970",
+        "Baseline MRI: date(h)": "09/10/1970",
+        "2nd MRI: Date": "18/01/2025",
+        "12 week MRI: Date": "20/10/2024"
+    }
+}

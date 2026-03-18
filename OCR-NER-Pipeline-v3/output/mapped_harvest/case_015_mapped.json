@@ -1,0 +1,17 @@
+{
+    "case_index": 15,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T3d",
+        "Baseline CT: N(h)": "N0",
+        "Histology: Biopsy result(g)": "Suspicious rectosigmoid mass",
+        "Chemotherapy: Dates": "Hospital Number: 9999016",
+        "Demographics: \nNHS number(d)": "9998009016",
+        "Demographics: \nDOB(a)": "03/03/1984    Age: 42 Years",
+        "12 week MRI: Date": "T3d, N0, CRM threatened, EMVI negative.",
+        "MDT (after 6 week: Decision ": "For TNT, CRT first",
+        "1st MDT: date(i)": "13/01/2025",
+        "Baseline CT: Date(h)": "03/03/1984",
+        "Baseline MRI: date(h)": "03/03/1984",
+        "2nd MRI: Date": "13/01/2025"
+    }
+}

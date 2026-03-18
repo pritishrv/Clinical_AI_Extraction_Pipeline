@@ -1,0 +1,15 @@
+{
+    "case_index": 6,
+    "mapped_columns": {
+        "Histology: Biopsy result(g)": "Tubular adenoma with HGD",
+        "Chemotherapy: Dates": "Hospital Number: 9999007",
+        "Demographics: \nNHS number(d)": "9998009007",
+        "Demographics: \nDOB(a)": "27/12/1947   Age: 79 Years",
+        "MDT (after 6 week: Decision ": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+        "1st MDT: date(i)": "14/06/2024",
+        "Baseline CT: Date(h)": "27/12/1947",
+        "Baseline MRI: date(h)": "27/12/1947",
+        "2nd MRI: Date": "14/06/2024",
+        "12 week MRI: Date": "14/06/2024"
+    }
+}

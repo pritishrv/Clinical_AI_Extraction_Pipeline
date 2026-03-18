@@ -1,0 +1,17 @@
+{
+    "case_index": 14,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T1",
+        "Histology: Biopsy result(g)": "Right\u2011sided colonic tumour",
+        "Radiotherapy: Dates": "08/03/2025",
+        "Chemotherapy: Dates": "Hospital Number: 9999015",
+        "Demographics: \nNHS number(d)": "9998009015",
+        "Demographics: \nDOB(a)": "27/03/1972   Age: 54 Years",
+        "2nd MRI: Date": "T1 sm1, CRM involved, EMVI positive.",
+        "MDT (after 6 week: Decision ": "Review ? Local excision",
+        "1st MDT: date(i)": "01/12/2024",
+        "Baseline CT: Date(h)": "27/03/1972",
+        "Baseline MRI: date(h)": "27/03/1972",
+        "12 week MRI: Date": "01/12/2024"
+    }
+}

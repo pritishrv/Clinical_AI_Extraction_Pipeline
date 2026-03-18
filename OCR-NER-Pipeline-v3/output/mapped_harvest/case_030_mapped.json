@@ -1,0 +1,23 @@
+{
+    "case_index": 30,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T2",
+        "Baseline CT: N(h)": "N0",
+        "Baseline CT: M(h)": "M0",
+        "Histology: Biopsy result(g)": "Right\u2011sided colonic tumour",
+        "Surgery: Intent, pre-neoadjuvant therapy": "hemicolectomy",
+        "Radiotherapy: Dates": "13/02/2025",
+        "Chemotherapy: Dates": "Hospital Number: 9990031",
+        "Demographics: \nNHS number(d)": "9990000031",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "18/11/1953   Age: 73 Years",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "early annular cancer with abnormal pit pattern opposite ICV",
+        "MDT (after 6 week: Decision ": "For right hemicolectomy",
+        "Surgery: Defunctioned?": "For right hemicolectomy",
+        "1st MDT: date(i)": "06/12/2024",
+        "Baseline CT: Date(h)": "18/11/1953",
+        "Baseline MRI: date(h)": "18/11/1953",
+        "2nd MRI: Date": "13/02/2025",
+        "12 week MRI: Date": "06/12/2024"
+    }
+}

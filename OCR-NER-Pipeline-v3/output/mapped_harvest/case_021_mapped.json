@@ -1,0 +1,21 @@
+{
+    "case_index": 21,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T2",
+        "Baseline CT: N(h)": "N0",
+        "Baseline CT: M(h)": "M0",
+        "Histology: Biopsy result(g)": "Descending colon mass (indeterminate pathology)",
+        "Chemotherapy: Dates": "Hospital Number: 9990022",
+        "Demographics: \nNHS number(d)": "9990000022",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "20/05/1971    Age: 55 Years",
+        "MDT (after 6 week: Decision ": "For surgery",
+        "Surgery: Intent, pre-neoadjuvant therapy": "For surgery",
+        "Surgery: Defunctioned?": "For surgery",
+        "1st MDT: date(i)": "24/01/2025",
+        "Baseline CT: Date(h)": "20/05/1971",
+        "Baseline MRI: date(h)": "20/05/1971",
+        "2nd MRI: Date": "24/01/2025",
+        "12 week MRI: Date": "24/01/2025"
+    }
+}

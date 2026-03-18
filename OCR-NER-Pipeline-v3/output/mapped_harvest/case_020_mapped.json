@@ -1,0 +1,17 @@
+{
+    "case_index": 20,
+    "mapped_columns": {
+        "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
+        "Radiotherapy: Dates": "08/05/2025",
+        "Chemotherapy: Dates": "Hospital Number: 9990021",
+        "Demographics: \nNHS number(d)": "9990000021",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "02/02/1939   Age: 87 Years",
+        "Baseline CT: Date(h)": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+        "MDT (after 6 week: Decision ": "For consideration of FOXTROT.",
+        "1st MDT: date(i)": "07/02/2025",
+        "Baseline MRI: date(h)": "02/02/1939",
+        "2nd MRI: Date": "08/05/2025",
+        "12 week MRI: Date": "07/02/2025"
+    }
+}

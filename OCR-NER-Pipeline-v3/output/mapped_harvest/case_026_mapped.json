@@ -1,0 +1,20 @@
+{
+    "case_index": 26,
+    "mapped_columns": {
+        "Baseline CT: T(h)": "T2",
+        "Baseline CT: N(h)": "N1",
+        "Baseline CT: M(h)": "M0",
+        "Chemotherapy: Dates": "Hospital Number: 9990027",
+        "Demographics: \nNHS number(d)": "9990000027",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "22/11/1957    Age: 69 Years",
+        "Histology: Biopsy result(g)": "Ascending colon mass suspicious for malignancy",
+        "MDT (after 6 week: Decision ": "For colonoscopy",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
+        "1st MDT: date(i)": "27/03/2024",
+        "Baseline CT: Date(h)": "22/11/1957",
+        "Baseline MRI: date(h)": "22/11/1957",
+        "2nd MRI: Date": "27/03/2024",
+        "12 week MRI: Date": "27/03/2024"
+    }
+}

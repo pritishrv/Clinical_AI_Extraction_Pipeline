@@ -1,0 +1,255 @@
+{
+    "case_index": 11,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Well"
+        },
+        {
+            "type": "kv",
+            "key": "Radiotherapy: Dates",
+            "value": "19/07/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9999012"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999012"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009012"
+        },
+        {
+            "type": "kv",
+            "key": "Emmile Franklin",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "Male",
+            "value": "DOB: 22/10/1958  Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "22/10/1958  Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999012"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009012"
+        },
+        {
+            "type": "kv",
+            "key": "Emmile Franklin",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "Male",
+            "value": "DOB: 22/10/1958  Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "22/10/1958  Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "19/07/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Sigmoid adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Sigmoid adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "D12.6"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 11/05/2024",
+            "value": "T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE"
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 11/05/2024",
+            "value": "T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE"
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 11/05/2024",
+            "value": "T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "oncology consultation ? CRT and surgical review ? Straight to ELAPE"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "11/05/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "22/10/1958"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "22/10/1958"
+        },
+        {
+            "type": "kv",
+            "key": "2nd MRI: Date",
+            "value": "19/07/2024"
+        },
+        {
+            "type": "kv",
+            "key": "12 week MRI: Date",
+            "value": "11/05/2024"
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "case_index": 40,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3c"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Well"
+        },
+        {
+            "type": "kv",
+            "key": "Radiotherapy: Dates",
+            "value": "18/01/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990041"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990041"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000041"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Martin Johnson"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "09/10/1970    Age: 56 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990041"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000041"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Martin Johnson"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "09/10/1970    Age: 56 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "18/01/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Sigmoid adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Sigmoid adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C20"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Flexi sig 20/10/2024",
+            "value": "rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision"
+        },
+        {
+            "type": "kv",
+            "key": "MR rectum on 03/11/2024",
+            "value": "semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "no mets, incidental adrenal lesion"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Flexi sig 20/10/2024",
+            "value": "rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision"
+        },
+        {
+            "type": "kv",
+            "key": "MR rectum on 03/11/2024",
+            "value": "semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "no mets, incidental adrenal lesion"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Flexi sig 20/10/2024",
+            "value": "rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision"
+        },
+        {
+            "type": "kv",
+            "key": "MR rectum on 03/11/2024",
+            "value": "semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "no mets, incidental adrenal lesion"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "CRT"
+        },
+        {
+            "type": "kv",
+            "key": "CRT",
+            "value": "CT adrenal study"
+        },
+        {
+            "type": "kv",
+            "key": "CT adrenal study",
+            "value": "Completion colonoscopy and tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Completion colonoscopy and tattoo",
+            "value": "CRT"
+        },
+        {
+            "type": "kv",
+            "key": "CRT",
+            "value": "CT adrenal study"
+        },
+        {
+            "type": "kv",
+            "key": "CT adrenal study",
+            "value": "Completion colonoscopy and tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Completion colonoscopy and tattoo",
+            "value": "CRT"
+        },
+        {
+            "type": "kv",
+            "key": "CRT",
+            "value": "CT adrenal study"
+        },
+        {
+            "type": "kv",
+            "key": "CT adrenal study",
+            "value": "Completion colonoscopy and tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "03/11/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "09/10/1970"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "09/10/1970"
+        },
+        {
+            "type": "kv",
+            "key": "2nd MRI: Date",
+            "value": "18/01/2025"
+        },
+        {
+            "type": "kv",
+            "key": "12 week MRI: Date",
+            "value": "20/10/2024"
+        }
+    ]
+}
