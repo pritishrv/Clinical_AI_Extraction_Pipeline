@@ -1,0 +1,23 @@
+{
+    "Surgery: Defunctioned?": "Refer for colorectal surgical review.",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9998009006\nAva Clarke\nFemale",
+    "Demographics: \nDOB(a)": "18/08/1937",
+    "CEA: Date": "Please note",
+    "Demographics: \nGender(e)": "89 Years",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "15/01/2025",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Histology: Biopsy date(g)": "C18.7\nDifferentiation",
+    "CEA: Value": "Moderately differentiated",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Chemotherapy: Breaks": "MRI pelvis on 31/10/2024",
+    "2nd MRI: Date": "T1 sm2/3, N0, CRM clear, EMVI negative.",
+    "Baseline CT: EMVI(h)": "T1 sm2/3, N0, CRM clear, EMVI negative.",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Baseline CT: T(h)": "T1",
+    "Baseline CT: N(h)": "N0"
+}

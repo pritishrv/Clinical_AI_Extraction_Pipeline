@@ -1,0 +1,311 @@
+{
+    "case_index": 24,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990025\nNHS Number",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990025\nNHS Number",
+            "value": "9990000025",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000025",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Amelia Smith",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Amelia Smith\nGender",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "20/09/1957",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "20/09/1957",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "09/04/2024",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "09/04/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990025\nNHS Number",
+            "value": "9990025\nNHS Number",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000025",
+            "value": "9990000025",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Amelia Smith\nGender",
+            "value": "Amelia Smith\nGender",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "20/09/1957",
+            "value": "20/09/1957",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "09/04/2024",
+            "value": "09/04/2024",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Sigmoid adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Sigmoid adenocarcinoma\nICD10 Code",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Sigmoid adenocarcinoma\nICD10 Code",
+            "value": "Sigmoid adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.",
+            "value": "Imaging",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "MRI pelvis on 24/01/2024",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 24/01/2024",
+            "value": "T3b lesion, CRM clear, EMVI positive.",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.",
+            "value": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 24/01/2024",
+            "value": "MRI pelvis on 24/01/2024",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "T3b lesion, CRM clear, EMVI positive.",
+            "value": "T3b lesion, CRM clear, EMVI positive.",
+            "evidence": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For CRT",
+            "value": "For CRT",
+            "evidence": "For CRT"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3b",
+            "evidence": "T3b"
+        }
+    ]
+}

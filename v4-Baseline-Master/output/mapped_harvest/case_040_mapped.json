@@ -1,0 +1,29 @@
+{
+    "case_index": 40,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000041\nName",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "09/10/1970",
+        "Surgery: Date of surgery ": "semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI",
+        "MDT (after 6 week: Date": "18/01/2025",
+        "CEA: Date": "Please note",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "C20\nDifferentiation",
+        "CEA: Value": "Well differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "Flexi sig 20/10/2024",
+        "Flex sig: Fidnings ": "rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision",
+        "Baseline CT: EMVI(h)": "PSW",
+        "Baseline MRI: mrPSW(h)": "CT TAP",
+        "Baseline CT: T(h)": "T3c",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "no mets, incidental adrenal lesion",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Completion colonoscopy and tattoo",
+        "Baseline CT: N(h)": "N1"
+    }
+}

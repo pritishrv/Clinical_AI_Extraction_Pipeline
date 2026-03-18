@@ -1,0 +1,251 @@
+{
+    "case_index": 15,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999016\nNHS Number",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999016\nNHS Number",
+            "value": "9998009016\nLeo Hughes\nMale",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009016\nLeo Hughes\nMale\nDOB",
+            "value": "03/03/1984",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "03/03/1984",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "42 Years",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "42 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999016\nNHS Number",
+            "value": "9999016\nNHS Number",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009016\nLeo Hughes\nMale\nDOB",
+            "value": "9998009016\nLeo Hughes\nMale\nDOB",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "03/03/1984",
+            "value": "03/03/1984",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "42 Years",
+            "value": "42 Years",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Suspicious rectosigmoid mass\nICD10 Code",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Suspicious rectosigmoid mass\nICD10 Code",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Suspicious rectosigmoid mass\nICD10 Code",
+            "value": "Suspicious rectosigmoid mass\nICD10 Code",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer",
+            "value": "MRI pelvis on 13/01/2025",
+            "evidence": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 13/01/2025",
+            "value": "T3d, N0, CRM threatened, EMVI negative.",
+            "evidence": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer",
+            "value": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer",
+            "evidence": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 13/01/2025",
+            "value": "MRI pelvis on 13/01/2025",
+            "evidence": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "T3d, N0, CRM threatened, EMVI negative.",
+            "value": "T3d, N0, CRM threatened, EMVI negative.",
+            "evidence": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For TNT, CRT first",
+            "value": "For TNT, CRT first",
+            "evidence": "For TNT, CRT first"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3d",
+            "evidence": "T3d"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9998009017\nSophia Green\nFemale",
+    "Surgery: Date of surgery ": "Age",
+    "Demographics: \nGender(e)": "61 Years",
+    "MDT (after 6 week: Date": "62 DAY TARGET",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "CEA: Value": "Poorly differentiated",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT",
+    "Baseline CT: N(h)": "10/9/24\nPET\u2011CT on 14/09/2024",
+    "Baseline CT: Date(h)": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "12 week MRI: mrCRM": "Needs MRI for local staging"
+}

@@ -1,0 +1,323 @@
+{
+    "case_index": 39,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990040\nNHS Number",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990040\nNHS Number",
+            "value": "9990000040\nName",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000040\nName",
+            "value": "Sophia Jackson",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Sophia Jackson\nGender",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "08/08/1956",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "08/08/1956",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "70 Years",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "70 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/12/2024",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/12/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990040\nNHS Number",
+            "value": "9990040\nNHS Number",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000040\nName",
+            "value": "9990000040\nName",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Sophia Jackson\nGender",
+            "value": "Sophia Jackson\nGender",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "08/08/1956",
+            "value": "08/08/1956",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "70 Years",
+            "value": "70 Years",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/12/2024",
+            "value": "15/12/2024",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "C18.2\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.2\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.2\nDifferentiation",
+            "value": "C18.2\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Colonoscopy",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "polypoidal lesion in cecum",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "polypoidal lesion in cecum",
+            "value": "CT TAP",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "unable to identify primary tumour, no mets, Tx N0 M0",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.",
+            "value": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "polypoidal lesion in cecum",
+            "value": "polypoidal lesion in cecum",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "CT TAP",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "unable to identify primary tumour, no mets, Tx N0 M0",
+            "value": "unable to identify primary tumour, no mets, Tx N0 M0",
+            "evidence": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For right hemicolectomy",
+            "value": "For right hemicolectomy",
+            "evidence": "For right hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
+        }
+    ]
+}

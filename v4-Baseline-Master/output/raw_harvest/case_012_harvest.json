@@ -1,0 +1,269 @@
+{
+    "case_index": 12,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999013\nNHS Number",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999013\nNHS Number",
+            "value": "9998009013\nLeah Morris\nFemale",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009013\nLeah Morris\nFemale\nDOB",
+            "value": "28/04/1952",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "28/04/1952",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "74 Years",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "74 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/03/2025",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/03/2025",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999013\nNHS Number",
+            "value": "9999013\nNHS Number",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009013\nLeah Morris\nFemale\nDOB",
+            "value": "9998009013\nLeah Morris\nFemale\nDOB",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "28/04/1952",
+            "value": "28/04/1952",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "74 Years",
+            "value": "74 Years",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/03/2025",
+            "value": "15/03/2025",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code",
+            "value": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Known breast cancer, had PET",
+            "value": "CT which also showed (29/12/2024)",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "CT which also showed (29/12/2024)",
+            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "value": "Breast cancer being treated with curative intent",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "Known breast cancer, had PET",
+            "value": "Known breast cancer, had PET",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "CT which also showed (29/12/2024)",
+            "value": "CT which also showed (29/12/2024)",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "Breast cancer being treated with curative intent",
+            "value": "Breast cancer being treated with curative intent",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Colpnoscopy, biopsy, MRI",
+            "value": "Colpnoscopy, biopsy, MRI",
+            "evidence": "Colpnoscopy, biopsy, MRI"
+        }
+    ]
+}

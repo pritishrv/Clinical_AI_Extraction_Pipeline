@@ -1,0 +1,23 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000021\nName",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "02/02/1939",
+    "1st MDT: date(i)": "Age",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "08/05/2025",
+    "CEA: Date": "Please note",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Demographics: \nState site of previous cancer(f)": "C18.2\nDifferentiation",
+    "CEA: Value": "Well differentiated",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Baseline CT: N(h)": "Imaging",
+    "2nd MRI: mrN": "CT on 07/02/2025",
+    "Baseline CT: Date(h)": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Radiotheapy: Boost": "For consideration of FOXTROT."
+}

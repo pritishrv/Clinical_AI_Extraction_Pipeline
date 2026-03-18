@@ -1,0 +1,27 @@
+{
+    "case_index": 9,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9998009010\nFreya Hall\nFemale",
+        "Demographics: \nDOB(a)": "20/06/1941",
+        "1st MDT: date(i)": "Age",
+        "Demographics: \nGender(e)": "85 Years",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "19/11/2024",
+        "CEA: Date": "Please note",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "D12.6\nDifferentiation",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrPSW": "MRI pelvis on 14/08/2024",
+        "12 week MRI: Date": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+        "Baseline CT: EMVI(h)": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "12 week MRI: mrT": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+        "Baseline CT: T(h)": "T3b",
+        "Baseline CT: N(h)": "N1"
+    }
+}

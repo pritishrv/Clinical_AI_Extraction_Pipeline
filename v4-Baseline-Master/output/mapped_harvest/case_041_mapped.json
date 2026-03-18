@@ -1,0 +1,25 @@
+{
+    "case_index": 41,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Surgery",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000042\nName",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "13/07/1958",
+        "CEA: Date": "Age",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Histology: Biopsy result(g)": "Tx N0 M0 EMVI",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "C18.2\nDifferentiation",
+        "CEA: Value": "Well differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "Colonoscopy",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "polypoidal lesion in sigmoid colon\nCT",
+        "Baseline CT: EMVI(h)": "Tx N0 M0 EMVI",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: N(h)": "N0"
+    }
+}

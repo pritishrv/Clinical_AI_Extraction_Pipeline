@@ -1,0 +1,305 @@
+{
+    "case_index": 33,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990034\nNHS Number",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990034\nNHS Number",
+            "value": "9990000034\nName",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000034\nName",
+            "value": "Saskia Johnson",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Saskia Johnson\nGender",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "22/07/1976",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "22/07/1976",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "50 Years",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "50 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "06/05/2024",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/05/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990034\nNHS Number",
+            "value": "9990034\nNHS Number",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000034\nName",
+            "value": "9990000034\nName",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Saskia Johnson\nGender",
+            "value": "Saskia Johnson\nGender",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "22/07/1976",
+            "value": "22/07/1976",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "50 Years",
+            "value": "50 Years",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/05/2024",
+            "value": "06/05/2024",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "D12.8\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.8\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.8\nDifferentiation",
+            "value": "D12.8\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+            "value": "Imaging",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT TAP on 13/02/2024",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP on 13/02/2024",
+            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+            "value": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP on 13/02/2024",
+            "value": "CT TAP on 13/02/2024",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "evidence": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Chemotherapy and review",
+            "value": "Chemotherapy and review",
+            "evidence": "Chemotherapy and review"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3",
+            "evidence": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c",
+            "evidence": "N1c"
+        }
+    ]
+}

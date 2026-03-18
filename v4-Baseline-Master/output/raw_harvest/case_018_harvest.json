@@ -1,0 +1,317 @@
+{
+    "case_index": 18,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990019\nNHS Number",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990019\nNHS Number",
+            "value": "9990000019\nName",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000019\nName",
+            "value": "Lauren Fraser",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Lauren Fraser\nGender",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "17/05/1940",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/05/1940",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "86 Years",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "86 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "01/04/2024",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "01/04/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990019\nNHS Number",
+            "value": "9990019\nNHS Number",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000019\nName",
+            "value": "9990000019\nName",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Lauren Fraser\nGender",
+            "value": "Lauren Fraser\nGender",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/05/1940",
+            "value": "17/05/1940",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "86 Years",
+            "value": "86 Years",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "01/04/2024",
+            "value": "01/04/2024",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+            "value": "Imaging",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT abdomen on 02/01/2024",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 02/01/2024",
+            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1",
+            "value": "liver",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+            "value": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 02/01/2024",
+            "value": "CT abdomen on 02/01/2024",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1",
+            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "liver",
+            "value": "liver",
+            "evidence": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For chemotherapy and review",
+            "value": "For chemotherapy and review",
+            "evidence": "For chemotherapy and review"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3",
+            "evidence": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
+        }
+    ]
+}

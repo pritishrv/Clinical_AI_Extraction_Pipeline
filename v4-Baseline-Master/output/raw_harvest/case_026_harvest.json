@@ -1,0 +1,281 @@
+{
+    "case_index": 26,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990027\nNHS Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990027\nNHS Number",
+            "value": "9990000027",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000027",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Mia Edwards",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Mia Edwards\nGender",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "22/11/1957",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "22/11/1957",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990027\nNHS Number",
+            "value": "9990027\nNHS Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000027",
+            "value": "9990000027",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Mia Edwards\nGender",
+            "value": "Mia Edwards\nGender",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "22/11/1957",
+            "value": "22/11/1957",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "value": "Imaging",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT colonography on 27/03/2024",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT colonography on 27/03/2024",
+            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "value": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT colonography on 27/03/2024",
+            "value": "CT colonography on 27/03/2024",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For colonoscopy",
+            "value": "For colonoscopy",
+            "evidence": "For colonoscopy"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1",
+            "evidence": "N1"
+        }
+    ]
+}

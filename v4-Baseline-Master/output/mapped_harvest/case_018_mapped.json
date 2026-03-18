@@ -1,0 +1,28 @@
+{
+    "case_index": 18,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000019\nName",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "17/05/1940",
+        "Immunotherapy: Dates": "Age",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "01/04/2024",
+        "CEA: Date": "Please note",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "D12.6\nDifferentiation",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "CT abdomen on 02/01/2024",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1",
+        "Surgery: Intent, pre-neoadjuvant therapy": "liver",
+        "Chemotherapy: Drugs": "For chemotherapy and review",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: T(h)": "T3",
+        "Baseline CT: N(h)": "N0"
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "case_index": 6,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999007\nNHS Number",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999007\nNHS Number",
+            "value": "9998009007\nMason Barker\nMale",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009007\nMason Barker\nMale\nDOB",
+            "value": "27/12/1947",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "27/12/1947",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "79 Years",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "79 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999007\nNHS Number",
+            "value": "9999007\nNHS Number",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009007\nMason Barker\nMale\nDOB",
+            "value": "9998009007\nMason Barker\nMale\nDOB",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "27/12/1947",
+            "value": "27/12/1947",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "79 Years",
+            "value": "79 Years",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Tubular adenoma with HGD\nICD10 Code",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Tubular adenoma with HGD\nICD10 Code",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Tubular adenoma with HGD\nICD10 Code",
+            "value": "Tubular adenoma with HGD\nICD10 Code",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.",
+            "value": "CT TAP on 14/06/2024",
+            "evidence": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases."
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP on 14/06/2024",
+            "value": "upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "evidence": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases."
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.",
+            "value": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.",
+            "evidence": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases."
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP on 14/06/2024",
+            "value": "CT TAP on 14/06/2024",
+            "evidence": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases."
+        },
+        {
+            "type": "kv",
+            "key": "upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "value": "upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "evidence": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "value": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "evidence": "Schedule colonoscopy + tattooing, plus MRI rectum."
+        }
+    ]
+}

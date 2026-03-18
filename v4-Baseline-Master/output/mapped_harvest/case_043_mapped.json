@@ -1,0 +1,25 @@
+{
+    "case_index": 43,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "CEA: Date": "Please note",
+        "Demographics: \nGender(e)": "Female",
+        "Demographics: \nDOB(a)": "06/05/1971",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "18/01/2025",
+        "Demographics: \nNHS number(d)": "NHS Number",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "D12.8\nDifferentiation",
+        "CEA: DRE date ": "Poorly differentiated",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Imaging",
+        "2nd MRI: mrN": "CT",
+        "Baseline CT: N(h)": "fullness at low rectum, no distant disease.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "2nd MRI: Patient pathway status": "For MRI rectum and colonoscopy"
+    }
+}

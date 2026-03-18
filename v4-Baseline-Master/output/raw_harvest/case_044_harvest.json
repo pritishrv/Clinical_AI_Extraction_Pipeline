@@ -1,0 +1,317 @@
+{
+    "case_index": 44,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990045\nNHS Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990045\nNHS Number",
+            "value": "9990000045\nName",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000045\nName",
+            "value": "Geo Wilson",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Geo Wilson\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "16/11/1982",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "16/11/1982",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "44 Years",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "44 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "23/08/2024",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "23/08/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990045\nNHS Number",
+            "value": "9990045\nNHS Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000045\nName",
+            "value": "9990000045\nName",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Geo Wilson\nGender",
+            "value": "Geo Wilson\nGender",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "16/11/1982",
+            "value": "16/11/1982",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "44 Years",
+            "value": "44 Years",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "23/08/2024",
+            "value": "23/08/2024",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "C18.4\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.4\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.4\nDifferentiation",
+            "value": "C18.4\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "value": "Imaging",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "tumour at 18 cm, biopsied\nCT TAP",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "tumour at 18 cm, biopsied\nCT TAP",
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "value": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "tumour at 18 cm, biopsied\nCT TAP",
+            "value": "tumour at 18 cm, biopsied\nCT TAP",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Surgery",
+            "value": "Surgery",
+            "evidence": "Surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N2",
+            "evidence": "N2"
+        }
+    ]
+}

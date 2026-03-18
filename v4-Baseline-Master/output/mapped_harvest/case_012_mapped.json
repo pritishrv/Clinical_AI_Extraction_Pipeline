@@ -1,0 +1,22 @@
+{
+    "case_index": 12,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9998009013\nLeah Morris\nFemale",
+        "CEA: Date": "Please note",
+        "Demographics: \nGender(e)": "74 Years",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "15/03/2025",
+        "Histology: Biopsy result(g)": "Colpnoscopy, biopsy, MRI",
+        "Histology: \nMMR status(g/h)": "D12.6\nDifferentiation",
+        "Demographics: \nDOB(a)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Demographics: \nState site of previous cancer(f)": "CT which also showed (29/12/2024)",
+        "Baseline CT: Date(h)": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+        "Chemotherapy: Treatment goals  \n(curative, palliative)": "Breast cancer being treated with curative intent",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "case_index": 1,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000002(c)\nZIAD AL",
+        "Demographics: Initials(b)": "81 Years(a)",
+        "MDT (after 6 week: Date": "for colonoscopy",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "CEA: DRE finding": "10",
+        "CEA: Value": "Malignant neoplasm of rectum",
+        "Watch and wait: Site of \nprogression": "T3 N0 M0",
+        "Demographics: MRN(c)": "Integrated TNM Stage",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Surgery: Intent, pre-neoadjuvant therapy": "Now fresh PR bleeding",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Weight loss\nReferral from haematology MDT with PET",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "CT avidity in rectum.",
+        "Baseline CT: EMVI(h)": "CT 22/2/2025",
+        "Baseline CT: Date(h)": "no lymphadenopathy. New semi",
+        "Immunotherapy": "annular thickening in rectum",
+        "Chemotherapy: Drugs": "CT 1/3/25",
+        "Baseline CT: T(h)": "T3",
+        "Histology: \nMMR status(g/h)": "oncology MDT 3/3/25",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: N(h)": "N0",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
+        "2nd MRI: Date": "low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear"
+    }
+}

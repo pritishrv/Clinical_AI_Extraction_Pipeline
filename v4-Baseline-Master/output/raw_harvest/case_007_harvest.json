@@ -1,0 +1,269 @@
+{
+    "case_index": 7,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999008\nNHS Number",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999008\nNHS Number",
+            "value": "9998009008\nFreida Smale\nFemale",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009008\nFreida Smale\nFemale\nDOB",
+            "value": "08/08/1951",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "08/08/1951",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "75 Years",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "75 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "21/10/2024",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "21/10/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999008\nNHS Number",
+            "value": "9999008\nNHS Number",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009008\nFreida Smale\nFemale\nDOB",
+            "value": "9998009008\nFreida Smale\nFemale\nDOB",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "08/08/1951",
+            "value": "08/08/1951",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "75 Years",
+            "value": "75 Years",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "21/10/2024",
+            "value": "21/10/2024",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "C18.7\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.7\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.7\nDifferentiation",
+            "value": "C18.7\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.",
+            "value": "MRI pelvis on 30/07/2024",
+            "evidence": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 30/07/2024",
+            "value": "T3a, N1c , CRM clear, EMVI positive.",
+            "evidence": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.",
+            "value": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.",
+            "evidence": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 30/07/2024",
+            "value": "MRI pelvis on 30/07/2024",
+            "evidence": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "T3a, N1c , CRM clear, EMVI positive.",
+            "value": "T3a, N1c , CRM clear, EMVI positive.",
+            "evidence": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "value": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "evidence": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3a",
+            "evidence": "T3a"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c",
+            "evidence": "N1c"
+        }
+    ]
+}

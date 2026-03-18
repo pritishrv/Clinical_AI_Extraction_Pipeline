@@ -1,0 +1,23 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000033\nName",
+    "CEA: Date": "Age",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "15/11/1967",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "62 DAY TARGET",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "CEA: Value": "Poorly differentiated",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "12 week MRI: Date": "Imaging",
+    "2nd MRI: mrN": "CT colonography on 25/03/2024",
+    "Baseline CT: Date(h)": "large polypoid lesion in descending colon. T2 N0 M0",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy, tattoo, left hemicolectomy",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N0"
+}

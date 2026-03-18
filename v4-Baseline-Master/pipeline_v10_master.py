@@ -3,9 +3,13 @@ import sys
 import os
 from pathlib import Path
 
+# Configuration
+PROJECT_ROOT = Path("/Users/joshuabhawanlall/Git Folder/Clinical_AI_Extraction_Pipeline")
+SRC_DIR = PROJECT_ROOT / "v4-Baseline-Master/src"
+
 def run_stage(script_name):
     print(f"\n>>> Running {script_name}...")
-    script_path = Path(f"Git Folder/Clinical_AI_Extraction_Pipeline/OCR-NER-Pipeline-v3/src/{script_name}")
+    script_path = SRC_DIR / script_name
     try:
         subprocess.check_call([sys.executable, str(script_path)])
         print(f">>> {script_name} completed successfully.")
@@ -15,7 +19,7 @@ def run_stage(script_name):
     return True
 
 def main():
-    print("=== Clinical AI v7 Diamond Longitudinal Orchestrator ===")
+    print("=== Clinical AI v4 Precision Master Orchestrator ===")
     
     stages = [
         "stage1_exhaustive_harvester.py",
@@ -29,8 +33,8 @@ def main():
             print("\n!!! Pipeline aborted due to stage failure. !!!")
             sys.exit(1)
             
-    print("\n=== v7 Diamond Pipeline Execution Complete ===")
-    print("Final Diamond Database: OCR-NER-Pipeline-v3/output/generated-database-v7-diamond.xlsx")
+    print("\n=== v4 Precision Pipeline Execution Complete ===")
+    print("Final Precision Database: v4-Baseline-Master/output/v4-master-baseline-1130.xlsx")
 
 if __name__ == "__main__":
     main()

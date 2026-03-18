@@ -1,0 +1,23 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000032\nName",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "14/02/1967",
+    "CEA: Date": "Age",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "62 DAY TARGET",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "CEA: DRE date ": "Moderately differentiated",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "12 week MRI: Date": "Imaging",
+    "2nd MRI: mrN": "CT TAP on 29/04/2024",
+    "Baseline CT: Date(h)": "transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Chemotherapy: Drugs": "For surgery (unsuitable for chemotherapy)",
+    "Baseline CT: T(h)": "T3",
+    "Baseline CT: N(h)": "N1"
+}

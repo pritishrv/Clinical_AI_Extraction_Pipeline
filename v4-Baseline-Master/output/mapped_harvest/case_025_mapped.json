@@ -1,0 +1,22 @@
+{
+    "case_index": 25,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000026\nName",
+        "Demographics: Initials(b)": "Male",
+        "Demographics: \nDOB(a)": "24/04/1955",
+        "Surgery: Date of surgery ": "Age",
+        "Demographics: \nGender(e)": "71 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy, need tissue",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "CT abdomen on 23/07/2024",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "mural thickening at descending colon, inflammatory vs neoplastic.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

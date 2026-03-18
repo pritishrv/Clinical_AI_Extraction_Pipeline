@@ -1,0 +1,26 @@
+{
+    "case_index": 23,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "For surgery",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000024\nName",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "06/01/1963",
+        "Surgery: Date of surgery ": "Age",
+        "MDT (after 6 week: Date": "13/03/2025",
+        "CEA: Date": "Please note",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "C19\nDifferentiation",
+        "CEA: Value": "Moderately differentiated",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrCRM": "Imaging",
+        "2nd MRI: mrN": "CT abdomen on 03/01/2025",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy).",
+        "Baseline CT: N(h)": "N0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: T(h)": "T3"
+    }
+}

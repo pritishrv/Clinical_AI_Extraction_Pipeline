@@ -1,0 +1,21 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000049\nName",
+    "Demographics: MRN(c)": "Emilia Taylor",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "03/01/1978",
+    "CEA: Date": "Age",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "62 DAY TARGET",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
+    "Baseline CT: EMVI(h)": "large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N0"
+}

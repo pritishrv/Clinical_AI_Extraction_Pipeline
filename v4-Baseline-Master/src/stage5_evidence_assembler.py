@@ -7,13 +7,12 @@ from openpyxl.comments import Comment
 
 # Configuration
 PROJECT_ROOT = Path("/Users/joshuabhawanlall/Git Folder/Clinical_AI_Extraction_Pipeline")
-MERGED_DIR = PROJECT_ROOT / "OCR-NER-Pipeline-v3/output/longitudinal_merged"
-HARVEST_DIR = PROJECT_ROOT / "OCR-NER-Pipeline-v3/output/raw_harvest"
+MERGED_DIR = PROJECT_ROOT / "v4-Baseline-Master/output/longitudinal_merged"
+HARVEST_DIR = PROJECT_ROOT / "v4-Baseline-Master/output/raw_harvest"
 PROTOTYPE_WORKBOOK = PROJECT_ROOT / "data/hackathon-database-prototype.xlsx"
-OUTPUT_WORKBOOK = PROJECT_ROOT / "OCR-NER-Pipeline-v3/output/generated-database-v7-diamond.xlsx"
+OUTPUT_WORKBOOK = PROJECT_ROOT / "v4-Baseline-Master/output/v4-master-baseline-1130.xlsx"
 
 def find_evidence(value):
-    # Search all harvest files for this value's evidence
     for f in os.listdir(HARVEST_DIR):
         with open(HARVEST_DIR / f) as j:
             h = json.load(j)
@@ -38,7 +37,7 @@ def main():
     ws = wb.active
     if ws.max_row >= 2: ws.delete_rows(2, ws.max_row)
 
-    print("Assembling Diamond V1 with Evidence Comments...")
+    print("Assembling v4 Precision Database...")
     for r_idx, (_, row) in enumerate(df.iterrows(), start=2):
         for c_idx, value in enumerate(row.tolist(), start=1):
             cell = ws.cell(row=r_idx, column=c_idx)
@@ -47,7 +46,6 @@ def main():
             
             if val_str:
                 cell.value = val_str
-                # Evidence
                 evidence = find_evidence(val_str)
                 cell.comment = Comment(f"AI Evidence:\n{evidence}", "Gemini CLI")
             
@@ -55,7 +53,7 @@ def main():
             cell.data_type = 's'
             
     wb.save(OUTPUT_WORKBOOK)
-    print(f"Diamond V1 Assembly Complete.")
+    print(f"v4 Precision Assembly complete. Output: {OUTPUT_WORKBOOK}")
 
 if __name__ == "__main__":
     main()

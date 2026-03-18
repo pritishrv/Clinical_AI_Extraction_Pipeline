@@ -1,0 +1,299 @@
+{
+    "case_index": 28,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990029\nNHS Number",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990029\nNHS Number",
+            "value": "9990000029\nName",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000029\nName",
+            "value": "Lucien Bronte",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Lucien Bronte\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "14/09/1953",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "14/09/1953",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "73 Years",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "73 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990029\nNHS Number",
+            "value": "9990029\nNHS Number",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000029\nName",
+            "value": "9990000029\nName",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Lucien Bronte\nGender",
+            "value": "Lucien Bronte\nGender",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "14/09/1953",
+            "value": "14/09/1953",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "73 Years",
+            "value": "73 Years",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.",
+            "value": "Imaging",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT abdomen on 07/12/2024",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 07/12/2024",
+            "value": "mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.",
+            "value": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 07/12/2024",
+            "value": "CT abdomen on 07/12/2024",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+            "value": "mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+            "evidence": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Needs CT thorax to complete staging",
+            "value": "For chemotherapy downstaging and then surgery",
+            "evidence": "Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Needs CT thorax to complete staging",
+            "value": "Needs CT thorax to complete staging",
+            "evidence": "Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery"
+        },
+        {
+            "type": "kv",
+            "key": "For chemotherapy downstaging and then surgery",
+            "value": "For chemotherapy downstaging and then surgery",
+            "evidence": "Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3",
+            "evidence": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c",
+            "evidence": "N1c"
+        }
+    ]
+}

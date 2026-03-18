@@ -1,0 +1,245 @@
+{
+    "case_index": 16,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999017\nNHS Number",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999017\nNHS Number",
+            "value": "9998009017\nSophia Green\nFemale",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009017\nSophia Green\nFemale\nDOB",
+            "value": "25/07/1965",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/07/1965",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "61 Years",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "61 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999017\nNHS Number",
+            "value": "9999017\nNHS Number",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009017\nSophia Green\nFemale\nDOB",
+            "value": "9998009017\nSophia Green\nFemale\nDOB",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/07/1965",
+            "value": "25/07/1965",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "61 Years",
+            "value": "61 Years",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Tubular adenoma with HGD\nICD10 Code",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Tubular adenoma with HGD\nICD10 Code",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Tubular adenoma with HGD\nICD10 Code",
+            "value": "Tubular adenoma with HGD\nICD10 Code",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.",
+            "value": "CT",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "CT",
+            "value": "10/9/24\nPET\u2011CT on 14/09/2024",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "10/9/24\nPET\u2011CT on 14/09/2024",
+            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.",
+            "value": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "10/9/24\nPET\u2011CT on 14/09/2024",
+            "value": "10/9/24\nPET\u2011CT on 14/09/2024",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Needs MRI for local staging",
+            "value": "Needs MRI for local staging",
+            "evidence": "Needs MRI for local staging"
+        }
+    ]
+}

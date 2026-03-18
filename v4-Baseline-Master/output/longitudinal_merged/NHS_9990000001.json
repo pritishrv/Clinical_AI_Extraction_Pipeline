@@ -1,0 +1,21 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age",
+    "CEA: Value": "Malignant neoplasm of rectum",
+    "MDT (after 6 week: Date": "20/05/2025",
+    "CEA: Date": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "CEA: DRE finding": "10",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Baseline CT: T(h)": "CT 29/02/2025",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Histo",
+    "2nd MRI: Patient pathway status": "Discuss imaging, staging and path",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Colonoscopy noted",
+    "Histology: \nMMR status(g/h)": "Outcome",
+    "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+}

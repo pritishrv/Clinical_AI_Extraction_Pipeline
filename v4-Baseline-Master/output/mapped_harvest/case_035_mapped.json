@@ -1,0 +1,28 @@
+{
+    "case_index": 35,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Left hemicolectomy, needs completion CT thorax",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000036\nName",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "04/07/1981",
+        "Flex sig: Date": "Age",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "C19\nDifferentiation",
+        "CEA: Value": "Moderately differentiated",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "Colonoscopy 01/01/2024",
+        "Endoscopy: date(f)": "Large sessile polyp at descending colon with abnormal pit pattern",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "CT abdomen on 07/01/2024",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "polyp at descending colon, T2 N1 M0",
+        "Baseline CT: N(h)": "N1",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: T(h)": "T2"
+    }
+}

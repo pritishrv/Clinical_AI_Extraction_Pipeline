@@ -1,0 +1,26 @@
+{
+    "case_index": 7,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "Cancer Target Dates",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9998009008\nFreida Smale\nFemale",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "75 Years",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "21/10/2024",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "C18.7\nDifferentiation",
+        "CEA: Value": "Moderately differentiated",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "MRI pelvis on 30/07/2024",
+        "2nd MRI: Date": "T3a, N1c , CRM clear, EMVI positive.",
+        "Baseline CT: EMVI(h)": "T3a, N1c , CRM clear, EMVI positive.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "12 week MRI: mrT": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+        "Baseline CT: T(h)": "T3a",
+        "Baseline CT: N(h)": "N1c"
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "case_index": 10,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999011\nNHS Number",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999011\nNHS Number",
+            "value": "9998009011\nErin Hall\nFemale",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009011\nErin Hall\nFemale\nDOB",
+            "value": "24/03/1957",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "24/03/1957",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9999011\nNHS Number",
+            "value": "9999011\nNHS Number",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9998009011\nErin Hall\nFemale\nDOB",
+            "value": "9998009011\nErin Hall\nFemale\nDOB",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "24/03/1957",
+            "value": "24/03/1957",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Serrated adenoma with dysplasia\nICD10 Code",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Serrated adenoma with dysplasia\nICD10 Code",
+            "value": "D12.8\nDifferentiation",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.8\nDifferentiation",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Serrated adenoma with dysplasia\nICD10 Code",
+            "value": "Serrated adenoma with dysplasia\nICD10 Code",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "D12.8\nDifferentiation",
+            "value": "D12.8\nDifferentiation",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.",
+            "value": "CT on 12/02/2025",
+            "evidence": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.",
+            "value": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.",
+            "evidence": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "CT on 12/02/2025",
+            "value": "CT on 12/02/2025",
+            "evidence": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "lesion in the low rectum, no metastases",
+            "value": "lesion in the low rectum, no metastases",
+            "evidence": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "value": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "evidence": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+        }
+    ]
+}

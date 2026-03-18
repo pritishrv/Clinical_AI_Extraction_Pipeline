@@ -1,0 +1,293 @@
+{
+    "case_index": 47,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990048\nNHS Number",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990048\nNHS Number",
+            "value": "9990000048\nName",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000048\nName",
+            "value": "Jackson King",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Jackson King\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "17/11/1959",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/11/1959",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "66 Years",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "66 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "25/03/2025",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/03/2025",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990048\nNHS Number",
+            "value": "9990048\nNHS Number",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000048\nName",
+            "value": "9990000048\nName",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Jackson King\nGender",
+            "value": "Jackson King\nGender",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/11/1959",
+            "value": "17/11/1959",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "66 Years",
+            "value": "66 Years",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/03/2025",
+            "value": "25/03/2025",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Caecal adenocarcinoma\nICD10 Code",
+            "value": "Caecal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "value": "CT abdomen on 28/12/2024",
+            "evidence": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 28/12/2024",
+            "value": "caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI",
+            "evidence": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "value": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "evidence": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 28/12/2024",
+            "value": "CT abdomen on 28/12/2024",
+            "evidence": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI",
+            "value": "caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI",
+            "evidence": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Refer for colorectal surgical review; staging CT chest requested.",
+            "value": "Refer for colorectal surgical review; staging CT chest requested.",
+            "evidence": "Refer for colorectal surgical review; staging CT chest requested."
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1",
+            "evidence": "N1"
+        }
+    ]
+}

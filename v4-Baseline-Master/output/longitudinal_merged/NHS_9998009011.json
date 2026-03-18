@@ -1,0 +1,18 @@
+{
+    "Surgery: Defunctioned?": "Cancer Target Dates",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9998009011\nErin Hall\nFemale",
+    "Demographics: \nDOB(a)": "24/03/1957",
+    "CEA: Date": "Age",
+    "Demographics: \nGender(e)": "69 Years",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "62 DAY TARGET",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "CEA: DRE date ": "Well differentiated",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+    "Baseline CT: Date(h)": "CT on 12/02/2025",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+}

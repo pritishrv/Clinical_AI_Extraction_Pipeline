@@ -1,0 +1,305 @@
+{
+    "case_index": 23,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990024\nNHS Number",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990024\nNHS Number",
+            "value": "9990000024\nName",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000024\nName",
+            "value": "Elijah Brown",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Elijah Brown\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "06/01/1963",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/01/1963",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "63 Years",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "63 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "13/03/2025",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/03/2025",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990024\nNHS Number",
+            "value": "9990024\nNHS Number",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000024\nName",
+            "value": "9990000024\nName",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Elijah Brown\nGender",
+            "value": "Elijah Brown\nGender",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/01/1963",
+            "value": "06/01/1963",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "63 Years",
+            "value": "63 Years",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/03/2025",
+            "value": "13/03/2025",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "value": "Imaging",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT abdomen on 03/01/2025",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 03/01/2025",
+            "value": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy).",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "value": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 03/01/2025",
+            "value": "CT abdomen on 03/01/2025",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy).",
+            "value": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy).",
+            "evidence": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For surgery",
+            "value": "For surgery",
+            "evidence": "For surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3",
+            "evidence": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "case_index": 32,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990033\nNHS Number",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990033\nNHS Number",
+            "value": "9990000033\nName",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000033\nName",
+            "value": "Liam Turner",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Liam Turner\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "15/11/1967",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/11/1967",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "59 Years",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "59 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990033\nNHS Number",
+            "value": "9990033\nNHS Number",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000033\nName",
+            "value": "9990000033\nName",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Liam Turner\nGender",
+            "value": "Liam Turner\nGender",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/11/1967",
+            "value": "15/11/1967",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "59 Years",
+            "value": "59 Years",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Serrated adenoma with dysplasia\nICD10 Code",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Serrated adenoma with dysplasia\nICD10 Code",
+            "value": "C18.7\nDifferentiation",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.7\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Serrated adenoma with dysplasia\nICD10 Code",
+            "value": "Serrated adenoma with dysplasia\nICD10 Code",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.7\nDifferentiation",
+            "value": "C18.7\nDifferentiation",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "CT colonography on 25/03/2024",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT colonography on 25/03/2024",
+            "value": "large polypoid lesion in descending colon. T2 N0 M0",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.",
+            "value": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT colonography on 25/03/2024",
+            "value": "CT colonography on 25/03/2024",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "large polypoid lesion in descending colon. T2 N0 M0",
+            "value": "large polypoid lesion in descending colon. T2 N0 M0",
+            "evidence": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For colonoscopy, tattoo, left hemicolectomy",
+            "value": "For colonoscopy, tattoo, left hemicolectomy",
+            "evidence": "For colonoscopy, tattoo, left hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
+        }
+    ]
+}

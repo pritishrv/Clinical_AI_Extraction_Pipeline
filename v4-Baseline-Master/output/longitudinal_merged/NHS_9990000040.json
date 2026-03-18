@@ -1,0 +1,22 @@
+{
+    "Surgery: Defunctioned?": "For right hemicolectomy",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990000040\nName",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "08/08/1956",
+    "CEA: Date": "Age",
+    "Surgery: Date of surgery ": "62 DAY TARGET",
+    "MDT (after 6 week: Date": "15/12/2024",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "polypoidal lesion in cecum",
+    "CEA: Value": "Moderately differentiated",
+    "Demographics: Initials(b)": "Staging",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "2nd MRI: mrN": "Colonoscopy",
+    "Baseline CT: T(h)": "unable to identify primary tumour, no mets, Tx N0 M0",
+    "Demographics: \nState site of previous cancer(f)": "unable to identify primary tumour, no mets, Tx N0 M0",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+    "Baseline CT: N(h)": "N0"
+}

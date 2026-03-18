@@ -1,0 +1,311 @@
+{
+    "case_index": 2,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990003\nNHS Number",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990003\nNHS Number",
+            "value": "9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age",
+            "value": "51 Years",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "51 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "28/05/2025",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "28/05/2025",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990003\nNHS Number",
+            "value": "9990003\nNHS Number",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age",
+            "value": "9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "51 Years",
+            "value": "51 Years",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "28/05/2025",
+            "value": "28/05/2025",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "ICD10 Code",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Differentiation",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "BCSP",
+            "value": "wants further treatment locally.",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "wants further treatment locally.",
+            "value": "Multiple polyps within the colon, largest is 3 cm in the descending colon",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "Multiple polyps within the colon, largest is 3 cm in the descending colon",
+            "value": "2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken.",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken.",
+            "value": "To discuss histology, CT and plan",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "BCSP",
+            "value": "BCSP",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "wants further treatment locally.",
+            "value": "wants further treatment locally.",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "Multiple polyps within the colon, largest is 3 cm in the descending colon",
+            "value": "Multiple polyps within the colon, largest is 3 cm in the descending colon",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken.",
+            "value": "2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken.",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "To discuss histology, CT and plan",
+            "value": "To discuss histology, CT and plan",
+            "evidence": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "Descending colon polyp",
+            "value": "well differentiated adenocarcinoma",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "well differentiated adenocarcinoma",
+            "value": "Other polyps",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Other polyps",
+            "value": "tubular adenoma with low grade dysplasia",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "tubular adenoma with low grade dysplasia",
+            "value": "CT TAP",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases.",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases.",
+            "value": "Outcome\nTo see consultant next week to discuss possible surgery",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Outcome\nTo see consultant next week to discuss possible surgery",
+            "value": "Repeat colonoscopy with tattoo",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Descending colon polyp",
+            "value": "Descending colon polyp",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "well differentiated adenocarcinoma",
+            "value": "well differentiated adenocarcinoma",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Other polyps",
+            "value": "Other polyps",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "tubular adenoma with low grade dysplasia",
+            "value": "tubular adenoma with low grade dysplasia",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "CT TAP",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases.",
+            "value": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases.",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Outcome\nTo see consultant next week to discuss possible surgery",
+            "value": "Outcome\nTo see consultant next week to discuss possible surgery",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "type": "kv",
+            "key": "Repeat colonoscopy with tattoo",
+            "value": "Repeat colonoscopy with tattoo",
+            "evidence": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "case_index": 19,
+    "mapped_columns": {
+        "Surgery: Defunctioned?": "For right hemicolectomy",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990000020\nName",
+        "Demographics: \nGender(e)": "Male",
+        "Demographics: \nDOB(a)": "03/07/1979",
+        "CEA: Date": "Age",
+        "Surgery: Date of surgery ": "62 DAY TARGET",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "CEA: DRE finding": "C20\nDifferentiation",
+        "CEA: Value": "Poorly differentiated",
+        "Demographics: Initials(b)": "Staging",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "Imaging",
+        "2nd MRI: mrN": "CT TAP on 31/07/2024",
+        "Baseline CT: Date(h)": "caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+        "Histology: \nMMR status(g/h)": "caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

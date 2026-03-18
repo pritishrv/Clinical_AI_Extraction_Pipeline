@@ -1,0 +1,389 @@
+{
+    "case_index": 36,
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990037\nNHS Number",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990037\nNHS Number",
+            "value": "9990000037\nName",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000037\nName",
+            "value": "Eljay Fraser",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Eljay Fraser\nGender",
+            "value": "Male",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "06/10/1947",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/10/1947",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "79 Years",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "79 Years",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/08/2024",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/08/2024",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990037\nNHS Number",
+            "value": "9990037\nNHS Number",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "9990000037\nName",
+            "value": "9990000037\nName",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Eljay Fraser\nGender",
+            "value": "Eljay Fraser\nGender",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "06/10/1947",
+            "value": "06/10/1947",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "79 Years",
+            "value": "79 Years",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "15/08/2024",
+            "value": "15/08/2024",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": "Staging",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": "Dukes",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons.",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons.",
+            "value": "CT TAP",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Transverse colon",
+            "value": "T3 N1 EMVI negative,",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "T3 N1 EMVI negative,",
+            "value": "Ascending colon",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon",
+            "value": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum",
+            "value": "Indeterminate lung nodules, can be kept under review, below the size criteria for PET",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Indeterminate lung nodules, can be kept under review, below the size criteria for PET",
+            "value": "CT, M0",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.",
+            "value": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons.",
+            "value": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons.",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "CT TAP",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Transverse colon",
+            "value": "Transverse colon",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "T3 N1 EMVI negative,",
+            "value": "T3 N1 EMVI negative,",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon",
+            "value": "Ascending colon",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum",
+            "value": "T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "Indeterminate lung nodules, can be kept under review, below the size criteria for PET",
+            "value": "Indeterminate lung nodules, can be kept under review, below the size criteria for PET",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "CT, M0",
+            "value": "CT, M0",
+            "evidence": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "For chemotherapy, surgical margin is unsafe",
+            "value": "For chemotherapy, surgical margin is unsafe",
+            "evidence": "For chemotherapy, surgical margin is unsafe"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3",
+            "evidence": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T4b",
+            "evidence": "T4b"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1",
+            "evidence": "N1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N1c",
+            "evidence": "N1c"
+        }
+    ]
+}
