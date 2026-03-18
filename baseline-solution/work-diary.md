@@ -849,8 +849,30 @@ Design an "Ultimate Density" architecture (Prompt 09) to break the 675-cell barr
 - **Maximized Density**: By harvesting *every* key-value pair first, we ensure no data point is left behind in the prose.
 
 ### Next Steps
-- Implement `stage1_exhaustive_harvester.py` to tokenize the entire proforma.
-- Set up local `Sentence-Transformers` for the semantic mapping layer.
+- Implement `stage4_longitudinal_linker.py` to group cases by patient.
+- Add evidence snippet capture to the harvester for Excel comment injection.
+
+### Entry Block Signature
+This entry was written by Gemini CLI.
+
+## Session: Longitudinal Patient Journey Design (Prompt 10) (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Design a "Diamond Standard" pipeline (Prompt 10) to break the 740-cell barrier by linking multiple proformas for the same patient and anchoring every cell to source evidence snippets.
+
+### Inspected
+- v6 Results: Achieved 740 cells but identified that many "Follow-up" columns are empty because the data lives in separate documents for the same patient.
+- Technical Requirement: Confirmed the need for an audit trail (Excel Comments) to satisfy clinical safety standards.
+
+### Changed
+- Created `baseline-solution/prompts/10-longitudinal-evidence-linker-prompt.md`: A specification for a patient-centric, evidence-anchored architecture.
+- Defined the "v7 Architecture": Stage 1 (Contextual Harvesting), Stage 4 (Patient Linking), Stage 5 (Comment Injection).
+
+### Why
+- **Longitudinal Filling**: A patient's journey is split across documents. By linking cases by NHS Number, we can "backfill" baseline rows with follow-up data, potentially reaching >90% density.
+- **Auditability**: Clinicians need to trust the AI. Source snippets in Excel comments provide instant verification of any data point.
 
 ### Entry Block Signature
 This entry was written by Gemini CLI.
