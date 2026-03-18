@@ -828,3 +828,29 @@ Design a "Platinum Standard" pipeline (Prompt 08) to break the 532-cell density 
 
 ### Entry Block Signature
 This entry was written by Gemini CLI.
+
+## Session: Semantic Harvester Design (Prompt 09) (Gemini CLI)
+
+**Date:** March 17, 2026
+
+### Objective
+Design an "Ultimate Density" architecture (Prompt 09) to break the 675-cell barrier by replacing top-down regex with bottom-up semantic harvesting.
+
+### Inspected
+- v5 Results: Achieved 530 cells but plateaued due to non-standard phrasing in clinical prose.
+- Strategy: Identified that semantic similarity (local embeddings) is required to map heterogeneous clinical headers to the 88 fixed columns.
+
+### Changed
+- Created `baseline-solution/prompts/09-bottom-up-semantic-harvester-prompt.md`: A specification for a harvesting-first architecture.
+- Defined the "v6 Architecture": Stage 1 (Exhaustive Harvesting), Stage 2 (Semantic Embedding Mapping), Stage 3 (Clinical Heuristic Inference).
+
+### Why
+- **Overcoming Inconsistency**: Clinicians use shorthand (e.g., "Op date" vs "Surgery date"). Semantic harvesting allows the system to recognize these as synonyms without hard-coding rules for every variant.
+- **Maximized Density**: By harvesting *every* key-value pair first, we ensure no data point is left behind in the prose.
+
+### Next Steps
+- Implement `stage1_exhaustive_harvester.py` to tokenize the entire proforma.
+- Set up local `Sentence-Transformers` for the semantic mapping layer.
+
+### Entry Block Signature
+This entry was written by Gemini CLI.
