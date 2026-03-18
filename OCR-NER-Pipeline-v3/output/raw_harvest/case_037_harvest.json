@@ -3,363 +3,381 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T1",
-            "evidence": "...lift, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets TWR referral, P..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T1",
-            "evidence": "...lift, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets TWR referral, P..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T1",
-            "evidence": "...lift, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets MDT Outcome(h)..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...ft, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets TWR referral, PR b..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...ft, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets TWR referral, PR b..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...ft, unsuitable for local excision. MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 CT: no mets MDT Outcome(h) MDT..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Poorly differentiated",
-            "evidence": "...h focal invasion ICD10 Code: C19 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
-            "key": "Radiotherapy: Dates",
-            "value": "62 DAY TARGET: 25/11/2024",
-            "evidence": "...s Gender: Female DOB: 07/09/1975    Age: 51 Years 62 DAY TARGET: 25/11/2024 Please note: If the 62 Day Breach Date is blank,..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990038",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990038"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990038",
-            "evidence": "Hospital Number: 9990038"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000038",
-            "evidence": "NHS Number: 9990000038"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Elizabeth Roberts",
-            "evidence": "Name: Elizabeth Roberts"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "07/09/1975    Age: 51 Years",
-            "evidence": "DOB: 07/09/1975    Age: 51 Years"
+            "value": "9990038\nNHS Number",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990038",
-            "evidence": "Hospital Number: 9990038"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000038",
-            "evidence": "NHS Number: 9990000038"
+            "key": "9990038\nNHS Number",
+            "value": "9990000038\nName",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "Elizabeth Roberts",
-            "evidence": "Name: Elizabeth Roberts"
+            "key": "9990038\nNHS Number",
+            "value": "9990038\nNHS Number",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
+            "key": "9990000038\nName",
+            "value": "Elizabeth Roberts\nGender",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "9990000038\nName",
+            "value": "9990000038\nName",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Elizabeth Roberts\nGender",
             "value": "Female",
-            "evidence": "Gender: Female"
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Elizabeth Roberts\nGender",
+            "value": "Elizabeth Roberts\nGender",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "DOB",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "Female",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "07/09/1975    Age: 51 Years",
-            "evidence": "DOB: 07/09/1975    Age: 51 Years"
+            "value": "07/09/1975",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "DOB",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "07/09/1975",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "07/09/1975",
+            "value": "07/09/1975",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "51 Years",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "51 Years",
+            "value": "51 Years",
+            "evidence": "Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
             "value": "25/11/2024",
-            "evidence": "62 DAY TARGET: 25/11/2024"
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/11/2024",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "25/11/2024",
+            "value": "25/11/2024",
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Villous adenoma with focal invasion",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Villous adenoma with focal invasion"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Villous adenoma with focal invasion",
-            "evidence": "Diagnosis: Villous adenoma with focal invasion"
+            "value": "Villous adenoma with focal invasion\nICD10 Code",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C19",
-            "evidence": "ICD10 Code: C19"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Villous adenoma with focal invasion\nICD10 Code",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Villous adenoma with focal invasion\nICD10 Code",
+            "value": "Villous adenoma with focal invasion\nICD10 Code",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
             "value": "Poorly differentiated",
-            "evidence": "Differentiation: Poorly differentiated"
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C19\nDifferentiation",
+            "value": "C19\nDifferentiation",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "TWR referral, PR bleeding\nImaging",
+            "value": "Colonoscopy",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
-        },
-        {
-            "type": "kv",
-            "key": "TWR referral, PR bleeding",
-            "value": "Imaging:",
-            "evidence": "TWR referral, PR bleeding: Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "key": "TWR referral, PR bleeding\nImaging",
+            "value": "TWR referral, PR bleeding\nImaging",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
             "value": "sessile lesion in rectum, does not lift, unsuitable for local excision.",
-            "evidence": "Colonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision."
-        },
-        {
-            "type": "kv",
-            "key": "MRI rectum",
-            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013",
-            "evidence": "MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
-        },
-        {
-            "type": "kv",
-            "key": "CT",
-            "value": "no mets",
-            "evidence": "CT: no mets"
-        },
-        {
-            "type": "kv",
-            "key": "TWR referral, PR bleeding",
-            "value": "Imaging:",
-            "evidence": "TWR referral, PR bleeding: Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "sessile lesion in rectum, does not lift, unsuitable for local excision.",
+            "value": "MRI rectum",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "sessile lesion in rectum, does not lift, unsuitable for local excision.",
             "value": "sessile lesion in rectum, does not lift, unsuitable for local excision.",
-            "evidence": "Colonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision."
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
             "key": "MRI rectum",
-            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013",
-            "evidence": "MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
+            "value": "T1 N0 EMVI",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
-            "key": "CT",
-            "value": "no mets",
-            "evidence": "CT: no mets"
+            "key": "MRI rectum",
+            "value": "MRI rectum",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
-            "key": "TWR referral, PR bleeding",
-            "value": "Imaging:",
-            "evidence": "TWR referral, PR bleeding: Imaging:"
+            "key": "T1 N0 EMVI",
+            "value": "CRM",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
-            "key": "Imaging",
+            "key": "T1 N0 EMVI",
+            "value": "T1 N0 EMVI",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "CRM",
+            "value": "PSW",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "CRM",
+            "value": "CRM",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "PSW",
+            "value": "PSW",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "sessile lesion in rectum, does not lift, unsuitable for local excision.",
-            "evidence": "Colonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision."
-        },
-        {
-            "type": "kv",
-            "key": "MRI rectum",
-            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013",
-            "evidence": "MRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
             "key": "CT",
             "value": "no mets",
-            "evidence": "CT: no mets"
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "CT",
+            "value": "CT",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
+        },
+        {
+            "type": "kv",
+            "key": "no mets",
+            "value": "no mets",
+            "evidence": "TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "Consider ESD",
-            "evidence": "MDT Outcome(h): Consider ESD"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "Consider ESD",
             "value": "Consider ESD",
-            "evidence": "Consider ESD: Consider ESD"
+            "evidence": "Consider ESD"
         },
         {
             "type": "kv",
-            "key": "Consider ESD",
-            "value": "Consider ESD",
-            "evidence": "Consider ESD: Consider ESD"
+            "key": "Baseline CT: T(h)",
+            "value": "T1",
+            "evidence": "T1"
         },
         {
             "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "25/11/2024",
-            "evidence": "Timeline End: 25/11/2024"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "07/09/1975",
-            "evidence": "Timeline Start: 07/09/1975"
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
         }
     ]
 }

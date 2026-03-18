@@ -1,0 +1,10 @@
+{
+    "case_index": 13,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009014",
+        "Demographics: MRN(c)": "9999014",
+        "MDT (after 6 week: Decision ": "For MRI liver with contrast and PET-CT",
+        "1st MDT: date(i)": "29/04/2024",
+        "Baseline CT: Date(h)": "20/06/1964"
+    }
+}

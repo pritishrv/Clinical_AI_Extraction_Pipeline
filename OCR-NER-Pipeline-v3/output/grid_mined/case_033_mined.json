@@ -1,0 +1,10 @@
+{
+    "case_index": 33,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000034",
+        "Demographics: MRN(c)": "9990034",
+        "MDT (after 6 week: Decision ": "Chemotherapy and review",
+        "1st MDT: date(i)": "06/05/2024",
+        "Baseline CT: Date(h)": "22/07/1976"
+    }
+}

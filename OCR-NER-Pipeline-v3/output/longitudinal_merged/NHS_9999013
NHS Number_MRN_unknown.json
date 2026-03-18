@@ -1,0 +1,21 @@
+{
+    "Surgery: Defunctioned?": "Patient Details",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9999013\nNHS Number",
+    "CEA: Date": "Age",
+    "Demographics: \nGender(e)": "74 Years",
+    "Surgery: Date of surgery ": "74 Years",
+    "MDT (after 6 week: Date": "15/03/2025",
+    "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Histology: \nMMR status(g/h)": "D12.6\nDifferentiation",
+    "CEA: DRE finding": "Well differentiated",
+    "Demographics: \nDOB(a)": "Well differentiated",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Demographics: \nState site of previous cancer(f)": "Dukes",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Baseline CT: Date(h)": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+    "Chemotherapy: Treatment goals  \n(curative, palliative)": "Breast cancer being treated with curative intent",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+}

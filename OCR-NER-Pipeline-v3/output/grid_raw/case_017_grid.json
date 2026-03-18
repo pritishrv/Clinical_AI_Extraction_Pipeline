@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years | 62 DAY TARGET: 21/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake.",
+    "outcome_row": "PET\u2011CT and oncology consultation.",
+    "case_index": 17
+}

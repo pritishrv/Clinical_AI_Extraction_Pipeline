@@ -1,0 +1,286 @@
+{
+    "case_index": 2,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "well"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "well"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "well"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990003"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990003"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000003"
+        },
+        {
+            "type": "kv",
+            "key": "AISHA MOHAMMED",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "19/12/1974 Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "19/12/1974 Age",
+            "value": "51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990003"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000003"
+        },
+        {
+            "type": "kv",
+            "key": "AISHA MOHAMMED",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "19/12/1974 Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "19/12/1974 Age",
+            "value": "51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "28/05/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis:"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "BCSP",
+            "value": "wants further treatment locally."
+        },
+        {
+            "type": "kv",
+            "key": "To discuss histology, CT and plan",
+            "value": "BCSP : wants further treatment locally."
+        },
+        {
+            "type": "kv",
+            "key": "BCSP",
+            "value": "wants further treatment locally."
+        },
+        {
+            "type": "kv",
+            "key": "To discuss histology, CT and plan",
+            "value": "BCSP : wants further treatment locally."
+        },
+        {
+            "type": "kv",
+            "key": "BCSP",
+            "value": "wants further treatment locally."
+        },
+        {
+            "type": "kv",
+            "key": "To discuss histology, CT and plan",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "Descending colon polyp \u2013 well differentiated adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases."
+        },
+        {
+            "type": "kv",
+            "key": "Outcome",
+            "value": "To see consultant next week to discuss possible surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Repeat colonoscopy with tattoo",
+            "value": "Descending colon polyp \u2013 well differentiated adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases."
+        },
+        {
+            "type": "kv",
+            "key": "Outcome",
+            "value": "To see consultant next week to discuss possible surgery"
+        },
+        {
+            "type": "kv",
+            "key": "Repeat colonoscopy with tattoo",
+            "value": "Descending colon polyp \u2013 well differentiated adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases."
+        },
+        {
+            "type": "kv",
+            "key": "Outcome",
+            "value": "To see consultant next week to discuss possible surgery"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "28/05/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "19/12/1974"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "19/12/1974"
+        }
+    ]
+}

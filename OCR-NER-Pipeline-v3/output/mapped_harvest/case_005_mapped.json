@@ -1,16 +1,28 @@
 {
     "case_index": 5,
     "mapped_columns": {
-        "Baseline CT: T(h)": "T1",
-        "Baseline CT: N(h)": "N0",
-        "Histology: Biopsy result(g)": "Villous adenoma with focal invasion",
-        "Radiotherapy: Dates": "62 DAY TARGET: 15/01/2025",
-        "Chemotherapy: Dates": "Hospital Number: 9999006",
-        "Demographics: \nNHS number(d)": "9998009006",
-        "Demographics: \nDOB(a)": "18/08/1937   Age: 89 Years",
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999006\nNHS Number",
+        "Demographics: \nDOB(a)": "18/08/1937",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "89 Years",
+        "Surgery: Date of surgery ": "89 Years",
+        "MDT (after 6 week: Date": "15/01/2025",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "C18.7\nDifferentiation",
+        "CEA: Value": "Moderately differentiated",
+        "Demographics: Initials(b)": "Moderately differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Chemotherapy: Breaks": "MRI pelvis on 31/10/2024",
         "2nd MRI: Date": "T1 sm2/3, N0, CRM clear, EMVI negative.",
-        "MDT (after 6 week: Decision ": "Refer for colorectal surgical review.",
-        "1st MDT: date(i)": "31/10/2024",
-        "Baseline CT: Date(h)": "18/08/1937"
+        "Baseline CT: EMVI(h)": "T1 sm2/3, N0, CRM clear, EMVI negative.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: T(h)": "T1",
+        "Baseline CT: N(h)": "N0"
     }
 }

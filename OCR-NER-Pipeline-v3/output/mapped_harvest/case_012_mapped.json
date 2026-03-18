@@ -1,16 +1,24 @@
 {
     "case_index": 12,
     "mapped_columns": {
-        "Histology: Biopsy result(g)": "MMR\u2011deficient rectal adenocarcinoma",
-        "Chemotherapy: Drugs": "curative",
-        "Chemotherapy: Treatment goals  \n(curative, palliative)": "curative",
-        "Radiotherapy: Dates": "62 DAY TARGET: 15/03/2025",
-        "Chemotherapy: Dates": "Hospital Number: 9999013",
-        "Demographics: \nNHS number(d)": "9998009013",
-        "Demographics: \nDOB(a)": "28/04/1952   Age: 74 Years",
-        "Demographics: \nState site of previous cancer(f)": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
-        "MDT (after 6 week: Decision ": "Colpnoscopy, biopsy, MRI",
-        "1st MDT: date(i)": "29/12/2024",
-        "Baseline CT: Date(h)": "28/04/1952"
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999013\nNHS Number",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "74 Years",
+        "Surgery: Date of surgery ": "74 Years",
+        "MDT (after 6 week: Date": "15/03/2025",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "D12.6\nDifferentiation",
+        "CEA: DRE finding": "Well differentiated",
+        "Demographics: \nDOB(a)": "Well differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Baseline CT: Date(h)": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+        "Chemotherapy: Treatment goals  \n(curative, palliative)": "Breast cancer being treated with curative intent",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
     }
 }

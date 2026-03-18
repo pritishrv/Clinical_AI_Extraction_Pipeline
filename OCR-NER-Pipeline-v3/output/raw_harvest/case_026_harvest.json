@@ -3,315 +3,303 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new on..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new on..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MD..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal ble..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal ble..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) F..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal bleedi..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal bleedi..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) For..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990027",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990027"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990027",
-            "evidence": "Hospital Number: 9990027"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000027",
-            "evidence": "NHS Number: 9990000027"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Mia Edwards",
-            "evidence": "Name: Mia Edwards"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "22/11/1957    Age: 69 Years",
-            "evidence": "DOB: 22/11/1957    Age: 69 Years"
+            "value": "9990027\nNHS Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990027",
-            "evidence": "Hospital Number: 9990027"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
+            "key": "9990027\nNHS Number",
             "value": "9990000027",
-            "evidence": "NHS Number: 9990000027"
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "9990027\nNHS Number",
+            "value": "9990027\nNHS Number",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "9990000027",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "9990000027",
+            "value": "9990000027",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Mia Edwards",
-            "evidence": "Name: Mia Edwards"
+            "value": "Mia Edwards\nGender",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
+            "key": "Name",
+            "value": "Name",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "22/11/1957    Age: 69 Years",
-            "evidence": "DOB: 22/11/1957    Age: 69 Years"
+            "key": "Mia Edwards\nGender",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Mia Edwards\nGender",
+            "value": "Mia Edwards\nGender",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "22/11/1957",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "22/11/1957",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "22/11/1957",
+            "value": "22/11/1957",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "69 Years",
+            "value": "69 Years",
+            "evidence": "Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "62 DAY TARGET:"
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Ascending colon mass suspicious for malignancy",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Ascending colon mass suspicious for malignancy"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Ascending colon mass suspicious for malignancy",
-            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy"
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C18.0",
-            "evidence": "ICD10 Code: C18.0"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
+        },
+        {
+            "type": "kv",
+            "key": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "value": "Ascending colon mass suspicious for malignancy\nICD10 Code",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
+        },
+        {
+            "type": "kv",
+            "key": "C18.0\nDifferentiation",
+            "value": "C18.0\nDifferentiation",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Differentiation:"
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation:"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "value": "Imaging",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "value": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "value": "CT colonography on 27/03/2024",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "CT colonography on 27/03/2024",
             "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
-            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "CT colonography on 27/03/2024",
-            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
-            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+            "value": "CT colonography on 27/03/2024",
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "CT colonography on 27/03/2024",
+            "key": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
             "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
-            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
+            "evidence": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "For colonoscopy",
-            "evidence": "MDT Outcome(h): For colonoscopy"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "For colonoscopy",
             "value": "For colonoscopy",
-            "evidence": "For colonoscopy: For colonoscopy"
+            "evidence": "For colonoscopy"
         },
         {
             "type": "kv",
-            "key": "For colonoscopy",
-            "value": "For colonoscopy",
-            "evidence": "For colonoscopy: For colonoscopy"
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
         },
         {
             "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "27/03/2024",
-            "evidence": "Timeline End: 27/03/2024"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "22/11/1957",
-            "evidence": "Timeline Start: 22/11/1957"
+            "key": "Baseline CT: N(h)",
+            "value": "N1",
+            "evidence": "N1"
         }
     ]
 }

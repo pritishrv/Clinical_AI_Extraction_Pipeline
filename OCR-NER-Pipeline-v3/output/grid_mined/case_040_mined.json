@@ -1,0 +1,10 @@
+{
+    "case_index": 40,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000041",
+        "Demographics: MRN(c)": "9990041",
+        "MDT (after 6 week: Decision ": "CRT CT adrenal study  Completion colonoscopy and tattoo",
+        "1st MDT: date(i)": "18/01/2025",
+        "Baseline CT: Date(h)": "09/10/1970"
+    }
+}

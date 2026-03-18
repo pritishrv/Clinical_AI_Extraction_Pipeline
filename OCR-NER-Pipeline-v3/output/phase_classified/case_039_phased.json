@@ -1,0 +1,296 @@
+{
+    "case_index": 39,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Moderately"
+        },
+        {
+            "type": "kv",
+            "key": "Surgery: Intent, pre-neoadjuvant therapy",
+            "value": "hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "Surgery: Intent, pre-neoadjuvant therapy",
+            "value": "hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "Surgery: Intent, pre-neoadjuvant therapy",
+            "value": "hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990040"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990040"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000040"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Sophia Jackson"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "08/08/1956    Age: 70 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990040"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000040"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Sophia Jackson"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "08/08/1956    Age: 70 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/12/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Caecal adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Caecal adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C18.2"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "polypoidal lesion in cecum"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "polypoidal lesion in cecum"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "polypoidal lesion in cecum"
+        },
+        {
+            "type": "kv",
+            "key": "CT TAP",
+            "value": "unable to identify primary tumour, no mets, Tx N0 M0"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "For right hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "For right hemicolectomy",
+            "value": "For right hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "For right hemicolectomy",
+            "value": "For right hemicolectomy"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "15/12/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "08/08/1956"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "08/08/1956"
+        }
+    ]
+}

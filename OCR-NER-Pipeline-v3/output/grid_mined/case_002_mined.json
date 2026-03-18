@@ -1,0 +1,11 @@
+{
+    "case_index": 2,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000003",
+        "Demographics: MRN(c)": "9990003",
+        "MDT (after 6 week: Decision ": "Descending colon polyp \u2013 well differentiated adenocarcinoma  Other polyps \u2013 tubular adenoma with low grade dysplasia   CT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases.   Outcome To see consultant next week to discuss possible surgery  Repeat colonoscopy with tattoo",
+        "Histology: Biopsy result(g)": "adenocarcinoma",
+        "1st MDT: date(i)": "28/05/2025",
+        "Baseline CT: Date(h)": "19/12/1974"
+    }
+}

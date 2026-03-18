@@ -1,0 +1,226 @@
+{
+    "case_index": 25,
+    "phase": "PHASE_2_SURGICAL",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990026"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990026"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000026"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Sony Smith"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "24/04/1955   Age: 71 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990026"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000026"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Sony Smith"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "24/04/1955   Age: 71 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Descending colon mass (indeterminate pathology)"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Descending colon mass (indeterminate pathology)"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 23/07/2024",
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 23/07/2024",
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 23/07/2024",
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "For colonoscopy, need tissue"
+        },
+        {
+            "type": "kv",
+            "key": "For colonoscopy, need tissue",
+            "value": "For colonoscopy, need tissue"
+        },
+        {
+            "type": "kv",
+            "key": "For colonoscopy, need tissue",
+            "value": "For colonoscopy, need tissue"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "23/07/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "24/04/1955"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "24/04/1955"
+        }
+    ]
+}

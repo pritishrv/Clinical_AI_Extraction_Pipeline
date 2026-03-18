@@ -1,0 +1,22 @@
+{
+    "Surgery: Defunctioned?": "Patient Details",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9999009\nNHS Number",
+    "Demographics: \nDOB(a)": "18/03/1964",
+    "CEA: Date": "Age",
+    "Demographics: \nGender(e)": "62 Years",
+    "Surgery: Date of surgery ": "62 Years",
+    "MDT (after 6 week: Date": "11/06/2024",
+    "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "D12.8\nDifferentiation",
+    "CEA: DRE date ": "Poorly differentiated",
+    "Demographics: Initials(b)": "Poorly differentiated",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Demographics: \nState site of previous cancer(f)": "Dukes",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "12 week MRI: mrEMVI": "PET\u2011CT performed for ? Vasculitis on 13/03/2024",
+    "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG\u2011avid lesion in the ascending colon, no distant uptake.",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+}

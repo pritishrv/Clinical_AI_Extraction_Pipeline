@@ -1,0 +1,206 @@
+{
+    "case_index": 10,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Well"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9999011"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999011"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009011"
+        },
+        {
+            "type": "kv",
+            "key": "Erin Hall",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "DOB: 24/03/1957   Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "24/03/1957   Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999011"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009011"
+        },
+        {
+            "type": "kv",
+            "key": "Erin Hall",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "DOB: 24/03/1957   Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "24/03/1957   Age: 69 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Serrated adenoma with dysplasia"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Serrated adenoma with dysplasia"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "D12.8"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT on 12/02/2025",
+            "value": "lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "CT on 12/02/2025",
+            "value": "lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "CT on 12/02/2025",
+            "value": "lesion in the low rectum, no metastases"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "12/02/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "24/03/1957"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "24/03/1957"
+        }
+    ]
+}

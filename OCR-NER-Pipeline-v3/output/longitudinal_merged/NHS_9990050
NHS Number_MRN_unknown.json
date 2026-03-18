@@ -1,0 +1,23 @@
+{
+    "Surgery: Defunctioned?": "Patient Details",
+    "Chemotherapy: Dates": "Cancer Target Dates",
+    "Demographics: \nNHS number(d)": "9990050\nNHS Number",
+    "Demographics: \nGender(e)": "Male\nDOB",
+    "Demographics: \nDOB(a)": "12/05/1945",
+    "Radiotherapy: Dates": "Age",
+    "Surgery: Date of surgery ": "80 Years",
+    "MDT (after 6 week: Date": "17/04/2025",
+    "CEA: Date": "Please note",
+    "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+    "Demographics: \nState site of previous cancer(f)": "C18.6\nDifferentiation",
+    "CEA: Value": "Poorly differentiated",
+    "Demographics: Initials(b)": "Poorly differentiated",
+    "Watch and wait: Site of \nprogression": "Staging",
+    "Baseline CT: M(h)": "Integrated TNM Stage",
+    "Endoscopy: Findings(f)": "Clinical Details(f)",
+    "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "PET CT on 10/01/2025",
+    "Baseline CT: Date(h)": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+    "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+}

@@ -3,285 +3,297 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T3b",
-            "evidence": "...icant for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. Symptoms incl..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T3b",
-            "evidence": "...icant for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. Symptoms incl..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T3b",
-            "evidence": "...icant for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. MDT Outcome(h..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. Symptoms include..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. Symptoms include..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N1",
-            "evidence": "...for hypertension. MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. MDT Outcome(h) MD..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma",
-            "evidence": "...nosis(g) Staging & Diagnosis(g) Diagnosis: Rectal adenocarcinoma ICD10 Code: C20 Differentiation: Moderately diffe..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Moderately differentiated",
-            "evidence": "...l adenocarcinoma ICD10 Code: C20 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
-            "key": "Radiotherapy: Dates",
-            "value": "62 DAY TARGET: 13/01/2025",
-            "evidence": "...per Gender: Male DOB: 14/02/1952    Age: 72 Years 62 DAY TARGET: 13/01/2025 Please note: If the 62 Day Breach Date is blank,..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990046",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990046"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990046",
-            "evidence": "Hospital Number: 9990046"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000046",
-            "evidence": "NHS Number: 9990000046"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "James Cooper",
-            "evidence": "Name: James Cooper"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "14/02/1952    Age: 72 Years",
-            "evidence": "DOB: 14/02/1952    Age: 72 Years"
+            "value": "9990046\nNHS Number",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990046",
-            "evidence": "Hospital Number: 9990046"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000046",
-            "evidence": "NHS Number: 9990000046"
+            "key": "9990046\nNHS Number",
+            "value": "9990000046\nName",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "James Cooper",
-            "evidence": "Name: James Cooper"
+            "key": "9990046\nNHS Number",
+            "value": "9990046\nNHS Number",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
+            "key": "9990000046\nName",
+            "value": "James Cooper\nGender",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "14/02/1952    Age: 72 Years",
-            "evidence": "DOB: 14/02/1952    Age: 72 Years"
+            "key": "9990000046\nName",
+            "value": "9990000046\nName",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "James Cooper\nGender",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "James Cooper\nGender",
+            "value": "James Cooper\nGender",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "14/02/1952",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "14/02/1952",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "14/02/1952",
+            "value": "14/02/1952",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "72 Years",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
+        },
+        {
+            "type": "kv",
+            "key": "72 Years",
+            "value": "72 Years",
+            "evidence": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
             "value": "13/01/2025",
-            "evidence": "62 DAY TARGET: 13/01/2025"
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/01/2025",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/01/2025",
+            "value": "13/01/2025",
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Rectal adenocarcinoma",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Rectal adenocarcinoma"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Rectal adenocarcinoma",
-            "evidence": "Diagnosis: Rectal adenocarcinoma"
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C20",
-            "evidence": "ICD10 Code: C20"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Rectal adenocarcinoma\nICD10 Code",
+            "value": "Rectal adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
             "value": "Moderately differentiated",
-            "evidence": "Differentiation: Moderately differentiated"
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C20\nDifferentiation",
+            "value": "C20\nDifferentiation",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+            "value": "MRI pelvis on 05/10/2024",
+            "evidence": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
-        },
-        {
-            "type": "kv",
-            "key": "MRI pelvis on 05/10/2024",
-            "value": "T3b, N1, CRM threatened, EMVI negative.",
-            "evidence": "MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
+            "key": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+            "value": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+            "evidence": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 05/10/2024",
             "value": "T3b, N1, CRM threatened, EMVI negative.",
-            "evidence": "MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
+            "evidence": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 05/10/2024",
+            "value": "MRI pelvis on 05/10/2024",
+            "evidence": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "T3b, N1, CRM threatened, EMVI negative.",
             "value": "T3b, N1, CRM threatened, EMVI negative.",
-            "evidence": "MRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
+            "evidence": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
+            "key": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks.",
             "value": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks.",
-            "evidence": "MDT Outcome(h): Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks."
+            "evidence": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks."
         },
         {
             "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "05/10/2024",
-            "evidence": "Timeline End: 05/10/2024"
+            "key": "Baseline CT: T(h)",
+            "value": "T3b",
+            "evidence": "T3b"
         },
         {
             "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "14/02/1952",
-            "evidence": "Timeline Start: 14/02/1952"
+            "key": "Baseline CT: N(h)",
+            "value": "N1",
+            "evidence": "N1"
         }
     ]
 }

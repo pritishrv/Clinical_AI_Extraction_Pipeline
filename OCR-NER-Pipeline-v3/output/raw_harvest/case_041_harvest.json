@@ -3,321 +3,321 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- MDT Outcome(h) MDT Outcome(h) MDT Outcom..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous di..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous di..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- MDT Outcome(h) MDT Outcome(h) MDT Outcome(h..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Well differentiated",
-            "evidence": "...lignant change ICD10 Code: C18.2 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990042",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990042"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990042",
-            "evidence": "Hospital Number: 9990042"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000042",
-            "evidence": "NHS Number: 9990000042"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Maya Brown",
-            "evidence": "Name: Maya Brown"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "13/07/1958   Age: 68 Years",
-            "evidence": "DOB: 13/07/1958   Age: 68 Years"
+            "value": "9990042\nNHS Number",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990042",
-            "evidence": "Hospital Number: 9990042"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000042",
-            "evidence": "NHS Number: 9990000042"
+            "key": "9990042\nNHS Number",
+            "value": "9990000042\nName",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "Maya Brown",
-            "evidence": "Name: Maya Brown"
+            "key": "9990042\nNHS Number",
+            "value": "9990042\nNHS Number",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
+            "key": "9990000042\nName",
+            "value": "Maya Brown\nGender",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "13/07/1958   Age: 68 Years",
-            "evidence": "DOB: 13/07/1958   Age: 68 Years"
+            "key": "9990000042\nName",
+            "value": "9990000042\nName",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Maya Brown\nGender",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Maya Brown\nGender",
+            "value": "Maya Brown\nGender",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "13/07/1958",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "13/07/1958",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "13/07/1958",
+            "value": "13/07/1958",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "68 Years",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
+        },
+        {
+            "type": "kv",
+            "key": "68 Years",
+            "value": "68 Years",
+            "evidence": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "62 DAY TARGET:"
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Large sessile polyp with possible malignant change",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Large sessile polyp with possible malignant change"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Large sessile polyp with possible malignant change",
-            "evidence": "Diagnosis: Large sessile polyp with possible malignant change"
+            "value": "Large sessile polyp with possible malignant change\nICD10 Code",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C18.2",
-            "evidence": "ICD10 Code: C18.2"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Large sessile polyp with possible malignant change\nICD10 Code",
+            "value": "C18.2\nDifferentiation",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Large sessile polyp with possible malignant change\nICD10 Code",
+            "value": "Large sessile polyp with possible malignant change\nICD10 Code",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.2\nDifferentiation",
             "value": "Well differentiated",
-            "evidence": "Differentiation: Well differentiated"
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.2\nDifferentiation",
+            "value": "C18.2\nDifferentiation",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Well differentiated",
+            "value": "Well differentiated",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.",
+            "value": "Imaging",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon",
-            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
-        },
-        {
-            "type": "kv",
-            "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
-            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
+            "key": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.",
+            "value": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon",
-            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
-        },
-        {
-            "type": "kv",
-            "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
-            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "value": "Imaging",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon",
-            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
+            "value": "polypoidal lesion in sigmoid colon\nCT",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
-            "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
-            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
+            "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "polypoidal lesion in sigmoid colon\nCT",
+            "value": "unable to identify lesion",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "polypoidal lesion in sigmoid colon\nCT",
+            "value": "polypoidal lesion in sigmoid colon\nCT",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "unable to identify lesion",
+            "value": "Tx N0 M0 EMVI",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "unable to identify lesion",
+            "value": "unable to identify lesion",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "Tx N0 M0 EMVI",
+            "value": "Tx N0 M0 EMVI",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
+        },
+        {
+            "type": "kv",
+            "key": "",
+            "value": "",
+            "evidence": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "Surgery",
-            "evidence": "MDT Outcome(h): Surgery"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "Surgery",
             "value": "Surgery",
-            "evidence": "Surgery: Surgery"
+            "evidence": "Surgery"
         },
         {
             "type": "kv",
-            "key": "Surgery",
-            "value": "Surgery",
-            "evidence": "Surgery: Surgery"
-        },
-        {
-            "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "13/07/1958",
-            "evidence": "Timeline End: 13/07/1958"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "13/07/1958",
-            "evidence": "Timeline Start: 13/07/1958"
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
         }
     ]
 }

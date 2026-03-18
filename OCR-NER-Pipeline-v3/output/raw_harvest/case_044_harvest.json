@@ -3,345 +3,321 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, alt..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, alt..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N2",
-            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N2",
-            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N2",
-            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h)..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered bow..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered bow..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Surg..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Moderately differentiated",
-            "evidence": "...colonic tumour ICD10 Code: C18.4 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
-            "key": "Radiotherapy: Dates",
-            "value": "62 DAY TARGET: 23/08/2024",
-            "evidence": "...son Gender: Male DOB: 16/11/1982    Age: 44 Years 62 DAY TARGET: 23/08/2024 Please note: If the 62 Day Breach Date is blank,..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990045",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990045"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990045",
-            "evidence": "Hospital Number: 9990045"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000045",
-            "evidence": "NHS Number: 9990000045"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Geo Wilson",
-            "evidence": "Name: Geo Wilson"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "16/11/1982    Age: 44 Years",
-            "evidence": "DOB: 16/11/1982    Age: 44 Years"
+            "value": "9990045\nNHS Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990045",
-            "evidence": "Hospital Number: 9990045"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000045",
-            "evidence": "NHS Number: 9990000045"
+            "key": "9990045\nNHS Number",
+            "value": "9990000045\nName",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "Geo Wilson",
-            "evidence": "Name: Geo Wilson"
+            "key": "9990045\nNHS Number",
+            "value": "9990045\nNHS Number",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
+            "key": "9990000045\nName",
+            "value": "Geo Wilson\nGender",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "16/11/1982    Age: 44 Years",
-            "evidence": "DOB: 16/11/1982    Age: 44 Years"
+            "key": "9990000045\nName",
+            "value": "9990000045\nName",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Geo Wilson\nGender",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Geo Wilson\nGender",
+            "value": "Geo Wilson\nGender",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "16/11/1982",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "16/11/1982",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "16/11/1982",
+            "value": "16/11/1982",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "44 Years",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "type": "kv",
+            "key": "44 Years",
+            "value": "44 Years",
+            "evidence": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
             "value": "23/08/2024",
-            "evidence": "62 DAY TARGET: 23/08/2024"
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "23/08/2024",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "23/08/2024",
+            "value": "23/08/2024",
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Right\u2011sided colonic tumour",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Right\u2011sided colonic tumour"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Right\u2011sided colonic tumour",
-            "evidence": "Diagnosis: Right\u2011sided colonic tumour"
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C18.4",
-            "evidence": "ICD10 Code: C18.4"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "C18.4\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.4\nDifferentiation",
             "value": "Moderately differentiated",
-            "evidence": "Differentiation: Moderately differentiated"
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.4\nDifferentiation",
+            "value": "C18.4\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "value": "Imaging",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied",
-            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
-        },
-        {
-            "type": "kv",
-            "key": "CT TAP",
-            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
-            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "key": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "value": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied",
-            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
-        },
-        {
-            "type": "kv",
-            "key": "CT TAP",
-            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
-            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "value": "Imaging",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied",
-            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
+            "value": "tumour at 18 cm, biopsied\nCT TAP",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
-            "key": "CT TAP",
+            "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "tumour at 18 cm, biopsied\nCT TAP",
             "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
-            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "tumour at 18 cm, biopsied\nCT TAP",
+            "value": "tumour at 18 cm, biopsied\nCT TAP",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "type": "kv",
+            "key": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "Surgery",
-            "evidence": "MDT Outcome(h): Surgery"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "Surgery",
             "value": "Surgery",
-            "evidence": "Surgery: Surgery"
+            "evidence": "Surgery"
         },
         {
             "type": "kv",
-            "key": "Surgery",
-            "value": "Surgery",
-            "evidence": "Surgery: Surgery"
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
         },
         {
             "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "23/08/2024",
-            "evidence": "Timeline End: 23/08/2024"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "16/11/1982",
-            "evidence": "Timeline Start: 16/11/1982"
+            "key": "Baseline CT: N(h)",
+            "value": "N2",
+            "evidence": "N2"
         }
     ]
 }

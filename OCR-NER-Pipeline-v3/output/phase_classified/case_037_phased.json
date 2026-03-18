@@ -1,0 +1,306 @@
+{
+    "case_index": 37,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Poorly"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990038"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990038"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000038"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Elizabeth Roberts"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990038"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000038"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Elizabeth Roberts"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "07/09/1975    Age: 51 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "25/11/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Villous adenoma with focal invasion"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Villous adenoma with focal invasion"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C19"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "TWR referral, PR bleeding",
+            "value": "Imaging:"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "sessile lesion in rectum, does not lift, unsuitable for local excision."
+        },
+        {
+            "type": "kv",
+            "key": "MRI rectum",
+            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "CT",
+            "value": "no mets"
+        },
+        {
+            "type": "kv",
+            "key": "TWR referral, PR bleeding",
+            "value": "Imaging:"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "sessile lesion in rectum, does not lift, unsuitable for local excision."
+        },
+        {
+            "type": "kv",
+            "key": "MRI rectum",
+            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "CT",
+            "value": "no mets"
+        },
+        {
+            "type": "kv",
+            "key": "TWR referral, PR bleeding",
+            "value": "Imaging:"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Colonoscopy",
+            "value": "sessile lesion in rectum, does not lift, unsuitable for local excision."
+        },
+        {
+            "type": "kv",
+            "key": "MRI rectum",
+            "value": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013"
+        },
+        {
+            "type": "kv",
+            "key": "CT",
+            "value": "no mets"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "Consider ESD"
+        },
+        {
+            "type": "kv",
+            "key": "Consider ESD",
+            "value": "Consider ESD"
+        },
+        {
+            "type": "kv",
+            "key": "Consider ESD",
+            "value": "Consider ESD"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "25/11/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "07/09/1975"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "07/09/1975"
+        }
+    ]
+}

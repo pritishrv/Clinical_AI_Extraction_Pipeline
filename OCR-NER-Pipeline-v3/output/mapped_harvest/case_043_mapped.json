@@ -1,14 +1,27 @@
 {
     "case_index": 43,
     "mapped_columns": {
-        "Histology: Biopsy result(g)": "Rectal adenocarcinoma",
-        "Radiotherapy: Dates": "62 DAY TARGET: 18/01/2025",
-        "Chemotherapy: Dates": "Hospital Number:",
-        "Demographics: \nNHS number(d)": "",
-        "Demographics: \nGender(e)": "Female",
-        "Demographics: \nDOB(a)": "06/05/1971   Age: 55 Years",
-        "MDT (after 6 week: Decision ": "For MRI rectum and colonoscopy",
-        "1st MDT: date(i)": "18/01/2025",
-        "Baseline CT: Date(h)": "06/05/1971"
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "Hospital Number",
+        "CEA: Date": "Freya Kind\nGender",
+        "Demographics: \nGender(e)": "Female\nDOB",
+        "Demographics: \nDOB(a)": "06/05/1971",
+        "Surgery: Date of surgery ": "55 Years",
+        "MDT (after 6 week: Date": "18/01/2025",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "D12.8\nDifferentiation",
+        "CEA: DRE date ": "Poorly differentiated",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Imaging",
+        "2nd MRI: mrN": "CT",
+        "Baseline CT: N(h)": "fullness at low rectum, no distant disease.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "2nd MRI: Patient pathway status": "For MRI rectum and colonoscopy"
     }
 }

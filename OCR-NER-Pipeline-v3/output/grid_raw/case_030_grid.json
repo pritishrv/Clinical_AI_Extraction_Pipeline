@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years | 62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV",
+    "outcome_row": "For right hemicolectomy",
+    "case_index": 30
+}

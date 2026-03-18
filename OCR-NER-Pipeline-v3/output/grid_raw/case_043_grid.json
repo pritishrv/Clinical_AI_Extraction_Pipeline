@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+    "outcome_row": "For MRI rectum and colonoscopy",
+    "case_index": 43
+}

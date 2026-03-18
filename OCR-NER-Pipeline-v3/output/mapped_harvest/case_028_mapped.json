@@ -1,15 +1,29 @@
 {
     "case_index": 28,
     "mapped_columns": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990029\nNHS Number",
+        "Demographics: \nGender(e)": "Male\nDOB",
+        "Demographics: \nDOB(a)": "14/09/1953",
+        "Surgery: Date of surgery ": "Age",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "C18.0\nDifferentiation",
+        "CEA: Value": "Poorly differentiated",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: Date": "Imaging",
+        "2nd MRI: mrN": "CT abdomen on 07/12/2024",
+        "Baseline CT: EMVI(h)": "mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "For chemotherapy downstaging and then surgery",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "For chemotherapy downstaging and then surgery",
         "Baseline CT: T(h)": "T3",
-        "Baseline CT: N(h)": "N1c",
-        "Histology: Biopsy result(g)": "Ascending colon mass suspicious for malignancy",
-        "Chemotherapy: Dates": "Hospital Number: 9990029",
-        "Demographics: \nNHS number(d)": "9990000029",
-        "Demographics: \nGender(e)": "Male",
-        "Demographics: \nDOB(a)": "14/09/1953    Age: 73 Years",
-        "MDT (after 6 week: Decision ": "Needs CT thorax to complete staging",
-        "1st MDT: date(i)": "07/12/2024",
-        "Baseline CT: Date(h)": "14/09/1953"
+        "Baseline CT: N(h)": "N1c"
     }
 }

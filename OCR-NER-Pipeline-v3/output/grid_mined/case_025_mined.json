@@ -1,0 +1,9 @@
+{
+    "case_index": 25,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000026",
+        "Demographics: MRN(c)": "9990026",
+        "MDT (after 6 week: Decision ": "For colonoscopy, need tissue",
+        "1st MDT: date(i)": "24/04/1955"
+    }
+}

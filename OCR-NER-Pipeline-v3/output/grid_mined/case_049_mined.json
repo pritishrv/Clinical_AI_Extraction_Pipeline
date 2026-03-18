@@ -1,0 +1,10 @@
+{
+    "case_index": 49,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000050",
+        "Demographics: MRN(c)": "9990050",
+        "MDT (after 6 week: Decision ": "For colonoscopy and biopsies.",
+        "1st MDT: date(i)": "17/04/2025",
+        "Baseline CT: Date(h)": "12/05/1945"
+    }
+}

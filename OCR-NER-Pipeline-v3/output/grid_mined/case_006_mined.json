@@ -1,0 +1,9 @@
+{
+    "case_index": 6,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009007",
+        "Demographics: MRN(c)": "9999007",
+        "MDT (after 6 week: Decision ": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+        "1st MDT: date(i)": "27/12/1947"
+    }
+}

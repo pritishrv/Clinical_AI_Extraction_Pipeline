@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+    "outcome_row": "Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery",
+    "case_index": 28
+}

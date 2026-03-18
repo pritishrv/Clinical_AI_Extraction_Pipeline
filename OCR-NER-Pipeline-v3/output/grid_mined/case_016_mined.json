@@ -1,0 +1,9 @@
+{
+    "case_index": 16,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009017",
+        "Demographics: MRN(c)": "9999017",
+        "MDT (after 6 week: Decision ": "Needs MRI for local staging",
+        "1st MDT: date(i)": "25/07/1965"
+    }
+}

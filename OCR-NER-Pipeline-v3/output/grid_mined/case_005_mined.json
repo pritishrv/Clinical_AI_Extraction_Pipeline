@@ -1,0 +1,10 @@
+{
+    "case_index": 5,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009006",
+        "Demographics: MRN(c)": "9999006",
+        "MDT (after 6 week: Decision ": "Refer for colorectal surgical review.",
+        "1st MDT: date(i)": "15/01/2025",
+        "Baseline CT: Date(h)": "18/08/1937"
+    }
+}

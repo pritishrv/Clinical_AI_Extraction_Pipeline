@@ -1,0 +1,9 @@
+{
+    "case_index": 10,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009011",
+        "Demographics: MRN(c)": "9999011",
+        "MDT (after 6 week: Decision ": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+        "1st MDT: date(i)": "24/03/1957"
+    }
+}

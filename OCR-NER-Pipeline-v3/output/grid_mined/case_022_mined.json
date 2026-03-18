@@ -1,0 +1,9 @@
+{
+    "case_index": 22,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000023",
+        "Demographics: MRN(c)": "9990023",
+        "MDT (after 6 week: Decision ": "For MRI rectum to stage.",
+        "1st MDT: date(i)": "18/06/1941"
+    }
+}

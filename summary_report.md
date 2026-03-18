@@ -17,23 +17,18 @@ The **Clinical-AI Extraction Pipeline** is an automated system designed to solve
 ---
 
 ## 🚀 Pipeline Evolution & Benchmarks
-The project evolved through seven major AI-driven iterations, each solving a specific technical bottleneck:
+The project has evolved through three distinct architectural strategies to achieve the "wow factor" required for clinical adoption:
 
-| Stage | Milestone | Cell Count | Accuracy (Recall) | Key Breakthrough |
+| Stage | Version | Cell Count | Strategy | Why the Change? |
 | :--- | :--- | :--- | :--- | :--- |
-| **v1** | Basic Regex | 127 | ~30% | Identified NHS Numbers & Core T-Stage. |
-| **v2** | Sequential Docx | 240 | ~45% | Captured paragraph text outside tables. |
-| **v3** | Clinical NER | 503 | ~65% | Integrated MedSPaCy for negation handling. |
-| **v4** | Claude-Gold Baseline | 675 | ~75% | Established the competitive baseline. |
-| **v5** | Zonal Parser | 530 | ~70% | High-precision anchoring to journey phases. |
-| **v6** | Semantic Harvester | 740 | ~85% | Used local embeddings to map clinical synonyms. |
-| **v7** | **Diamond Linker** | **1,102** | **~95%+** | **Longitudinal synthesis & Audit Evidence.** |
+| **v1** | Diamond | 1,102 | Greedy Merge | First successful longitudinal linkage. |
+| **v2** | Obsidian | 551 | State Machine | Added clinical safety via chronological routing, but was too strict for shorthand. |
+| **v3** | **Grid Mapper**| **Target: >1,500**| **Grid Coordinate**| **Deterministic extraction to capture 100% of "trapped" table data.** |
 
-### Final Diamond Standard Achievements (v7):
-- **Longitudinal Record Linking:** Fuses multiple isolated cases (e.g., Baseline MRI + Post-Chemo Outcome) into a single, comprehensive patient journey.
-- **AI Evidence Anchoring:** Every cell in the database is linked to its source sentence in the proforma via Excel Comments, providing total transparency for clinical safety.
-- **Elite Data Density:** Surpassed all previous baselines by recovering over 1,100 high-fidelity data points.
-- **Perfect Data Integrity:** Forced string-encoding for NHS/MRN identifiers to ensure zero formatting errors (scientific notation/decimals).
+### Evolution Details:
+- **v1 (Diamond):** High density, but potentially misallocated data between treatment phases.
+- **v2 (Obsidian):** Solved the "Temporal Conflict" by routing data to specific slots based on the patient phase (Baseline vs Restaging). However, density dropped because many clinical shorthand markers didn't fit the strict rules.
+- **v3 (Current):** Moving to coordinate-based "Grid Mapping" to exploit the consistent proforma layout, combining v1's density with v2's temporal precision.
 
 ---
 

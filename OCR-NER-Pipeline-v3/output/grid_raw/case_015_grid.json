@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative.",
+    "outcome_row": "For TNT, CRT first",
+    "case_index": 15
+}

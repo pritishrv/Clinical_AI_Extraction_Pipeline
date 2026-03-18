@@ -3,261 +3,297 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma",
-            "evidence": "...osis(g) Staging & Diagnosis(g) Diagnosis: Sigmoid adenocarcinoma ICD10 Code: C18.6 Differentiation: Poorly differe..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Poorly differentiated",
-            "evidence": "...adenocarcinoma ICD10 Code: C18.6 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
-            "key": "Radiotherapy: Dates",
-            "value": "62 DAY TARGET: 17/04/2025",
-            "evidence": "...obin Gender: Male DOB: 12/05/1945   Age: 80 Years 62 DAY TARGET: 17/04/2025 Please note: If the 62 Day Breach Date is blank,..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990050",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990050"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990050",
-            "evidence": "Hospital Number: 9990050"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000050",
-            "evidence": "NHS Number: 9990000050"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Noah Robin",
-            "evidence": "Name: Noah Robin"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "12/05/1945   Age: 80 Years",
-            "evidence": "DOB: 12/05/1945   Age: 80 Years"
+            "value": "9990050\nNHS Number",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990050",
-            "evidence": "Hospital Number: 9990050"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000050",
-            "evidence": "NHS Number: 9990000050"
+            "key": "9990050\nNHS Number",
+            "value": "9990000050\nName",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "Noah Robin",
-            "evidence": "Name: Noah Robin"
+            "key": "9990050\nNHS Number",
+            "value": "9990050\nNHS Number",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Male",
-            "evidence": "Gender: Male"
+            "key": "9990000050\nName",
+            "value": "Noah Robin\nGender",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "12/05/1945   Age: 80 Years",
-            "evidence": "DOB: 12/05/1945   Age: 80 Years"
+            "key": "9990000050\nName",
+            "value": "9990000050\nName",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Noah Robin\nGender",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Noah Robin\nGender",
+            "value": "Noah Robin\nGender",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "12/05/1945",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Male\nDOB",
+            "value": "Male\nDOB",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "12/05/1945",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "12/05/1945",
+            "value": "12/05/1945",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "80 Years",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
+        },
+        {
+            "type": "kv",
+            "key": "80 Years",
+            "value": "80 Years",
+            "evidence": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
             "value": "17/04/2025",
-            "evidence": "62 DAY TARGET: 17/04/2025"
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/04/2025",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "17/04/2025",
+            "value": "17/04/2025",
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Sigmoid adenocarcinoma",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Sigmoid adenocarcinoma"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Sigmoid adenocarcinoma",
-            "evidence": "Diagnosis: Sigmoid adenocarcinoma"
+            "value": "Sigmoid adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "C18.6",
-            "evidence": "ICD10 Code: C18.6"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Sigmoid adenocarcinoma\nICD10 Code",
+            "value": "C18.6\nDifferentiation",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Sigmoid adenocarcinoma\nICD10 Code",
+            "value": "Sigmoid adenocarcinoma\nICD10 Code",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.6\nDifferentiation",
             "value": "Poorly differentiated",
-            "evidence": "Differentiation: Poorly differentiated"
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "C18.6\nDifferentiation",
+            "value": "C18.6\nDifferentiation",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Poorly differentiated",
+            "value": "Poorly differentiated",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Known head and neck cancer, had PET",
+            "value": "CT for staging",
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Known head and neck cancer, had PET",
+            "value": "Known head and neck cancer, had PET",
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+        },
+        {
+            "type": "kv",
+            "key": "CT for staging",
+            "value": "PET CT on 10/01/2025",
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+        },
+        {
+            "type": "kv",
+            "key": "CT for staging",
+            "value": "CT for staging",
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
         },
         {
             "type": "kv",
             "key": "PET CT on 10/01/2025",
             "value": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
-            "evidence": "PET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
         },
         {
             "type": "kv",
             "key": "PET CT on 10/01/2025",
-            "value": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
-            "evidence": "PET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+            "value": "PET CT on 10/01/2025",
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
         },
         {
             "type": "kv",
-            "key": "PET CT on 10/01/2025",
+            "key": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
             "value": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
-            "evidence": "PET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+            "evidence": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "For colonoscopy and biopsies.",
-            "evidence": "MDT Outcome(h): For colonoscopy and biopsies."
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "For colonoscopy and biopsies.",
             "value": "For colonoscopy and biopsies.",
-            "evidence": "For colonoscopy and biopsies.: For colonoscopy and biopsies."
-        },
-        {
-            "type": "kv",
-            "key": "For colonoscopy and biopsies.",
-            "value": "For colonoscopy and biopsies.",
-            "evidence": "For colonoscopy and biopsies.: For colonoscopy and biopsies."
-        },
-        {
-            "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "10/01/2025",
-            "evidence": "Timeline End: 10/01/2025"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "12/05/1945",
-            "evidence": "Timeline Start: 12/05/1945"
+            "evidence": "For colonoscopy and biopsies."
         }
     ]
 }

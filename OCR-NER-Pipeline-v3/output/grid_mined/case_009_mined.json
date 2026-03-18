@@ -1,0 +1,10 @@
+{
+    "case_index": 9,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9998009010",
+        "Demographics: MRN(c)": "9999010",
+        "MDT (after 6 week: Decision ": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+        "1st MDT: date(i)": "19/11/2024",
+        "Baseline CT: Date(h)": "20/06/1941"
+    }
+}

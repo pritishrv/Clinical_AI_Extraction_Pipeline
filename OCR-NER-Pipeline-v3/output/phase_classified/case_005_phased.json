@@ -1,0 +1,246 @@
+{
+    "case_index": 5,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T1"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Moderately"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9999006"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999006"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009006"
+        },
+        {
+            "type": "kv",
+            "key": "Ava Clarke",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "DOB: 18/08/1937   Age: 89 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "18/08/1937   Age: 89 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9999006"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9998009006"
+        },
+        {
+            "type": "kv",
+            "key": "Ava Clarke",
+            "value": "Female"
+        },
+        {
+            "type": "kv",
+            "key": "Female",
+            "value": "DOB: 18/08/1937   Age: 89 Years"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "18/08/1937   Age: 89 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "15/01/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Villous adenoma with focal invasion"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Villous adenoma with focal invasion"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C18.7"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 31/10/2024",
+            "value": "T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 31/10/2024",
+            "value": "T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MRI pelvis on 31/10/2024",
+            "value": "T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "Refer for colorectal surgical review."
+        },
+        {
+            "type": "kv",
+            "key": "Refer for colorectal surgical review.",
+            "value": "Refer for colorectal surgical review."
+        },
+        {
+            "type": "kv",
+            "key": "Refer for colorectal surgical review.",
+            "value": "Refer for colorectal surgical review."
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "31/10/2024"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "18/08/1937"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "18/08/1937"
+        }
+    ]
+}

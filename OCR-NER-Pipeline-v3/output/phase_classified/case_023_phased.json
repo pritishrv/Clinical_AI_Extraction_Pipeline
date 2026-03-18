@@ -1,0 +1,281 @@
+{
+    "case_index": 23,
+    "phase": "PHASE_0_BASELINE",
+    "candidates": [
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: T(h)",
+            "value": "T3"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: N(h)",
+            "value": "N0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: M(h)",
+            "value": "M0"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Histology: Biopsy result(g)",
+            "value": "Moderately"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Patient Details"
+        },
+        {
+            "type": "kv",
+            "key": "Patient Details",
+            "value": "Cancer Target Dates"
+        },
+        {
+            "type": "kv",
+            "key": "Cancer Target Dates",
+            "value": "Hospital Number: 9990024"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990024"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000024"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Elijah Brown"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "06/01/1963   Age: 63 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Hospital Number",
+            "value": "9990024"
+        },
+        {
+            "type": "kv",
+            "key": "NHS Number",
+            "value": "9990000024"
+        },
+        {
+            "type": "kv",
+            "key": "Name",
+            "value": "Elijah Brown"
+        },
+        {
+            "type": "kv",
+            "key": "Gender",
+            "value": "Male"
+        },
+        {
+            "type": "kv",
+            "key": "DOB",
+            "value": "06/01/1963   Age: 63 Years"
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "13/03/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Staging & Diagnosis(g)"
+        },
+        {
+            "type": "kv",
+            "key": "Staging & Diagnosis(g)",
+            "value": "Diagnosis: Rectal adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "Diagnosis",
+            "value": "Rectal adenocarcinoma"
+        },
+        {
+            "type": "kv",
+            "key": "ICD10 Code",
+            "value": "C19"
+        },
+        {
+            "type": "kv",
+            "key": "Differentiation",
+            "value": "Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Staging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Integrated TNM Stage",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Dukes",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Clinical Details(f)",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 03/01/2025",
+            "value": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 03/01/2025",
+            "value": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": ""
+        },
+        {
+            "type": "kv",
+            "key": "CT abdomen on 03/01/2025",
+            "value": "mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy)."
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "MDT Outcome(h)"
+        },
+        {
+            "type": "kv",
+            "key": "MDT Outcome(h)",
+            "value": "For surgery"
+        },
+        {
+            "type": "kv",
+            "key": "For surgery",
+            "value": "For surgery"
+        },
+        {
+            "type": "kv",
+            "key": "For surgery",
+            "value": "For surgery"
+        },
+        {
+            "type": "kv",
+            "key": "1st MDT: date(i)",
+            "value": "03/01/2025"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline CT: Date(h)",
+            "value": "06/01/1963"
+        },
+        {
+            "type": "kv",
+            "key": "Baseline MRI: date(h)",
+            "value": "06/01/1963"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "case_index": 36,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000037",
+        "Demographics: MRN(c)": "9990037",
+        "MDT (after 6 week: Decision ": "For chemotherapy, surgical margin is unsafe",
+        "1st MDT: date(i)": "15/08/2024",
+        "Baseline CT: Date(h)": "06/10/1947"
+    }
+}

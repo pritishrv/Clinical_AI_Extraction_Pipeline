@@ -1,0 +1,9 @@
+{
+    "case_index": 31,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000032",
+        "Demographics: MRN(c)": "9990032",
+        "MDT (after 6 week: Decision ": "For surgery (unsuitable for chemotherapy)",
+        "1st MDT: date(i)": "14/02/1967"
+    }
+}

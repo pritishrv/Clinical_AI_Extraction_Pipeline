@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy).",
+    "outcome_row": "For surgery",
+    "case_index": 23
+}

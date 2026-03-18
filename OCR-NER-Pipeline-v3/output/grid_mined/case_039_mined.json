@@ -1,0 +1,10 @@
+{
+    "case_index": 39,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000040",
+        "Demographics: MRN(c)": "9990040",
+        "MDT (after 6 week: Decision ": "For right hemicolectomy",
+        "1st MDT: date(i)": "15/12/2024",
+        "Baseline CT: Date(h)": "08/08/1956"
+    }
+}

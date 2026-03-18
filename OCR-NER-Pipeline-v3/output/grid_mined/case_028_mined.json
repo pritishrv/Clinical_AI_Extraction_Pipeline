@@ -1,0 +1,9 @@
+{
+    "case_index": 28,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000029",
+        "Demographics: MRN(c)": "9990029",
+        "MDT (after 6 week: Decision ": "Needs CT thorax to complete staging  For chemotherapy downstaging and then surgery",
+        "1st MDT: date(i)": "14/09/1953"
+    }
+}

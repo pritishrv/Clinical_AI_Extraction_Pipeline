@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases",
+    "outcome_row": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+    "case_index": 10
+}

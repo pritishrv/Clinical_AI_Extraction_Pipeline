@@ -1,17 +1,27 @@
 {
     "case_index": 48,
     "mapped_columns": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990049\nNHS Number",
+        "Demographics: MRN(c)": "Emilia Taylor\nGender",
+        "Demographics: \nGender(e)": "Female\nDOB",
+        "Demographics: \nDOB(a)": "03/01/1978",
+        "CEA: Date": "Age",
+        "Surgery: Date of surgery ": "48 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "CEA: DRE finding": "Moderately differentiated",
+        "Demographics: Initials(b)": "Moderately differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "CT colonography on 20/04/2024",
+        "Baseline CT: EMVI(h)": "large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
         "Baseline CT: T(h)": "T2",
-        "Baseline CT: N(h)": "N0",
-        "Baseline CT: M(h)": "M0",
-        "Histology: Biopsy result(g)": "Tubular adenoma with HGD",
-        "Chemotherapy: Dates": "Hospital Number: 9990049",
-        "Demographics: \nNHS number(d)": "9990000049",
-        "Demographics: \nGender(e)": "Female",
-        "Demographics: \nDOB(a)": "03/01/1978    Age: 48 Years",
-        "MDT (after 6 week: Decision ": "For colonoscopy",
-        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
-        "1st MDT: date(i)": "20/04/2024",
-        "Baseline CT: Date(h)": "03/01/1978"
+        "Baseline CT: N(h)": "N0"
     }
 }

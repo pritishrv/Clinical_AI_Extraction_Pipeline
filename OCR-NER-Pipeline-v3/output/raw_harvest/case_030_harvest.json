@@ -3,363 +3,333 @@
     "candidates": [
         {
             "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abno..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abno..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: T(h)",
-            "value": "T2",
-            "evidence": "...06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abno..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": ".../12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnorma..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": ".../12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnorma..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: N(h)",
-            "value": "N0",
-            "evidence": ".../12/2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnorma..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": ".../2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnormal p..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": ".../2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnormal p..."
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: M(h)",
-            "value": "M0",
-            "evidence": ".../2024: thickening at cecum, for colonoscopy T2 N0 M0 Colonoscopy: early annular cancer with abnormal p..."
-        },
-        {
-            "type": "kv",
-            "key": "Histology: Biopsy result(g)",
-            "value": "Moderately differentiated",
-            "evidence": "...colonic tumour ICD10 Code: D12.6 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
-        },
-        {
-            "type": "kv",
-            "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy",
-            "evidence": "...utcome(h) MDT Outcome(h) MDT Outcome(h) For right hemicolectomy For right hemicolectomy For right hemicolectomy..."
-        },
-        {
-            "type": "kv",
-            "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy",
-            "evidence": "...MDT Outcome(h) For right hemicolectomy For right hemicolectomy For right hemicolectomy..."
-        },
-        {
-            "type": "kv",
-            "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy",
-            "evidence": "...t hemicolectomy For right hemicolectomy For right hemicolectomy..."
-        },
-        {
-            "type": "kv",
-            "key": "Radiotherapy: Dates",
-            "value": "62 DAY TARGET: 13/02/2025",
-            "evidence": "...on Gender: Female DOB: 18/11/1953   Age: 73 Years 62 DAY TARGET: 13/02/2025 Please note: If the 62 Day Breach Date is blank,..."
-        },
-        {
-            "type": "kv",
             "key": "Patient Details",
             "value": "Patient Details",
-            "evidence": "Patient Details: Patient Details"
-        },
-        {
-            "type": "kv",
-            "key": "Patient Details",
-            "value": "Cancer Target Dates",
-            "evidence": "Patient Details: Cancer Target Dates"
+            "evidence": "Patient Details"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990031",
-            "evidence": "Cancer Target Dates: Hospital Number: 9990031"
+            "value": "Cancer Target Dates",
+            "evidence": "Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990031",
-            "evidence": "Hospital Number: 9990031"
-        },
-        {
-            "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000031",
-            "evidence": "NHS Number: 9990000031"
-        },
-        {
-            "type": "kv",
-            "key": "Name",
-            "value": "Ava Hamilton",
-            "evidence": "Name: Ava Hamilton"
-        },
-        {
-            "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
-        },
-        {
-            "type": "kv",
-            "key": "DOB",
-            "value": "18/11/1953   Age: 73 Years",
-            "evidence": "DOB: 18/11/1953   Age: 73 Years"
+            "value": "9990031\nNHS Number",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990031",
-            "evidence": "Hospital Number: 9990031"
+            "value": "Hospital Number",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
-            "key": "NHS Number",
-            "value": "9990000031",
-            "evidence": "NHS Number: 9990000031"
+            "key": "9990031\nNHS Number",
+            "value": "9990000031\nName",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
-            "key": "Name",
-            "value": "Ava Hamilton",
-            "evidence": "Name: Ava Hamilton"
+            "key": "9990031\nNHS Number",
+            "value": "9990031\nNHS Number",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
-            "key": "Gender",
-            "value": "Female",
-            "evidence": "Gender: Female"
+            "key": "9990000031\nName",
+            "value": "Ava Hamilton\nGender",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
-            "key": "DOB",
-            "value": "18/11/1953   Age: 73 Years",
-            "evidence": "DOB: 18/11/1953   Age: 73 Years"
+            "key": "9990000031\nName",
+            "value": "9990000031\nName",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Ava Hamilton\nGender",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Ava Hamilton\nGender",
+            "value": "Ava Hamilton\nGender",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "18/11/1953",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Female\nDOB",
+            "value": "Female\nDOB",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "18/11/1953",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "18/11/1953",
+            "value": "18/11/1953",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "73 Years",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "Age",
+            "value": "Age",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
+        },
+        {
+            "type": "kv",
+            "key": "73 Years",
+            "value": "73 Years",
+            "evidence": "Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
             "value": "13/02/2025",
-            "evidence": "62 DAY TARGET: 13/02/2025"
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "62 DAY TARGET",
+            "value": "62 DAY TARGET",
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/02/2025",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "13/02/2025",
+            "value": "13/02/2025",
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Please note",
             "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "Please note",
+            "value": "Please note",
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "type": "kv",
+            "key": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
             "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)",
-            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
-        },
-        {
-            "type": "kv",
-            "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Right\u2011sided colonic tumour",
-            "evidence": "Staging & Diagnosis(g): Diagnosis: Right\u2011sided colonic tumour"
+            "evidence": "Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Right\u2011sided colonic tumour",
-            "evidence": "Diagnosis: Right\u2011sided colonic tumour"
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "ICD10 Code",
-            "value": "D12.6",
-            "evidence": "ICD10 Code: D12.6"
+            "key": "Diagnosis",
+            "value": "Diagnosis",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
-            "key": "Differentiation",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Right\u2011sided colonic tumour\nICD10 Code",
+            "value": "Right\u2011sided colonic tumour\nICD10 Code",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
             "value": "Moderately differentiated",
-            "evidence": "Differentiation: Moderately differentiated"
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "D12.6\nDifferentiation",
+            "value": "D12.6\nDifferentiation",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "type": "kv",
+            "key": "Moderately differentiated",
+            "value": "Moderately differentiated",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
+            "value": "Staging",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
+            "value": "Integrated TNM Stage",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
-            "evidence": "Integrated TNM Stage:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "value": "Dukes",
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
-            "key": "Staging",
+            "key": "",
             "value": "",
-            "evidence": "Staging:"
-        },
-        {
-            "type": "kv",
-            "key": "Integrated TNM Stage",
-            "value": "",
-            "evidence": "Integrated TNM Stage:"
-        },
-        {
-            "type": "kv",
-            "key": "Dukes",
-            "value": "",
-            "evidence": "Dukes:"
+            "evidence": "Staging:  \nIntegrated TNM Stage: \nDukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
+            "value": "Clinical Details(f)",
+            "evidence": "Clinical Details(f):"
+        },
+        {
+            "type": "kv",
+            "key": "",
             "value": "",
             "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.",
+            "value": "Imaging",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
-            "key": "Clinical Details(f)",
-            "value": "",
-            "evidence": "Clinical Details(f):"
+            "key": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.",
+            "value": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "value": "CT on 06/12/2024",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
+        },
+        {
+            "type": "kv",
+            "key": "Imaging",
+            "value": "Imaging",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "CT on 06/12/2024",
             "value": "thickening at cecum, for colonoscopy T2 N0 M0",
-            "evidence": "CT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0"
-        },
-        {
-            "type": "kv",
-            "key": "Colonoscopy",
-            "value": "early annular cancer with abnormal pit pattern opposite ICV",
-            "evidence": "Colonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "CT on 06/12/2024",
+            "value": "CT on 06/12/2024",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
+        },
+        {
+            "type": "kv",
+            "key": "thickening at cecum, for colonoscopy T2 N0 M0",
+            "value": "Colonoscopy",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
+        },
+        {
+            "type": "kv",
+            "key": "thickening at cecum, for colonoscopy T2 N0 M0",
             "value": "thickening at cecum, for colonoscopy T2 N0 M0",
-            "evidence": "CT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0"
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
             "value": "early annular cancer with abnormal pit pattern opposite ICV",
-            "evidence": "Colonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
-        },
-        {
-            "type": "kv",
-            "key": "Imaging",
-            "value": "",
-            "evidence": "Imaging:"
-        },
-        {
-            "type": "kv",
-            "key": "CT on 06/12/2024",
-            "value": "thickening at cecum, for colonoscopy T2 N0 M0",
-            "evidence": "CT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0"
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
+            "value": "Colonoscopy",
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
+        },
+        {
+            "type": "kv",
+            "key": "early annular cancer with abnormal pit pattern opposite ICV",
             "value": "early annular cancer with abnormal pit pattern opposite ICV",
-            "evidence": "Colonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
+            "evidence": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
             "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)",
-            "evidence": "MDT Outcome(h): MDT Outcome(h)"
-        },
-        {
-            "type": "kv",
-            "key": "MDT Outcome(h)",
-            "value": "For right hemicolectomy",
-            "evidence": "MDT Outcome(h): For right hemicolectomy"
+            "evidence": "MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "For right hemicolectomy",
             "value": "For right hemicolectomy",
-            "evidence": "For right hemicolectomy: For right hemicolectomy"
+            "evidence": "For right hemicolectomy"
         },
         {
             "type": "kv",
-            "key": "For right hemicolectomy",
-            "value": "For right hemicolectomy",
-            "evidence": "For right hemicolectomy: For right hemicolectomy"
+            "key": "Baseline CT: T(h)",
+            "value": "T2",
+            "evidence": "T2"
         },
         {
             "type": "kv",
-            "key": "1st MDT: date(i)",
-            "value": "06/12/2024",
-            "evidence": "Timeline End: 06/12/2024"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline CT: Date(h)",
-            "value": "18/11/1953",
-            "evidence": "Timeline Start: 18/11/1953"
+            "key": "Baseline CT: N(h)",
+            "value": "N0",
+            "evidence": "N0"
         }
     ]
 }

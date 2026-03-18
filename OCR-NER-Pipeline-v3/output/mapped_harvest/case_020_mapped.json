@@ -1,14 +1,27 @@
 {
     "case_index": 20,
     "mapped_columns": {
-        "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
-        "Radiotherapy: Dates": "62 DAY TARGET: 08/05/2025",
-        "Chemotherapy: Dates": "Hospital Number: 9990021",
-        "Demographics: \nNHS number(d)": "9990000021",
-        "Demographics: \nGender(e)": "Female",
-        "Demographics: \nDOB(a)": "02/02/1939   Age: 87 Years",
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990021\nNHS Number",
+        "Demographics: \nGender(e)": "Female\nDOB",
+        "Demographics: \nDOB(a)": "02/02/1939",
+        "1st MDT: date(i)": "Age",
+        "Surgery: Date of surgery ": "87 Years",
+        "MDT (after 6 week: Date": "08/05/2025",
+        "CEA: Date": "Please note",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "C18.2\nDifferentiation",
+        "CEA: Value": "Well differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Baseline CT: N(h)": "Imaging",
+        "2nd MRI: mrN": "CT on 07/02/2025",
         "Baseline CT: Date(h)": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
-        "MDT (after 6 week: Decision ": "For consideration of FOXTROT.",
-        "1st MDT: date(i)": "07/02/2025"
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Radiotheapy: Boost": "For consideration of FOXTROT."
     }
 }

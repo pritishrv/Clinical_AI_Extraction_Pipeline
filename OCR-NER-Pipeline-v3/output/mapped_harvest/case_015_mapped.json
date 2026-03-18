@@ -1,15 +1,27 @@
 {
     "case_index": 15,
     "mapped_columns": {
-        "Baseline CT: T(h)": "T3d",
-        "Baseline CT: N(h)": "N0",
-        "Histology: Biopsy result(g)": "Suspicious rectosigmoid mass",
-        "Chemotherapy: Dates": "Hospital Number: 9999016",
-        "Demographics: \nNHS number(d)": "9998009016",
-        "Demographics: \nDOB(a)": "03/03/1984    Age: 42 Years",
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999016\nNHS Number",
+        "Demographics: \nDOB(a)": "03/03/1984",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "42 Years",
+        "Watch and wait: Date of death": "42 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "CEA: DRE finding": "D12.6\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrCRM": "MRI pelvis on 13/01/2025",
         "12 week MRI: Date": "T3d, N0, CRM threatened, EMVI negative.",
-        "MDT (after 6 week: Decision ": "For TNT, CRT first",
-        "1st MDT: date(i)": "13/01/2025",
-        "Baseline CT: Date(h)": "03/03/1984"
+        "Baseline CT: EMVI(h)": "T3d, N0, CRM threatened, EMVI negative.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "For TNT, CRT first",
+        "Baseline CT: T(h)": "T3d",
+        "Baseline CT: N(h)": "N0"
     }
 }

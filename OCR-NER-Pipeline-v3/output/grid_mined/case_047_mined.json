@@ -1,0 +1,10 @@
+{
+    "case_index": 47,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000048",
+        "Demographics: MRN(c)": "9990048",
+        "MDT (after 6 week: Decision ": "Refer for colorectal surgical review; staging CT chest requested.",
+        "1st MDT: date(i)": "25/03/2025",
+        "Baseline CT: Date(h)": "17/11/1959"
+    }
+}

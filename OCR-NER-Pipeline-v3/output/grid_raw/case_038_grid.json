@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0",
+    "outcome_row": "Right hemicolectomy",
+    "case_index": 38
+}

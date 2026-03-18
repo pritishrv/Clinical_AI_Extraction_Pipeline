@@ -1,13 +1,25 @@
 {
     "case_index": 17,
     "mapped_columns": {
-        "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
-        "Radiotherapy: Dates": "62 DAY TARGET: 21/12/2024",
-        "Chemotherapy: Dates": "Hospital Number: 9999018",
-        "Demographics: \nNHS number(d)": "9998009018",
-        "Demographics: \nDOB(a)": "28/10/1981   Age: 45 Years",
-        "MDT (after 6 week: Decision ": "PET\u2011CT and oncology consultation.",
-        "1st MDT: date(i)": "29/09/2024",
-        "Baseline CT: Date(h)": "28/10/1981"
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999018\nNHS Number",
+        "Demographics: \nDOB(a)": "28/10/1981",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "45 Years",
+        "Surgery: Date of surgery ": "45 Years",
+        "MDT (after 6 week: Date": "21/12/2024",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "C18.6\nDifferentiation",
+        "CEA: Value": "Poorly differentiated",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: mrEMVI": "PET\u2011CT on 29/09/2024",
+        "Baseline CT: Date(h)": "FDG\u2011avid lesion in the low rectum, no distant uptake.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "PET\u2011CT and oncology consultation."
     }
 }

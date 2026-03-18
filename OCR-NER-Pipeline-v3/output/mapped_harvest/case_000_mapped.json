@@ -1,17 +1,27 @@
 {
     "case_index": 0,
     "mapped_columns": {
-        "Histology: Biopsy result(g)": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
-        "Histology: \nMMR status(g/h)": "MMR deficient",
-        "Radiotherapy: Dates": "62 DAY TARGET: 20/05/2025",
-        "Chemotherapy: Dates": "Hospital Number: 9990001(d)",
-        "Demographics: \nNHS number(d)": "9990000001(c)",
-        "Demographics: \nGender(e)": "26/05/1970(a) Age: 55",
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990001(d)\nNHS Number",
+        "CEA: Value": "55",
+        "MDT (after 6 week: Date": "20/05/2025",
+        "CEA: Date": "Please note",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "CEA: DRE finding": "10",
+        "Demographics: MRN(c)": "C20",
+        "Demographics: Initials(b)": "Differentiation",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "Baseline CT: T(h)": "Colonoscopy",
         "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
-        "MDT (after 6 week: Decision ": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
-        "CEA: Date": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
-        "Endoscopy: Findings(f)": "Adenocarcinoma. MMR deficient",
-        "1st MDT: date(i)": "29/02/2025",
-        "Baseline CT: Date(h)": "26/05/1970"
+        "2nd MRI: Patient pathway status": "Discuss imaging, staging and path",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Colonoscopy noted",
+        "Histology: \nMMR status(g/h)": "Outcome",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
     }
 }

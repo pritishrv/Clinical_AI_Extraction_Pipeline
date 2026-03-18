@@ -1,0 +1,10 @@
+{
+    "case_index": 44,
+    "mined_facts": {
+        "Demographics: \nNHS number(d)": "9990000045",
+        "Demographics: MRN(c)": "9990045",
+        "MDT (after 6 week: Decision ": "Surgery",
+        "1st MDT: date(i)": "23/08/2024",
+        "Baseline CT: Date(h)": "16/11/1982"
+    }
+}

@@ -1,15 +1,27 @@
 {
     "case_index": 14,
     "mapped_columns": {
-        "Baseline CT: T(h)": "T1",
-        "Histology: Biopsy result(g)": "Right\u2011sided colonic tumour",
-        "Radiotherapy: Dates": "62 DAY TARGET: 08/03/2025",
-        "Chemotherapy: Dates": "Hospital Number: 9999015",
-        "Demographics: \nNHS number(d)": "9998009015",
-        "Demographics: \nDOB(a)": "27/03/1972   Age: 54 Years",
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999015\nNHS Number",
+        "CEA: Date": "Age",
+        "Demographics: \nGender(e)": "54 Years",
+        "Surgery: Date of surgery ": "54 Years",
+        "MDT (after 6 week: Date": "08/03/2025",
+        "Watch and wait: Date of death": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "C20\nDifferentiation",
+        "CEA: Value": "Poorly differentiated",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endoscopy: Findings(f)": "Clinical Details(f)",
+        "12 week MRI: Date": "MRI pelvis on 01/12/2024",
         "2nd MRI: Date": "T1 sm1, CRM involved, EMVI positive.",
-        "MDT (after 6 week: Decision ": "Review ? Local excision",
-        "1st MDT: date(i)": "01/12/2024",
-        "Baseline CT: Date(h)": "27/03/1972"
+        "Baseline CT: EMVI(h)": "T1 sm1, CRM involved, EMVI positive.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: N(h)": "Needs CT",
+        "Baseline CT: T(h)": "T1"
     }
 }

@@ -1,0 +1,7 @@
+{
+    "demographics_row": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years | 62 DAY TARGET: 19/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
+    "endoscopy_row": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+    "outcome_row": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+    "case_index": 9
+}
