@@ -20,13 +20,11 @@ The **Clinical-AI Extraction Pipeline** is an automated system designed to solve
 The project has evolved through three distinct architectural strategies to achieve the "wow factor" required for clinical adoption:
 
 | v3 | Fluke Grid | 283 | ~20% | Brittle coordinate-based extraction. |
-| **v4** | **Precision Master**| **1,032** | **~98%** | **Resolved label bleed & identity duplication.** |
+| **v4** | **Precision Master (FINAL)**| **1,032** | **DISCONTINUED** | **Accuracy remains insufficient for production.** |
 
-### Final v4 Precision Master Achievements:
-- **Clean Demographics:** Eliminated "Label Bleed" errors (e.g., fixed `MALEDOB` -> `Male` and `0000NHSNUMBER` -> `0000000000`).
-- **Identity Integrity:** Implemented a deterministic identity resolver that ensures exactly 50 rows, mapping multiple documents to a single patient correctly.
-- **Elite Density:** Maintains 1,032 clinical cells, providing a comprehensive longitudinal journey.
-- **Audit-Ready:** 100% of cells are anchored to source prose via Excel Comments for clinician verification.
+### Final v4 Precision Master Note:
+This iteration is now closed. While it resolved significant structural issues (label bleed and identity duplication) and achieved high density, the overall accuracy plateaued. We are concluding work on this specific architecture.
+
 
 ---
 
