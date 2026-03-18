@@ -1,0 +1,7 @@
+{
+    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
+    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver |",
+    "PRIMARY_TREATMENT": "MDT Outcome(h) | For chemotherapy and review ||| Colorectal Multidisciplinary Meeting(i)",
+    "FOLLOW_UP": "",
+    "case_index": 18
+}

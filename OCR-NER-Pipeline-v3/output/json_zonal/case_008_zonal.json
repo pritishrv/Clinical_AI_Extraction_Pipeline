@@ -1,0 +1,7 @@
+{
+    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9999009\nNHS Number: 9998009009\nOliver Turner\nMale\nDOB: 18/03/1964    Age: 62 Years | 62 DAY TARGET: 11/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
+    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT performed for ? Vasculitis on 13/03/2024: FDG\u2011avid lesion in the ascending colon, no distant uptake. |",
+    "PRIMARY_TREATMENT": "MDT Outcome(h) | Refer for colorectal surgical review colonoscopy, and CT TAP ||| Colorectal Multidisciplinary Meeting 18/09/2024(i)",
+    "FOLLOW_UP": "",
+    "case_index": 8
+}

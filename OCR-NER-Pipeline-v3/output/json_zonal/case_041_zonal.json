@@ -1,0 +1,7 @@
+{
+    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
+    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI- |",
+    "PRIMARY_TREATMENT": "MDT Outcome(h) | Surgery ||| Colorectal Multidisciplinary Meeting 01/07/2024(i)",
+    "FOLLOW_UP": "",
+    "case_index": 41
+}
