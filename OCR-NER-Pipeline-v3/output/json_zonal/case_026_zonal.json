@@ -1,7 +1,0 @@
-{
-    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
-    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 |",
-    "PRIMARY_TREATMENT": "MDT Outcome(h) | For colonoscopy ||| Colorectal Multidisciplinary Meeting 22/03/2024(i)",
-    "FOLLOW_UP": "",
-    "case_index": 26
-}

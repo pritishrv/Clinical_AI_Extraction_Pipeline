@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years | 62 DAY TARGET: 19/07/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
-    "outcome_row": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
-    "case_index": 11
-}

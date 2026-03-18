@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0",
-    "outcome_row": "For colonoscopy, tattoo, left hemicolectomy",
-    "case_index": 32
-}

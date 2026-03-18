@@ -1,7 +1,0 @@
-{
-    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years | 62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
-    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets |",
-    "PRIMARY_TREATMENT": "MDT Outcome(h) | Consider ESD ||| Colorectal Multidisciplinary Meeting 17/03/2024(i)",
-    "FOLLOW_UP": "",
-    "case_index": 37
-}

@@ -1,9 +1,0 @@
-{
-    "case_index": 46,
-    "mined_facts": {
-        "Demographics: \nNHS number(d)": "9990000047",
-        "Demographics: MRN(c)": "9990047",
-        "MDT (after 6 week: Decision ": "Colonoscopy + biopsy + tattoo; return to MDT with histology.",
-        "1st MDT: date(i)": "09/10/1964"
-    }
-}

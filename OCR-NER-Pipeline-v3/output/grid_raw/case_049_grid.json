@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years | 62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
-    "outcome_row": "For colonoscopy and biopsies.",
-    "case_index": 49
-}

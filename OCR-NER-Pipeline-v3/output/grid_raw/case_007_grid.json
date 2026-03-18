@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive.",
-    "outcome_row": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
-    "case_index": 7
-}

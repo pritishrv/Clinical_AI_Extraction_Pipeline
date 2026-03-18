@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
-    "outcome_row": "For MRI rectum to stage.",
-    "case_index": 22
-}

@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years | 62 DAY TARGET: 08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
-    "outcome_row": "For consideration of FOXTROT.",
-    "case_index": 20
-}

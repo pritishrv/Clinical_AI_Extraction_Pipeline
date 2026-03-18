@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0",
-    "outcome_row": "Chemotherapy",
-    "case_index": 42
-}

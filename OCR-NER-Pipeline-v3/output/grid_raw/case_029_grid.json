@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years | 62 DAY TARGET: 30/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
-    "outcome_row": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
-    "case_index": 29
-}

@@ -1,7 +1,0 @@
-{
-    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
-    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0 |",
-    "PRIMARY_TREATMENT": "MDT Outcome(h) | For right hemicolectomy ||| Colorectal Multidisciplinary Meeting 07/03/2025 (i)",
-    "FOLLOW_UP": "",
-    "case_index": 19
-}

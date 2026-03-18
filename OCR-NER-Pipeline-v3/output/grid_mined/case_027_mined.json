@@ -1,9 +1,0 @@
-{
-    "case_index": 27,
-    "mined_facts": {
-        "Demographics: \nNHS number(d)": "9990000028",
-        "Demographics: MRN(c)": "9990028",
-        "MDT (after 6 week: Decision ": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy",
-        "1st MDT: date(i)": "22/06/1950"
-    }
-}

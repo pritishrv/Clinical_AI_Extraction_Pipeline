@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990026\nNHS Number: 9990000026\nName: Sony Smith\nGender: Male\nDOB: 24/04/1955   Age: 71 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Descending colon mass (indeterminate pathology)\nICD10 Code: \nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Symptoms include altered bowel habit, abdominal discomfort, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include back pain.\n\nImaging:\nCT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic.",
-    "outcome_row": "For colonoscopy, need tissue",
-    "case_index": 25
-}

@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years | 62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative.",
-    "outcome_row": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks.",
-    "case_index": 45
-}

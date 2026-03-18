@@ -1,7 +1,0 @@
-{
-    "REFERRAL": "Patient Details | Cancer Target Dates | Hospital Number: 9990028\nNHS Number: 9990000028\nName: Mason Stark\nGender: Male\nDOB: 22/06/1950    Age: 76 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. |",
-    "BASELINE": "Staging & Diagnosis(g) | Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: | Clinical Details(f): | Intermittent episodes of tenesmus and anaemia symptoms affecting daily activities for 10 weeks. \n\nImaging:\nCT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx |",
-    "PRIMARY_TREATMENT": "MDT Outcome(h) | Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy ||| Colorectal Multidisciplinary Meeting 04/01/2025(i)",
-    "FOLLOW_UP": "",
-    "case_index": 27
-}

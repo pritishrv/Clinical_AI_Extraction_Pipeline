@@ -1,7 +1,0 @@
-{
-    "demographics_row": "Hospital Number: 9999005\nNHS Number: 9998009005\nGraham Green\nMale\nDOB: 16/11/1950   Age: 76 Years | 62 DAY TARGET: 14/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
-    "pathology_row": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:",
-    "endoscopy_row": "Symptoms include altered bowel habit, mucous discharge, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes chronic kidney disease stage 3.\n\n\nCT TAP on 06/09/2024: sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases.",
-    "outcome_row": "Refer for colorectal surgical review.",
-    "case_index": 4
-}
