@@ -4,237 +4,266 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...s for malignancy ICD10 Code: C19 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990023"
+            "value": "Hospital Number: 9990023",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990023"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990023"
+            "value": "9990023",
+            "evidence": "Hospital Number: 9990023"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000023"
+            "value": "9990000023",
+            "evidence": "NHS Number: 9990000023"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Ren Kerr"
+            "value": "Ren Kerr",
+            "evidence": "Name: Ren Kerr"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "18/06/1941     Age: 85 Years"
+            "value": "18/06/1941     Age: 85 Years",
+            "evidence": "DOB: 18/06/1941     Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990023"
+            "value": "9990023",
+            "evidence": "Hospital Number: 9990023"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000023"
+            "value": "9990000023",
+            "evidence": "NHS Number: 9990000023"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Ren Kerr"
+            "value": "Ren Kerr",
+            "evidence": "Name: Ren Kerr"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "18/06/1941     Age: 85 Years"
+            "value": "18/06/1941     Age: 85 Years",
+            "evidence": "DOB: 18/06/1941     Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Ascending colon mass suspicious for malignancy"
+            "value": "Diagnosis: Ascending colon mass suspicious for malignancy",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Ascending colon mass suspicious for malignancy"
+            "value": "Ascending colon mass suspicious for malignancy",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C19"
+            "value": "C19",
+            "evidence": "ICD10 Code: C19"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 12/07/2024",
-            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "evidence": "CT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 12/07/2024",
-            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "evidence": "CT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 12/07/2024",
-            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+            "value": "low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "evidence": "CT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For MRI rectum to stage."
+            "value": "For MRI rectum to stage.",
+            "evidence": "MDT Outcome(h): For MRI rectum to stage."
         },
         {
             "type": "kv",
             "key": "For MRI rectum to stage.",
-            "value": "For MRI rectum to stage."
+            "value": "For MRI rectum to stage.",
+            "evidence": "For MRI rectum to stage.: For MRI rectum to stage."
         },
         {
             "type": "kv",
             "key": "For MRI rectum to stage.",
-            "value": "For MRI rectum to stage."
+            "value": "For MRI rectum to stage.",
+            "evidence": "For MRI rectum to stage.: For MRI rectum to stage."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "12/07/2024"
+            "value": "12/07/2024",
+            "evidence": "Timeline End: 12/07/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "18/06/1941"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "18/06/1941"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "12/07/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "12/07/2024"
+            "value": "18/06/1941",
+            "evidence": "Timeline Start: 18/06/1941"
         }
     ]
 }

@@ -5,7 +5,7 @@
         "Baseline CT: N(h)": "N0",
         "Baseline CT: M(h)": "M0",
         "Histology: Biopsy result(g)": "Rectal adenocarcinoma",
-        "Radiotherapy: Dates": "13/03/2025",
+        "Radiotherapy: Dates": "62 DAY TARGET: 13/03/2025",
         "Chemotherapy: Dates": "Hospital Number: 9990024",
         "Demographics: \nNHS number(d)": "9990000024",
         "Demographics: \nGender(e)": "Male",
@@ -14,9 +14,6 @@
         "Surgery: Intent, pre-neoadjuvant therapy": "For surgery",
         "Surgery: Defunctioned?": "For surgery",
         "1st MDT: date(i)": "03/01/2025",
-        "Baseline CT: Date(h)": "06/01/1963",
-        "Baseline MRI: date(h)": "06/01/1963",
-        "2nd MRI: Date": "13/03/2025",
-        "12 week MRI: Date": "03/01/2025"
+        "Baseline CT: Date(h)": "06/01/1963"
     }
 }

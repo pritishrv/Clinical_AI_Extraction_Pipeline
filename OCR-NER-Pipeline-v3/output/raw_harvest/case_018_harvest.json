@@ -4,307 +4,350 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...flammatory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...flammatory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...flammatory vs neoplastic. If malignant staging is T3 N0 M1- liver MDT Outcome(h) MDT Outcome(h) MDT Ou..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...mmatory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody di..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...mmatory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody di..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...mmatory vs neoplastic. If malignant staging is T3 N0 M1- liver MDT Outcome(h) MDT Outcome(h) MDT Outco..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M1"
+            "value": "M1",
+            "evidence": "...tory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody disch..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M1"
+            "value": "M1",
+            "evidence": "...tory vs neoplastic. If malignant staging is T3 N0 M1- liver Symptoms include weight loss, bloody disch..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M1"
+            "value": "M1",
+            "evidence": "...tory vs neoplastic. If malignant staging is T3 N0 M1- liver MDT Outcome(h) MDT Outcome(h) MDT Outcome(..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...nosis(g) Staging & Diagnosis(g) Diagnosis: Rectal adenocarcinoma ICD10 Code: D12.6 Differentiation: Poorly differe..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Poorly"
+            "value": "Poorly differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: D12.6 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "01/04/2024"
+            "value": "62 DAY TARGET: 01/04/2024",
+            "evidence": "...r Gender: Female DOB: 17/05/1940    Age: 86 Years 62 DAY TARGET: 01/04/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990019"
+            "value": "Hospital Number: 9990019",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990019"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990019"
+            "value": "9990019",
+            "evidence": "Hospital Number: 9990019"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000019"
+            "value": "9990000019",
+            "evidence": "NHS Number: 9990000019"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Lauren Fraser"
+            "value": "Lauren Fraser",
+            "evidence": "Name: Lauren Fraser"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "17/05/1940    Age: 86 Years"
+            "value": "17/05/1940    Age: 86 Years",
+            "evidence": "DOB: 17/05/1940    Age: 86 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990019"
+            "value": "9990019",
+            "evidence": "Hospital Number: 9990019"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000019"
+            "value": "9990000019",
+            "evidence": "NHS Number: 9990000019"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Lauren Fraser"
+            "value": "Lauren Fraser",
+            "evidence": "Name: Lauren Fraser"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "17/05/1940    Age: 86 Years"
+            "value": "17/05/1940    Age: 86 Years",
+            "evidence": "DOB: 17/05/1940    Age: 86 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "01/04/2024"
+            "value": "01/04/2024",
+            "evidence": "62 DAY TARGET: 01/04/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Rectal adenocarcinoma"
+            "value": "Diagnosis: Rectal adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Rectal adenocarcinoma"
+            "value": "Rectal adenocarcinoma",
+            "evidence": "Diagnosis: Rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.6"
+            "value": "D12.6",
+            "evidence": "ICD10 Code: D12.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Poorly differentiated"
+            "value": "Poorly differentiated",
+            "evidence": "Differentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 02/01/2024",
-            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
+            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "If malignant staging is T3 N0 M1- liver",
-            "value": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety."
+            "value": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+            "evidence": "If malignant staging is T3 N0 M1- liver: Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 02/01/2024",
-            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
+            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "If malignant staging is T3 N0 M1- liver",
-            "value": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety."
+            "value": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+            "evidence": "If malignant staging is T3 N0 M1- liver: Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 02/01/2024",
-            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
+            "value": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "If malignant staging is T3 N0 M1- liver",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "If malignant staging is T3 N0 M1- liver: MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For chemotherapy and review"
+            "value": "For chemotherapy and review",
+            "evidence": "MDT Outcome(h): For chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "For chemotherapy and review",
-            "value": "For chemotherapy and review"
+            "value": "For chemotherapy and review",
+            "evidence": "For chemotherapy and review: For chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "For chemotherapy and review",
-            "value": "For chemotherapy and review"
+            "value": "For chemotherapy and review",
+            "evidence": "For chemotherapy and review: For chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "02/01/2024"
+            "value": "02/01/2024",
+            "evidence": "Timeline End: 02/01/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "17/05/1940"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "17/05/1940"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "01/04/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "02/01/2024"
+            "value": "17/05/1940",
+            "evidence": "Timeline Start: 17/05/1940"
         }
     ]
 }

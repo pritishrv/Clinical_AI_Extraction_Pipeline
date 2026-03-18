@@ -1,0 +1,14 @@
+{
+    "Baseline CT: T(h)": "T4a",
+    "Baseline CT: N(h)": "N1",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Serrated adenoma with dysplasia",
+    "Chemotherapy: Dates": "Hospital Number: 9990043",
+    "Demographics: \nNHS number(d)": "9990000043",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "22/06/1962   Age: 64 Years",
+    "MDT (after 6 week: Decision ": "Chemotherapy",
+    "Chemotherapy: Drugs": "Chemotherapy",
+    "1st MDT: date(i)": "10/06/2024",
+    "Baseline CT: Date(h)": "22/06/1962"
+}

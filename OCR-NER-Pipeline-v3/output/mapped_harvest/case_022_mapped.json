@@ -9,9 +9,6 @@
         "MDT (after 6 week: Decision ": "For MRI rectum to stage.",
         "2nd MRI: Patient pathway status": "For MRI rectum to stage.",
         "1st MDT: date(i)": "12/07/2024",
-        "Baseline CT: Date(h)": "18/06/1941",
-        "Baseline MRI: date(h)": "18/06/1941",
-        "2nd MRI: Date": "12/07/2024",
-        "12 week MRI: Date": "12/07/2024"
+        "Baseline CT: Date(h)": "18/06/1941"
     }
 }

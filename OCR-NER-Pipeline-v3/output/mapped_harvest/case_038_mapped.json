@@ -12,9 +12,6 @@
         "Demographics: \nDOB(a)": "05/03/1949    Age: 77 Years",
         "MDT (after 6 week: Decision ": "Right hemicolectomy",
         "1st MDT: date(i)": "18/02/2024",
-        "Baseline CT: Date(h)": "05/03/1949",
-        "Baseline MRI: date(h)": "05/03/1949",
-        "2nd MRI: Date": "18/02/2024",
-        "12 week MRI: Date": "18/02/2024"
+        "Baseline CT: Date(h)": "05/03/1949"
     }
 }

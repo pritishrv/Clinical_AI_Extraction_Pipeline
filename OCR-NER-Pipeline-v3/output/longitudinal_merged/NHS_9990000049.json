@@ -1,0 +1,14 @@
+{
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N0",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Tubular adenoma with HGD",
+    "Chemotherapy: Dates": "Hospital Number: 9990049",
+    "Demographics: \nNHS number(d)": "9990000049",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "03/01/1978    Age: 48 Years",
+    "MDT (after 6 week: Decision ": "For colonoscopy",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
+    "1st MDT: date(i)": "20/04/2024",
+    "Baseline CT: Date(h)": "03/01/1978"
+}

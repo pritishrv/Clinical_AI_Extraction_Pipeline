@@ -4,277 +4,314 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new on..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new on..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": ".../2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MD..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal ble..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal ble..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...olypoid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) F..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal bleedi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 Progressive tenesmus with new onset rectal bleedi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...poid lesion in descending colon. T2 (at most), N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) For..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990027"
+            "value": "Hospital Number: 9990027",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990027"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990027"
+            "value": "9990027",
+            "evidence": "Hospital Number: 9990027"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000027"
+            "value": "9990000027",
+            "evidence": "NHS Number: 9990000027"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Mia Edwards"
+            "value": "Mia Edwards",
+            "evidence": "Name: Mia Edwards"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/11/1957    Age: 69 Years"
+            "value": "22/11/1957    Age: 69 Years",
+            "evidence": "DOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990027"
+            "value": "9990027",
+            "evidence": "Hospital Number: 9990027"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000027"
+            "value": "9990000027",
+            "evidence": "NHS Number: 9990000027"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Mia Edwards"
+            "value": "Mia Edwards",
+            "evidence": "Name: Mia Edwards"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/11/1957    Age: 69 Years"
+            "value": "22/11/1957    Age: 69 Years",
+            "evidence": "DOB: 22/11/1957    Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Ascending colon mass suspicious for malignancy"
+            "value": "Diagnosis: Ascending colon mass suspicious for malignancy",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Ascending colon mass suspicious for malignancy"
+            "value": "Ascending colon mass suspicious for malignancy",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.0"
+            "value": "C18.0",
+            "evidence": "ICD10 Code: C18.0"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": ""
+            "value": "",
+            "evidence": "Differentiation:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 27/03/2024",
-            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0"
+            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 27/03/2024",
-            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0"
+            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 27/03/2024",
-            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0"
+            "value": "large polypoid lesion in descending colon. T2 (at most), N1 M0",
+            "evidence": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For colonoscopy"
+            "value": "For colonoscopy",
+            "evidence": "MDT Outcome(h): For colonoscopy"
         },
         {
             "type": "kv",
             "key": "For colonoscopy",
-            "value": "For colonoscopy"
+            "value": "For colonoscopy",
+            "evidence": "For colonoscopy: For colonoscopy"
         },
         {
             "type": "kv",
             "key": "For colonoscopy",
-            "value": "For colonoscopy"
+            "value": "For colonoscopy",
+            "evidence": "For colonoscopy: For colonoscopy"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "27/03/2024"
+            "value": "27/03/2024",
+            "evidence": "Timeline End: 27/03/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "22/11/1957"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "22/11/1957"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "27/03/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "27/03/2024"
+            "value": "22/11/1957",
+            "evidence": "Timeline Start: 22/11/1957"
         }
     ]
 }

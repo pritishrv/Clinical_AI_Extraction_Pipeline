@@ -4,412 +4,476 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...Differentiation:  Poorly differentiated Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...g: T3 N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Clinical Detai..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3c"
+            "value": "T3c",
+            "evidence": "...ends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear Co..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3c"
+            "value": "T3c",
+            "evidence": "...ends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear Co..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3c"
+            "value": "T3c",
+            "evidence": "...ends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...fferentiation:  Poorly differentiated Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0 M0..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...T3 N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Clinical Details(..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear Colonos..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear Colonos..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...rentiation:  Poorly differentiated Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0 M0 In..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...N0 M0 Integrated TNM Stage: Dukes: Staging: T3 N0 M0 Integrated TNM Stage: Dukes: Clinical Details(f):..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "ADENOCARCINOMA"
+            "value": "ADENOCARCINOMA",
+            "evidence": "...& Diagnosis(g) Staging & Diagnosis(g) Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED ICD10 Code: 10 - C20: Ma..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...copy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal l..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...copy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal l..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...copy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal l..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Poorly"
+            "value": "Poorly differentiated",
+            "evidence": "...lasm of rectum - rectal ampulla Differentiation:  Poorly differentiated Staging: T3 N0 M0 Integrated TNM Stage: Dukes: St..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "poorly"
+            "value": "poorly differentiated",
+            "evidence": "...lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal lesion with a low signal..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "poorly"
+            "value": "poorly differentiated",
+            "evidence": "...lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal lesion with a low signal..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "poorly"
+            "value": "poorly differentiated",
+            "evidence": "...lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. MRI 4/3/25 \u2013 low rectal lesion with a low signal..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990002(d)"
+            "value": "Hospital Number: 9990002(d)",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990002(d)"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990002(d)"
+            "value": "9990002(d)",
+            "evidence": "Hospital Number: 9990002(d)"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000002(c)"
+            "value": "9990000002(c)",
+            "evidence": "NHS Number: 9990000002(c)"
         },
         {
             "type": "kv",
             "key": "ZIAD AL-FARSI(b)",
-            "value": "Male(e)"
+            "value": "Male(e)",
+            "evidence": "ZIAD AL-FARSI(b): Male(e)"
         },
         {
             "type": "kv",
             "key": "Male(e)",
-            "value": "30/03/1944 Age: 81 Years(a)"
+            "value": "30/03/1944 Age: 81 Years(a)",
+            "evidence": "Male(e): 30/03/1944 Age: 81 Years(a)"
         },
         {
             "type": "kv",
             "key": "30/03/1944 Age",
-            "value": "81 Years(a)"
+            "value": "81 Years(a)",
+            "evidence": "30/03/1944 Age: 81 Years(a)"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990002(d)"
+            "value": "9990002(d)",
+            "evidence": "Hospital Number: 9990002(d)"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000002(c)"
+            "value": "9990000002(c)",
+            "evidence": "NHS Number: 9990000002(c)"
         },
         {
             "type": "kv",
             "key": "ZIAD AL-FARSI(b)",
-            "value": "Male(e)"
+            "value": "Male(e)",
+            "evidence": "ZIAD AL-FARSI(b): Male(e)"
         },
         {
             "type": "kv",
             "key": "Male(e)",
-            "value": "30/03/1944 Age: 81 Years(a)"
+            "value": "30/03/1944 Age: 81 Years(a)",
+            "evidence": "Male(e): 30/03/1944 Age: 81 Years(a)"
         },
         {
             "type": "kv",
             "key": "30/03/1944 Age",
-            "value": "81 Years(a)"
+            "value": "81 Years(a)",
+            "evidence": "30/03/1944 Age: 81 Years(a)"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla"
+            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+            "evidence": "ICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Poorly differentiated"
+            "value": "Poorly differentiated",
+            "evidence": "Differentiation:  Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": "T3 N0 M0"
+            "value": "T3 N0 M0",
+            "evidence": "Staging: T3 N0 M0"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": "T3 N0 M0"
+            "value": "T3 N0 M0",
+            "evidence": "Staging: T3 N0 M0"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Known prior lymphoma, treated",
-            "value": "Now fresh PR bleeding"
+            "value": "Now fresh PR bleeding",
+            "evidence": "Known prior lymphoma, treated: Now fresh PR bleeding"
         },
         {
             "type": "kv",
             "key": "Now fresh PR bleeding",
-            "value": "Weight loss"
+            "value": "Weight loss",
+            "evidence": "Now fresh PR bleeding: Weight loss"
         },
         {
             "type": "kv",
             "key": "Weight loss",
-            "value": "Referral from haematology MDT with PET-CT avidity in rectum."
+            "value": "Referral from haematology MDT with PET-CT avidity in rectum.",
+            "evidence": "Weight loss: Referral from haematology MDT with PET-CT avidity in rectum."
         },
         {
             "type": "kv",
             "key": "CT 22/2/2025",
-            "value": "no lymphadenopathy. New semi-annular thickening in rectum"
+            "value": "no lymphadenopathy. New semi-annular thickening in rectum",
+            "evidence": "CT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum"
         },
         {
             "type": "kv",
             "key": "PET-CT 1/3/25",
-            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
+            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation.",
+            "evidence": "PET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
         },
         {
             "type": "kv",
             "key": "Haematology-oncology MDT 3/3/25",
-            "value": "for discussion in the lower GI MDT"
+            "value": "for discussion in the lower GI MDT",
+            "evidence": "Haematology-oncology MDT 3/3/25: for discussion in the lower GI MDT"
         },
         {
             "type": "kv",
             "key": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy",
-            "value": "Known prior lymphoma, treated"
+            "value": "Known prior lymphoma, treated",
+            "evidence": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy: Known prior lymphoma, treated"
         },
         {
             "type": "kv",
             "key": "Known prior lymphoma, treated",
-            "value": "Now fresh PR bleeding"
+            "value": "Now fresh PR bleeding",
+            "evidence": "Known prior lymphoma, treated: Now fresh PR bleeding"
         },
         {
             "type": "kv",
             "key": "Now fresh PR bleeding",
-            "value": "Weight loss"
+            "value": "Weight loss",
+            "evidence": "Now fresh PR bleeding: Weight loss"
         },
         {
             "type": "kv",
             "key": "Weight loss",
-            "value": "Referral from haematology MDT with PET-CT avidity in rectum."
+            "value": "Referral from haematology MDT with PET-CT avidity in rectum.",
+            "evidence": "Weight loss: Referral from haematology MDT with PET-CT avidity in rectum."
         },
         {
             "type": "kv",
             "key": "CT 22/2/2025",
-            "value": "no lymphadenopathy. New semi-annular thickening in rectum"
+            "value": "no lymphadenopathy. New semi-annular thickening in rectum",
+            "evidence": "CT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum"
         },
         {
             "type": "kv",
             "key": "PET-CT 1/3/25",
-            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
+            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation.",
+            "evidence": "PET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
         },
         {
             "type": "kv",
             "key": "Haematology-oncology MDT 3/3/25",
-            "value": "for discussion in the lower GI MDT"
+            "value": "for discussion in the lower GI MDT",
+            "evidence": "Haematology-oncology MDT 3/3/25: for discussion in the lower GI MDT"
         },
         {
             "type": "kv",
             "key": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy",
-            "value": "Known prior lymphoma, treated"
+            "value": "Known prior lymphoma, treated",
+            "evidence": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy: Known prior lymphoma, treated"
         },
         {
             "type": "kv",
             "key": "Known prior lymphoma, treated",
-            "value": "Now fresh PR bleeding"
+            "value": "Now fresh PR bleeding",
+            "evidence": "Known prior lymphoma, treated: Now fresh PR bleeding"
         },
         {
             "type": "kv",
             "key": "Now fresh PR bleeding",
-            "value": "Weight loss"
+            "value": "Weight loss",
+            "evidence": "Now fresh PR bleeding: Weight loss"
         },
         {
             "type": "kv",
             "key": "Weight loss",
-            "value": "Referral from haematology MDT with PET-CT avidity in rectum."
+            "value": "Referral from haematology MDT with PET-CT avidity in rectum.",
+            "evidence": "Weight loss: Referral from haematology MDT with PET-CT avidity in rectum."
         },
         {
             "type": "kv",
             "key": "CT 22/2/2025",
-            "value": "no lymphadenopathy. New semi-annular thickening in rectum"
+            "value": "no lymphadenopathy. New semi-annular thickening in rectum",
+            "evidence": "CT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum"
         },
         {
             "type": "kv",
             "key": "PET-CT 1/3/25",
-            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
+            "value": "no nodal avidity, avidity in the mid rectum- recommend direct visualisation.",
+            "evidence": "PET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation."
         },
         {
             "type": "kv",
             "key": "Haematology-oncology MDT 3/3/25",
-            "value": "for discussion in the lower GI MDT"
+            "value": "for discussion in the lower GI MDT",
+            "evidence": "Haematology-oncology MDT 3/3/25: for discussion in the lower GI MDT"
         },
         {
             "type": "kv",
             "key": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "Lower-GI MDT 5/3/35 \u2013 for colonoscopy: MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
+            "value": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
+            "evidence": "MDT Outcome(h): Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
+            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
+            "evidence": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
+            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
+            "evidence": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
+            "value": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
+            "evidence": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "22/2/2025"
+            "value": "22/2/2025",
+            "evidence": "Timeline End: 22/2/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "30/03/1944"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "30/03/1944"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "22/2/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "22/2/2025"
+            "value": "30/03/1944",
+            "evidence": "Timeline Start: 30/03/1944"
         }
     ]
 }

@@ -13,9 +13,6 @@
         "Surgery: Intent, pre-neoadjuvant therapy": "For surgery",
         "Surgery: Defunctioned?": "For surgery",
         "1st MDT: date(i)": "24/01/2025",
-        "Baseline CT: Date(h)": "20/05/1971",
-        "Baseline MRI: date(h)": "20/05/1971",
-        "2nd MRI: Date": "24/01/2025",
-        "12 week MRI: Date": "24/01/2025"
+        "Baseline CT: Date(h)": "20/05/1971"
     }
 }

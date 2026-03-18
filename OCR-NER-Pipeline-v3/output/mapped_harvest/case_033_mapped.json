@@ -5,7 +5,7 @@
         "Baseline CT: N(h)": "N1c",
         "Baseline CT: M(h)": "M0",
         "Histology: Biopsy result(g)": "Caecal adenocarcinoma",
-        "Radiotherapy: Dates": "06/05/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 06/05/2024",
         "Chemotherapy: Dates": "Hospital Number: 9990034",
         "Demographics: \nNHS number(d)": "9990000034",
         "Demographics: \nGender(e)": "Female",
@@ -13,9 +13,6 @@
         "MDT (after 6 week: Decision ": "Chemotherapy and review",
         "Chemotherapy: Drugs": "Chemotherapy and review",
         "1st MDT: date(i)": "13/02/2024",
-        "Baseline CT: Date(h)": "22/07/1976",
-        "Baseline MRI: date(h)": "22/07/1976",
-        "2nd MRI: Date": "06/05/2024",
-        "12 week MRI: Date": "13/02/2024"
+        "Baseline CT: Date(h)": "22/07/1976"
     }
 }

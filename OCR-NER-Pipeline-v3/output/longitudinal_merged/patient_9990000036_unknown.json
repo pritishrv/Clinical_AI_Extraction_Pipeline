@@ -1,0 +1,15 @@
+{
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N1",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Large sessile polyp with possible malignant change",
+    "Surgery: Intent, pre-neoadjuvant therapy": "hemicolectomy",
+    "Chemotherapy: Dates": "Hospital Number: 9990036",
+    "Demographics: \nNHS number(d)": "9990000036",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "04/07/1981    Age: 45 Years",
+    "Endoscopy: date(f)": "Large sessile polyp at descending colon with abnormal pit pattern",
+    "MDT (after 6 week: Decision ": "Left hemicolectomy, needs completion CT thorax",
+    "1st MDT: date(i)": "07/01/2024",
+    "Baseline CT: Date(h)": "04/07/1981"
+}

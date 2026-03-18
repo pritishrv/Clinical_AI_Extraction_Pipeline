@@ -4,302 +4,344 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weigh..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weigh..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...omen on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weight l..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...omen on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weight l..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...omen on 07/01/2024: polyp at descending colon, T2 N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) L..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...n on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weight loss..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...n on 07/01/2024: polyp at descending colon, T2 N1 M0 Symptoms include altered bowel habit, weight loss..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...n on 07/01/2024: polyp at descending colon, T2 N1 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Left..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...malignant change ICD10 Code: C19 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Left hemicolectomy, needs completion CT thorax Left hemicolectomy, n..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...ft hemicolectomy, needs completion CT thorax Left hemicolectomy, needs completion CT thorax Left hemicolectomy, n..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...ft hemicolectomy, needs completion CT thorax Left hemicolectomy, needs completion CT thorax..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990036"
+            "value": "Hospital Number: 9990036",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990036"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990036"
+            "value": "9990036",
+            "evidence": "Hospital Number: 9990036"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000036"
+            "value": "9990000036",
+            "evidence": "NHS Number: 9990000036"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Leo Hall"
+            "value": "Leo Hall",
+            "evidence": "Name: Leo Hall"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "04/07/1981    Age: 45 Years"
+            "value": "04/07/1981    Age: 45 Years",
+            "evidence": "DOB: 04/07/1981    Age: 45 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990036"
+            "value": "9990036",
+            "evidence": "Hospital Number: 9990036"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000036"
+            "value": "9990000036",
+            "evidence": "NHS Number: 9990000036"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Leo Hall"
+            "value": "Leo Hall",
+            "evidence": "Name: Leo Hall"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "04/07/1981    Age: 45 Years"
+            "value": "04/07/1981    Age: 45 Years",
+            "evidence": "DOB: 04/07/1981    Age: 45 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Large sessile polyp with possible malignant change"
+            "value": "Diagnosis: Large sessile polyp with possible malignant change",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Large sessile polyp with possible malignant change"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Large sessile polyp with possible malignant change"
+            "value": "Large sessile polyp with possible malignant change",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C19"
+            "value": "C19",
+            "evidence": "ICD10 Code: C19"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy 01/01/2024",
-            "value": "Large sessile polyp at descending colon with abnormal pit pattern"
+            "value": "Large sessile polyp at descending colon with abnormal pit pattern",
+            "evidence": "Colonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 07/01/2024",
-            "value": "polyp at descending colon, T2 N1 M0"
+            "value": "polyp at descending colon, T2 N1 M0",
+            "evidence": "CT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy 01/01/2024",
-            "value": "Large sessile polyp at descending colon with abnormal pit pattern"
+            "value": "Large sessile polyp at descending colon with abnormal pit pattern",
+            "evidence": "Colonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 07/01/2024",
-            "value": "polyp at descending colon, T2 N1 M0"
+            "value": "polyp at descending colon, T2 N1 M0",
+            "evidence": "CT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy 01/01/2024",
-            "value": "Large sessile polyp at descending colon with abnormal pit pattern"
+            "value": "Large sessile polyp at descending colon with abnormal pit pattern",
+            "evidence": "Colonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 07/01/2024",
-            "value": "polyp at descending colon, T2 N1 M0"
+            "value": "polyp at descending colon, T2 N1 M0",
+            "evidence": "CT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Left hemicolectomy, needs completion CT thorax"
+            "value": "Left hemicolectomy, needs completion CT thorax",
+            "evidence": "MDT Outcome(h): Left hemicolectomy, needs completion CT thorax"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "07/01/2024"
+            "value": "07/01/2024",
+            "evidence": "Timeline End: 07/01/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "04/07/1981"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "04/07/1981"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "01/01/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "07/01/2024"
+            "value": "04/07/1981",
+            "evidence": "Timeline Start: 04/07/1981"
         }
     ]
 }

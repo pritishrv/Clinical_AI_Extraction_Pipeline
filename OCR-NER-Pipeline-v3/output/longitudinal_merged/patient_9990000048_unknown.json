@@ -1,0 +1,14 @@
+{
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N1",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Caecal adenocarcinoma",
+    "Radiotherapy: Dates": "62 DAY TARGET: 25/03/2025",
+    "Chemotherapy: Dates": "Hospital Number: 9990048",
+    "Demographics: \nNHS number(d)": "9990000048",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "17/11/1959   Age: 66 Years",
+    "MDT (after 6 week: Decision ": "Refer for colorectal surgical review; staging CT chest requested.",
+    "1st MDT: date(i)": "28/12/2024",
+    "Baseline CT: Date(h)": "17/11/1959"
+}

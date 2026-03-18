@@ -1,0 +1,14 @@
+{
+    "Baseline CT: T(h)": "T2",
+    "Baseline CT: N(h)": "N0",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Descending colon mass (adenocarcinoma)",
+    "Surgery: Intent, pre-neoadjuvant therapy": "hemicolectomy",
+    "Chemotherapy: Dates": "Hospital Number: 9990039",
+    "Demographics: \nNHS number(d)": "9990000039",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "05/03/1949    Age: 77 Years",
+    "MDT (after 6 week: Decision ": "Right hemicolectomy",
+    "1st MDT: date(i)": "18/02/2024",
+    "Baseline CT: Date(h)": "05/03/1949"
+}

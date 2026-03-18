@@ -10,9 +10,6 @@
         "Demographics: \nDOB(a)": "22/06/1950    Age: 76 Years",
         "MDT (after 6 week: Decision ": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy",
         "1st MDT: date(i)": "16/02/2024",
-        "Baseline CT: Date(h)": "22/06/1950",
-        "Baseline MRI: date(h)": "22/06/1950",
-        "2nd MRI: Date": "16/02/2024",
-        "12 week MRI: Date": "16/02/2024"
+        "Baseline CT: Date(h)": "22/06/1950"
     }
 }

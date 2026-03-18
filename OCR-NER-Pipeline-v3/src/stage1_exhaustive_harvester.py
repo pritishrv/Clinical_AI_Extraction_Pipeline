@@ -9,8 +9,9 @@ PROJECT_ROOT = Path("/Users/joshuabhawanlall/Git Folder/Clinical_AI_Extraction_P
 DOCX_PATH = PROJECT_ROOT / "data/hackathon-mdt-outcome-proformas.docx"
 OUTPUT_DIR = PROJECT_ROOT / "OCR-NER-Pipeline-v3/output/raw_harvest"
 
-# --- THE PLATINUM CLINICAL DICTIONARY ---
+# --- THE DIAMOND CLINICAL DICTIONARY ---
 CLINICAL_MAP = {
+    # Staging
     r"\bT[0-4][a-d]?\b": "Baseline CT: T(h)",
     r"\bN[0-3][a-c]?\b": "Baseline CT: N(h)",
     r"\bM[01][a-c]?\b": "Baseline CT: M(h)",
@@ -34,13 +35,13 @@ CLINICAL_MAP = {
     r"curative|palliative": "Chemotherapy: Treatment goals  \n(curative, palliative)",
     r"resection|hemicolectomy|anterior resection": "Surgery: Intent, pre-neoadjuvant therapy",
     
-    # New High-Density Markers
-    r"62\s*DAY\s*TARGET:\s*(\d{1,2}/\d{1,2}/\d{4})": "Radiotherapy: Dates", # Proxy for target
+    # New Markers
+    r"62\s*DAY\s*TARGET:\s*(\d{1,2}/\d{1,2}/\d{4})": "Radiotherapy: Dates",
     r"31\s*DAY\s*TARGET:\s*(\d{1,2}/\d{1,2}/\d{4})": "Radiotherapy: Dates",
     r"CEA\s*[:\-\u2013]?\s*([\d\.]+)": "CEA: Value",
 }
 
-def harvest_case_v5(table):
+def harvest_case_v7(table):
     candidates = []
     
     # 1. Structural extraction
@@ -52,29 +53,34 @@ def harvest_case_v5(table):
         
     full_case_text = " ".join(all_lines)
     
-    # 2. ULTIMATE SEMANTIC MINER
+    # 2. SEMANTIC MINER (Regex-based Entity Capture)
     for pattern, column in CLINICAL_MAP.items():
-        matches = re.findall(pattern, full_case_text, re.I)
-        for m in matches:
-            val = m if isinstance(m, str) else m[0]
-            candidates.append({"type": "kv", "key": column, "value": val.strip()})
+        for match in re.finditer(pattern, full_case_text, re.I):
+            start = max(0, match.start() - 50)
+            end = min(len(full_case_text), match.end() + 50)
+            snippet = full_case_text[start:end].strip()
+            
+            val = match.group(0)
+            candidates.append({
+                "type": "kv",
+                "key": column,
+                "value": val,
+                "evidence": f"...{snippet}..."
+            })
 
     # 3. Structural Pairs
     for i, line in enumerate(all_lines):
         if ":" in line:
             parts = line.split(":", 1)
-            candidates.append({"type": "kv", "key": parts[0].strip(), "value": parts[1].strip()})
+            candidates.append({"type": "kv", "key": parts[0].strip(), "value": parts[1].strip(), "evidence": line})
         elif i < len(all_lines) - 1 and len(line) < 40:
-            candidates.append({"type": "kv", "key": line, "value": all_lines[i+1]})
+            candidates.append({"type": "kv", "key": line, "value": all_lines[i+1], "evidence": f"{line}: {all_lines[i+1]}"})
             
-    # 4. Global Date Sequence Miner (Aggressive)
+    # 4. Global Date Sequence Miner
     dates = re.findall(r"(\d{1,2}/\d{1,2}/\d{4})", full_case_text)
     if dates:
-        candidates.append({"type": "kv", "key": "1st MDT: date(i)", "value": dates[-1]})
-        if len(dates) > 1: candidates.append({"type": "kv", "key": "Baseline CT: Date(h)", "value": dates[0]})
-        if len(dates) > 2: candidates.append({"type": "kv", "key": "Baseline MRI: date(h)", "value": dates[1]})
-        if len(dates) > 3: candidates.append({"type": "kv", "key": "2nd MRI: Date", "value": dates[2]})
-        if len(dates) > 4: candidates.append({"type": "kv", "key": "12 week MRI: Date", "value": dates[3]})
+        candidates.append({"type": "kv", "key": "1st MDT: date(i)", "value": dates[-1], "evidence": f"Timeline End: {dates[-1]}"})
+        if len(dates) > 1: candidates.append({"type": "kv", "key": "Baseline CT: Date(h)", "value": dates[0], "evidence": f"Timeline Start: {dates[0]}"})
 
     return candidates
 
@@ -82,10 +88,10 @@ def main():
     if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
     doc = Document(DOCX_PATH)
     for i, table in enumerate(doc.tables):
-        harvested = harvest_case_v5(table)
+        harvested = harvest_case_v7(table)
         with open(OUTPUT_DIR / f"case_{i:03d}_harvest.json", "w") as f:
             json.dump({"case_index": i, "candidates": harvested}, f, indent=4)
-    print(f"Platinum v5 Harvesting complete.")
+    print(f"Diamond Standard v7 Harvesting complete.")
 
 if __name__ == "__main__":
     main()

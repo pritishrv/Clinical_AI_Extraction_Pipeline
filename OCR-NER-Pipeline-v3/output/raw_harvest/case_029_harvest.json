@@ -4,292 +4,332 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T1"
+            "value": "T1",
+            "evidence": "...: MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative Progressi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T1"
+            "value": "T1",
+            "evidence": "...: MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative Progressi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T1"
+            "value": "T1",
+            "evidence": "...: MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative MDT Outco..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ctum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative Progressive anaem..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ctum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative Progressive anaem..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ctum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative MDT Outcome(h) MD..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...nosis(g) Staging & Diagnosis(g) Diagnosis: Rectal adenocarcinoma ICD10 Code: C18.4 Differentiation: Poorly differe..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Poorly"
+            "value": "Poorly differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: C18.4 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "30/06/2024"
+            "value": "62 DAY TARGET: 30/06/2024",
+            "evidence": "...Gender: Female DOB: 12/05/1957     Age: 69 Years 62 DAY TARGET: 30/06/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990030"
+            "value": "Hospital Number: 9990030",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990030"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990030"
+            "value": "9990030",
+            "evidence": "Hospital Number: 9990030"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000030"
+            "value": "9990000030",
+            "evidence": "NHS Number: 9990000030"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Effy King"
+            "value": "Effy King",
+            "evidence": "Name: Effy King"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "12/05/1957     Age: 69 Years"
+            "value": "12/05/1957     Age: 69 Years",
+            "evidence": "DOB: 12/05/1957     Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990030"
+            "value": "9990030",
+            "evidence": "Hospital Number: 9990030"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000030"
+            "value": "9990000030",
+            "evidence": "NHS Number: 9990000030"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Effy King"
+            "value": "Effy King",
+            "evidence": "Name: Effy King"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "12/05/1957     Age: 69 Years"
+            "value": "12/05/1957     Age: 69 Years",
+            "evidence": "DOB: 12/05/1957     Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "30/06/2024"
+            "value": "30/06/2024",
+            "evidence": "62 DAY TARGET: 30/06/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Rectal adenocarcinoma"
+            "value": "Diagnosis: Rectal adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Rectal adenocarcinoma"
+            "value": "Rectal adenocarcinoma",
+            "evidence": "Diagnosis: Rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.4"
+            "value": "C18.4",
+            "evidence": "ICD10 Code: C18.4"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Poorly differentiated"
+            "value": "Poorly differentiated",
+            "evidence": "Differentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Colonoscopy \u2013 mass in rectum",
-            "value": "Imaging:"
+            "value": "Imaging:",
+            "evidence": "Colonoscopy \u2013 mass in rectum: Imaging:"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "MRI rectum on 15/04/2024",
-            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "evidence": "MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
         },
         {
             "type": "kv",
             "key": "Colonoscopy \u2013 mass in rectum",
-            "value": "Imaging:"
+            "value": "Imaging:",
+            "evidence": "Colonoscopy \u2013 mass in rectum: Imaging:"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "MRI rectum on 15/04/2024",
-            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "evidence": "MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
         },
         {
             "type": "kv",
             "key": "Colonoscopy \u2013 mass in rectum",
-            "value": "Imaging:"
+            "value": "Imaging:",
+            "evidence": "Colonoscopy \u2013 mass in rectum: Imaging:"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "MRI rectum on 15/04/2024",
-            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+            "value": "large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "evidence": "MRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Consider local excision with histology review at MDT."
+            "value": "Consider local excision with histology review at MDT.",
+            "evidence": "MDT Outcome(h): Consider local excision with histology review at MDT."
         },
         {
             "type": "kv",
             "key": "Needs CT TAP",
-            "value": "Consider local excision with histology review at MDT."
+            "value": "Consider local excision with histology review at MDT.",
+            "evidence": "Needs CT TAP: Consider local excision with histology review at MDT."
         },
         {
             "type": "kv",
             "key": "Needs CT TAP",
-            "value": "Consider local excision with histology review at MDT."
+            "value": "Consider local excision with histology review at MDT.",
+            "evidence": "Needs CT TAP: Consider local excision with histology review at MDT."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "15/04/2024"
+            "value": "15/04/2024",
+            "evidence": "Timeline End: 15/04/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "12/05/1957"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "12/05/1957"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "30/06/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "15/04/2024"
+            "value": "12/05/1957",
+            "evidence": "Timeline Start: 12/05/1957"
         }
     ]
 }

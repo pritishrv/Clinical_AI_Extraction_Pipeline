@@ -5,7 +5,7 @@
         "Baseline CT: M(h)": "M0",
         "Histology: Biopsy result(g)": "Caecal adenocarcinoma",
         "Surgery: Intent, pre-neoadjuvant therapy": "hemicolectomy",
-        "Radiotherapy: Dates": "15/12/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 15/12/2024",
         "Chemotherapy: Dates": "Hospital Number: 9990040",
         "Demographics: \nNHS number(d)": "9990000040",
         "Demographics: \nGender(e)": "Female",
@@ -14,7 +14,6 @@
         "MDT (after 6 week: Decision ": "For right hemicolectomy",
         "Surgery: Defunctioned?": "For right hemicolectomy",
         "1st MDT: date(i)": "15/12/2024",
-        "Baseline CT: Date(h)": "08/08/1956",
-        "Baseline MRI: date(h)": "08/08/1956"
+        "Baseline CT: Date(h)": "08/08/1956"
     }
 }

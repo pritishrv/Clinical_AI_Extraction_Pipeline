@@ -4,237 +4,266 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Poorly"
+            "value": "Poorly differentiated",
+            "evidence": "...adenoma with HGD ICD10 Code: C20 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999017"
+            "value": "Hospital Number: 9999017",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999017"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999017"
+            "value": "9999017",
+            "evidence": "Hospital Number: 9999017"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009017"
+            "value": "9998009017",
+            "evidence": "NHS Number: 9998009017"
         },
         {
             "type": "kv",
             "key": "Sophia Green",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Sophia Green: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 25/07/1965   Age: 61 Years"
+            "value": "DOB: 25/07/1965   Age: 61 Years",
+            "evidence": "Female: DOB: 25/07/1965   Age: 61 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "25/07/1965   Age: 61 Years"
+            "value": "25/07/1965   Age: 61 Years",
+            "evidence": "DOB: 25/07/1965   Age: 61 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999017"
+            "value": "9999017",
+            "evidence": "Hospital Number: 9999017"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009017"
+            "value": "9998009017",
+            "evidence": "NHS Number: 9998009017"
         },
         {
             "type": "kv",
             "key": "Sophia Green",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Sophia Green: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 25/07/1965   Age: 61 Years"
+            "value": "DOB: 25/07/1965   Age: 61 Years",
+            "evidence": "Female: DOB: 25/07/1965   Age: 61 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "25/07/1965   Age: 61 Years"
+            "value": "25/07/1965   Age: 61 Years",
+            "evidence": "DOB: 25/07/1965   Age: 61 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Tubular adenoma with HGD"
+            "value": "Diagnosis: Tubular adenoma with HGD",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Tubular adenoma with HGD"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Tubular adenoma with HGD"
+            "value": "Tubular adenoma with HGD",
+            "evidence": "Diagnosis: Tubular adenoma with HGD"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C20"
+            "value": "C20",
+            "evidence": "ICD10 Code: C20"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Poorly differentiated"
+            "value": "Poorly differentiated",
+            "evidence": "Differentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "CT \u2013 10/9/24",
-            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "CT \u2013 10/9/24: PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "PET\u2011CT on 14/09/2024",
-            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "CT \u2013 10/9/24",
-            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "CT \u2013 10/9/24: PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "PET\u2011CT on 14/09/2024",
-            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "CT \u2013 10/9/24",
-            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "CT \u2013 10/9/24: PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "PET\u2011CT on 14/09/2024",
-            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake."
+            "value": "FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "evidence": "PET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Needs MRI for local staging"
+            "value": "Needs MRI for local staging",
+            "evidence": "MDT Outcome(h): Needs MRI for local staging"
         },
         {
             "type": "kv",
             "key": "Needs MRI for local staging",
-            "value": "Needs MRI for local staging"
+            "value": "Needs MRI for local staging",
+            "evidence": "Needs MRI for local staging: Needs MRI for local staging"
         },
         {
             "type": "kv",
             "key": "Needs MRI for local staging",
-            "value": "Needs MRI for local staging"
+            "value": "Needs MRI for local staging",
+            "evidence": "Needs MRI for local staging: Needs MRI for local staging"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "14/09/2024"
+            "value": "14/09/2024",
+            "evidence": "Timeline End: 14/09/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "25/07/1965"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "25/07/1965"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "14/09/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "14/09/2024"
+            "value": "25/07/1965",
+            "evidence": "Timeline Start: 25/07/1965"
         }
     ]
 }

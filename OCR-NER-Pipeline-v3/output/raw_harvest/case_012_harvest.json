@@ -4,247 +4,278 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...ng & Diagnosis(g) Diagnosis: MMR\u2011deficient rectal adenocarcinoma ICD10 Code: D12.6 Differentiation: Well different..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Well"
+            "value": "Well differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: D12.6 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Chemotherapy: Treatment goals  \n(curative, palliative)",
-            "value": "curative"
+            "value": "curative",
+            "evidence": "...d breast lesion. Breast cancer being treated with curative intent Known breast cancer, had PET-CT which also..."
         },
         {
             "type": "kv",
             "key": "Chemotherapy: Treatment goals  \n(curative, palliative)",
-            "value": "curative"
+            "value": "curative",
+            "evidence": "...d breast lesion. Breast cancer being treated with curative intent Known breast cancer, had PET-CT which also..."
         },
         {
             "type": "kv",
             "key": "Chemotherapy: Treatment goals  \n(curative, palliative)",
-            "value": "curative"
+            "value": "curative",
+            "evidence": "...d breast lesion. Breast cancer being treated with curative intent MDT Outcome(h) MDT Outcome(h) MDT Outcome(..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "15/03/2025"
+            "value": "62 DAY TARGET: 15/03/2025",
+            "evidence": "...eah Morris Female DOB: 28/04/1952   Age: 74 Years 62 DAY TARGET: 15/03/2025 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999013"
+            "value": "Hospital Number: 9999013",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999013"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999013"
+            "value": "9999013",
+            "evidence": "Hospital Number: 9999013"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009013"
+            "value": "9998009013",
+            "evidence": "NHS Number: 9998009013"
         },
         {
             "type": "kv",
             "key": "Leah Morris",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Leah Morris: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 28/04/1952   Age: 74 Years"
+            "value": "DOB: 28/04/1952   Age: 74 Years",
+            "evidence": "Female: DOB: 28/04/1952   Age: 74 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "28/04/1952   Age: 74 Years"
+            "value": "28/04/1952   Age: 74 Years",
+            "evidence": "DOB: 28/04/1952   Age: 74 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999013"
+            "value": "9999013",
+            "evidence": "Hospital Number: 9999013"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009013"
+            "value": "9998009013",
+            "evidence": "NHS Number: 9998009013"
         },
         {
             "type": "kv",
             "key": "Leah Morris",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Leah Morris: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 28/04/1952   Age: 74 Years"
+            "value": "DOB: 28/04/1952   Age: 74 Years",
+            "evidence": "Female: DOB: 28/04/1952   Age: 74 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "28/04/1952   Age: 74 Years"
+            "value": "28/04/1952   Age: 74 Years",
+            "evidence": "DOB: 28/04/1952   Age: 74 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "15/03/2025"
+            "value": "15/03/2025",
+            "evidence": "62 DAY TARGET: 15/03/2025"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma"
+            "value": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: MMR\u2011deficient rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "MMR\u2011deficient rectal adenocarcinoma"
+            "value": "MMR\u2011deficient rectal adenocarcinoma",
+            "evidence": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.6"
+            "value": "D12.6",
+            "evidence": "ICD10 Code: D12.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Well differentiated"
+            "value": "Well differentiated",
+            "evidence": "Differentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Known breast cancer, had PET-CT which also showed (29/12/2024)",
-            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion."
+            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion."
         },
         {
             "type": "kv",
             "key": "Known breast cancer, had PET-CT which also showed (29/12/2024)",
-            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion."
+            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion."
         },
         {
             "type": "kv",
             "key": "Known breast cancer, had PET-CT which also showed (29/12/2024)",
-            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion."
+            "value": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
+            "evidence": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Colpnoscopy, biopsy, MRI"
+            "value": "Colpnoscopy, biopsy, MRI",
+            "evidence": "MDT Outcome(h): Colpnoscopy, biopsy, MRI"
         },
         {
             "type": "kv",
             "key": "Colpnoscopy, biopsy, MRI",
-            "value": "Colpnoscopy, biopsy, MRI"
+            "value": "Colpnoscopy, biopsy, MRI",
+            "evidence": "Colpnoscopy, biopsy, MRI: Colpnoscopy, biopsy, MRI"
         },
         {
             "type": "kv",
             "key": "Colpnoscopy, biopsy, MRI",
-            "value": "Colpnoscopy, biopsy, MRI"
+            "value": "Colpnoscopy, biopsy, MRI",
+            "evidence": "Colpnoscopy, biopsy, MRI: Colpnoscopy, biopsy, MRI"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "29/12/2024"
+            "value": "29/12/2024",
+            "evidence": "Timeline End: 29/12/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "28/04/1952"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "28/04/1952"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "15/03/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "29/12/2024"
+            "value": "28/04/1952",
+            "evidence": "Timeline Start: 28/04/1952"
         }
     ]
 }

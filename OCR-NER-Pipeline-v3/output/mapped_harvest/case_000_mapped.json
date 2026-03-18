@@ -3,7 +3,7 @@
     "mapped_columns": {
         "Histology: Biopsy result(g)": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
         "Histology: \nMMR status(g/h)": "MMR deficient",
-        "Radiotherapy: Dates": "20/05/2025",
+        "Radiotherapy: Dates": "62 DAY TARGET: 20/05/2025",
         "Chemotherapy: Dates": "Hospital Number: 9990001(d)",
         "Demographics: \nNHS number(d)": "9990000001(c)",
         "Demographics: \nGender(e)": "26/05/1970(a) Age: 55",
@@ -12,9 +12,6 @@
         "CEA: Date": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
         "Endoscopy: Findings(f)": "Adenocarcinoma. MMR deficient",
         "1st MDT: date(i)": "29/02/2025",
-        "Baseline CT: Date(h)": "26/05/1970",
-        "Baseline MRI: date(h)": "26/05/1970",
-        "2nd MRI: Date": "20/05/2025",
-        "12 week MRI: Date": "29/02/2025"
+        "Baseline CT: Date(h)": "26/05/1970"
     }
 }

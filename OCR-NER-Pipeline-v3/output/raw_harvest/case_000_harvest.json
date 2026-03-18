@@ -4,342 +4,392 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "ADENOCARCINOMA"
+            "value": "ADENOCARCINOMA",
+            "evidence": "...& Diagnosis(g) Staging & Diagnosis(g) Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED ICD10 Code: 10 - C20: Ma..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Adenocarcinoma"
+            "value": "Adenocarcinoma",
+            "evidence": "...eritoneal lymph nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Redis..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Adenocarcinoma"
+            "value": "Adenocarcinoma",
+            "evidence": "...eritoneal lymph nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Redis..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Adenocarcinoma"
+            "value": "Adenocarcinoma",
+            "evidence": "...eritoneal lymph nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Redis..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...lasm of rectum - rectal ampulla Differentiation:  Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Histology: \nMMR status(g/h)",
-            "value": "MMR deficient"
+            "value": "MMR deficient",
+            "evidence": "...nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Rediscuss at MDT for..."
         },
         {
             "type": "kv",
             "key": "Histology: \nMMR status(g/h)",
-            "value": "MMR deficient"
+            "value": "MMR deficient",
+            "evidence": "...nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Rediscuss at MDT for..."
         },
         {
             "type": "kv",
             "key": "Histology: \nMMR status(g/h)",
-            "value": "MMR deficient"
+            "value": "MMR deficient",
+            "evidence": "...nodes. Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient Outcome: MRI Rectum, PET CT. Rediscuss at MDT for..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "20/05/2025"
+            "value": "62 DAY TARGET: 20/05/2025",
+            "evidence": "...) AIDEN O'CONNOR(b) Male(e) 26/05/1970(a) Age: 55 62 DAY TARGET: 20/05/2025 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990001(d)"
+            "value": "Hospital Number: 9990001(d)",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990001(d)"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990001(d)"
+            "value": "9990001(d)",
+            "evidence": "Hospital Number: 9990001(d)"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000001(c)"
+            "value": "9990000001(c)",
+            "evidence": "NHS Number: 9990000001(c)"
         },
         {
             "type": "kv",
             "key": "AIDEN O'CONNOR(b)",
-            "value": "Male(e)"
+            "value": "Male(e)",
+            "evidence": "AIDEN O'CONNOR(b): Male(e)"
         },
         {
             "type": "kv",
             "key": "Male(e)",
-            "value": "26/05/1970(a) Age: 55"
+            "value": "26/05/1970(a) Age: 55",
+            "evidence": "Male(e): 26/05/1970(a) Age: 55"
         },
         {
             "type": "kv",
             "key": "26/05/1970(a) Age",
-            "value": "55"
+            "value": "55",
+            "evidence": "26/05/1970(a) Age: 55"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990001(d)"
+            "value": "9990001(d)",
+            "evidence": "Hospital Number: 9990001(d)"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000001(c)"
+            "value": "9990000001(c)",
+            "evidence": "NHS Number: 9990000001(c)"
         },
         {
             "type": "kv",
             "key": "AIDEN O'CONNOR(b)",
-            "value": "Male(e)"
+            "value": "Male(e)",
+            "evidence": "AIDEN O'CONNOR(b): Male(e)"
         },
         {
             "type": "kv",
             "key": "Male(e)",
-            "value": "26/05/1970(a) Age: 55"
+            "value": "26/05/1970(a) Age: 55",
+            "evidence": "Male(e): 26/05/1970(a) Age: 55"
         },
         {
             "type": "kv",
             "key": "26/05/1970(a) Age",
-            "value": "55"
+            "value": "55",
+            "evidence": "26/05/1970(a) Age: 55"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "20/05/2025"
+            "value": "20/05/2025",
+            "evidence": "62 DAY TARGET: 20/05/2025"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla"
+            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+            "evidence": "ICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation:  Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "TWR / DTT",
-            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "TWR / DTT: Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Discuss imaging, staging and path",
-            "value": "TWR / DTT"
+            "value": "TWR / DTT",
+            "evidence": "Discuss imaging, staging and path: TWR / DTT"
         },
         {
             "type": "kv",
             "key": "TWR / DTT",
-            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "TWR / DTT: Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Discuss imaging, staging and path",
-            "value": "TWR / DTT"
+            "value": "TWR / DTT",
+            "evidence": "Discuss imaging, staging and path: TWR / DTT"
         },
         {
             "type": "kv",
             "key": "TWR / DTT",
-            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "TWR / DTT: Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
+            "value": "At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+            "evidence": "Colonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy."
         },
         {
             "type": "kv",
             "key": "Discuss imaging, staging and path",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "Discuss imaging, staging and path: MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "DTT"
+            "value": "DTT",
+            "evidence": "MDT Outcome(h): DTT"
         },
         {
             "type": "kv",
             "key": "DTT",
-            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "DTT: CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "CT 29/02/2025",
-            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "Colonoscopy noted - Histo",
-            "value": "Adenocarcinoma. MMR deficient"
+            "value": "Adenocarcinoma. MMR deficient",
+            "evidence": "Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "evidence": "Outcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
         },
         {
             "type": "kv",
             "key": "DTT",
-            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "DTT: CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "CT 29/02/2025",
-            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "Colonoscopy noted - Histo",
-            "value": "Adenocarcinoma. MMR deficient"
+            "value": "Adenocarcinoma. MMR deficient",
+            "evidence": "Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "evidence": "Outcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
         },
         {
             "type": "kv",
             "key": "DTT",
-            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "DTT: CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "CT 29/02/2025",
-            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+            "value": "Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes.",
+            "evidence": "CT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
         },
         {
             "type": "kv",
             "key": "Colonoscopy noted - Histo",
-            "value": "Adenocarcinoma. MMR deficient"
+            "value": "Adenocarcinoma. MMR deficient",
+            "evidence": "Colonoscopy noted - Histo: Adenocarcinoma. MMR deficient"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+            "value": "MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "evidence": "Outcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "29/02/2025"
+            "value": "29/02/2025",
+            "evidence": "Timeline End: 29/02/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "26/05/1970"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "26/05/1970"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "20/05/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "29/02/2025"
+            "value": "26/05/1970",
+            "evidence": "Timeline Start: 26/05/1970"
         }
     ]
 }

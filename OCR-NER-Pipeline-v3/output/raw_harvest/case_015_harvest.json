@@ -4,252 +4,284 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3d"
+            "value": "T3d",
+            "evidence": "...tory of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. Symptoms incl..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3d"
+            "value": "T3d",
+            "evidence": "...tory of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. Symptoms incl..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3d"
+            "value": "T3d",
+            "evidence": "...tory of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. MDT Outcome(h..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. Symptoms include..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. Symptoms include..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...of prostate cancer MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. MDT Outcome(h) MD..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Poorly"
+            "value": "Poorly differentiated",
+            "evidence": "...tosigmoid mass ICD10 Code: D12.6 Differentiation: Poorly differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999016"
+            "value": "Hospital Number: 9999016",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999016"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999016"
+            "value": "9999016",
+            "evidence": "Hospital Number: 9999016"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009016"
+            "value": "9998009016",
+            "evidence": "NHS Number: 9998009016"
         },
         {
             "type": "kv",
             "key": "Leo Hughes",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Leo Hughes: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "DOB: 03/03/1984    Age: 42 Years"
+            "value": "DOB: 03/03/1984    Age: 42 Years",
+            "evidence": "Male: DOB: 03/03/1984    Age: 42 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "03/03/1984    Age: 42 Years"
+            "value": "03/03/1984    Age: 42 Years",
+            "evidence": "DOB: 03/03/1984    Age: 42 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999016"
+            "value": "9999016",
+            "evidence": "Hospital Number: 9999016"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009016"
+            "value": "9998009016",
+            "evidence": "NHS Number: 9998009016"
         },
         {
             "type": "kv",
             "key": "Leo Hughes",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Leo Hughes: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "DOB: 03/03/1984    Age: 42 Years"
+            "value": "DOB: 03/03/1984    Age: 42 Years",
+            "evidence": "Male: DOB: 03/03/1984    Age: 42 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "03/03/1984    Age: 42 Years"
+            "value": "03/03/1984    Age: 42 Years",
+            "evidence": "DOB: 03/03/1984    Age: 42 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Suspicious rectosigmoid mass"
+            "value": "Diagnosis: Suspicious rectosigmoid mass",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Suspicious rectosigmoid mass"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Suspicious rectosigmoid mass"
+            "value": "Suspicious rectosigmoid mass",
+            "evidence": "Diagnosis: Suspicious rectosigmoid mass"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.6"
+            "value": "D12.6",
+            "evidence": "ICD10 Code: D12.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Poorly differentiated"
+            "value": "Poorly differentiated",
+            "evidence": "Differentiation: Poorly differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 13/01/2025",
-            "value": "T3d, N0, CRM threatened, EMVI negative."
+            "value": "T3d, N0, CRM threatened, EMVI negative.",
+            "evidence": "MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 13/01/2025",
-            "value": "T3d, N0, CRM threatened, EMVI negative."
+            "value": "T3d, N0, CRM threatened, EMVI negative.",
+            "evidence": "MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 13/01/2025",
-            "value": "T3d, N0, CRM threatened, EMVI negative."
+            "value": "T3d, N0, CRM threatened, EMVI negative.",
+            "evidence": "MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For TNT, CRT first"
+            "value": "For TNT, CRT first",
+            "evidence": "MDT Outcome(h): For TNT, CRT first"
         },
         {
             "type": "kv",
             "key": "For TNT, CRT first",
-            "value": "For TNT, CRT first"
+            "value": "For TNT, CRT first",
+            "evidence": "For TNT, CRT first: For TNT, CRT first"
         },
         {
             "type": "kv",
             "key": "For TNT, CRT first",
-            "value": "For TNT, CRT first"
+            "value": "For TNT, CRT first",
+            "evidence": "For TNT, CRT first: For TNT, CRT first"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "13/01/2025"
+            "value": "13/01/2025",
+            "evidence": "Timeline End: 13/01/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "03/03/1984"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "03/03/1984"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "13/01/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "13/01/2025"
+            "value": "03/03/1984",
+            "evidence": "Timeline Start: 03/03/1984"
         }
     ]
 }

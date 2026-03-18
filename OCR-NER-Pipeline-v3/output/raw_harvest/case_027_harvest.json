@@ -4,257 +4,290 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx Intermittent episodes of t..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx Intermittent episodes of t..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx MDT Outcome(h) MDT Outcome..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...rge polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx Intermittent episodes of tenes..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...rge polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx Intermittent episodes of tenes..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...rge polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx MDT Outcome(h) MDT Outcome(h)..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...for malignancy ICD10 Code: D12.6 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990028"
+            "value": "Hospital Number: 9990028",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990028"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990028"
+            "value": "9990028",
+            "evidence": "Hospital Number: 9990028"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000028"
+            "value": "9990000028",
+            "evidence": "NHS Number: 9990000028"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Mason Stark"
+            "value": "Mason Stark",
+            "evidence": "Name: Mason Stark"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/06/1950    Age: 76 Years"
+            "value": "22/06/1950    Age: 76 Years",
+            "evidence": "DOB: 22/06/1950    Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990028"
+            "value": "9990028",
+            "evidence": "Hospital Number: 9990028"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000028"
+            "value": "9990000028",
+            "evidence": "NHS Number: 9990000028"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Mason Stark"
+            "value": "Mason Stark",
+            "evidence": "Name: Mason Stark"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/06/1950    Age: 76 Years"
+            "value": "22/06/1950    Age: 76 Years",
+            "evidence": "DOB: 22/06/1950    Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Ascending colon mass suspicious for malignancy"
+            "value": "Diagnosis: Ascending colon mass suspicious for malignancy",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Ascending colon mass suspicious for malignancy"
+            "value": "Ascending colon mass suspicious for malignancy",
+            "evidence": "Diagnosis: Ascending colon mass suspicious for malignancy"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.6"
+            "value": "D12.6",
+            "evidence": "ICD10 Code: D12.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography (non-contrast) on 16/02/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
+            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx",
+            "evidence": "CT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography (non-contrast) on 16/02/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
+            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx",
+            "evidence": "CT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography (non-contrast) on 16/02/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
+            "value": "large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx",
+            "evidence": "CT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy"
+            "value": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy",
+            "evidence": "MDT Outcome(h): Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "16/02/2024"
+            "value": "16/02/2024",
+            "evidence": "Timeline End: 16/02/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "22/06/1950"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "22/06/1950"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "16/02/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "16/02/2024"
+            "value": "22/06/1950",
+            "evidence": "Timeline Start: 22/06/1950"
         }
     ]
 }

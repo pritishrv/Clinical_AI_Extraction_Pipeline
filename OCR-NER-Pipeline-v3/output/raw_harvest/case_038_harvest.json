@@ -4,302 +4,344 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...y on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new o..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...y on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new o..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...y on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new onse..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new onse..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) R..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...8/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new onset w..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...8/02/2024: large polypoid lesion in caecum. T2 N0 M0 Progressive abdominal discomfort with new onset w..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...8/02/2024: large polypoid lesion in caecum. T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Righ..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...& Diagnosis(g) Diagnosis: Descending colon mass (adenocarcinoma) ICD10 Code: C20 Differentiation: Moderately diff..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...(adenocarcinoma) ICD10 Code: C20 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...DT Outcome(h) MDT Outcome(h) MDT Outcome(h) Right hemicolectomy Right hemicolectomy Right hemicolectomy..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...tcome(h) MDT Outcome(h) Right hemicolectomy Right hemicolectomy Right hemicolectomy..."
         },
         {
             "type": "kv",
             "key": "Surgery: Intent, pre-neoadjuvant therapy",
-            "value": "hemicolectomy"
+            "value": "hemicolectomy",
+            "evidence": "...(h) Right hemicolectomy Right hemicolectomy Right hemicolectomy..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990039"
+            "value": "Hospital Number: 9990039",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990039"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990039"
+            "value": "9990039",
+            "evidence": "Hospital Number: 9990039"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000039"
+            "value": "9990000039",
+            "evidence": "NHS Number: 9990000039"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "James Morris"
+            "value": "James Morris",
+            "evidence": "Name: James Morris"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "05/03/1949    Age: 77 Years"
+            "value": "05/03/1949    Age: 77 Years",
+            "evidence": "DOB: 05/03/1949    Age: 77 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990039"
+            "value": "9990039",
+            "evidence": "Hospital Number: 9990039"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000039"
+            "value": "9990000039",
+            "evidence": "NHS Number: 9990000039"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "James Morris"
+            "value": "James Morris",
+            "evidence": "Name: James Morris"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "05/03/1949    Age: 77 Years"
+            "value": "05/03/1949    Age: 77 Years",
+            "evidence": "DOB: 05/03/1949    Age: 77 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Descending colon mass (adenocarcinoma)"
+            "value": "Diagnosis: Descending colon mass (adenocarcinoma)",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Descending colon mass (adenocarcinoma)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Descending colon mass (adenocarcinoma)"
+            "value": "Descending colon mass (adenocarcinoma)",
+            "evidence": "Diagnosis: Descending colon mass (adenocarcinoma)"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C20"
+            "value": "C20",
+            "evidence": "ICD10 Code: C20"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 18/02/2024",
-            "value": "large polypoid lesion in caecum. T2 N0 M0"
+            "value": "large polypoid lesion in caecum. T2 N0 M0",
+            "evidence": "CT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 18/02/2024",
-            "value": "large polypoid lesion in caecum. T2 N0 M0"
+            "value": "large polypoid lesion in caecum. T2 N0 M0",
+            "evidence": "CT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 18/02/2024",
-            "value": "large polypoid lesion in caecum. T2 N0 M0"
+            "value": "large polypoid lesion in caecum. T2 N0 M0",
+            "evidence": "CT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Right hemicolectomy"
+            "value": "Right hemicolectomy",
+            "evidence": "MDT Outcome(h): Right hemicolectomy"
         },
         {
             "type": "kv",
             "key": "Right hemicolectomy",
-            "value": "Right hemicolectomy"
+            "value": "Right hemicolectomy",
+            "evidence": "Right hemicolectomy: Right hemicolectomy"
         },
         {
             "type": "kv",
             "key": "Right hemicolectomy",
-            "value": "Right hemicolectomy"
+            "value": "Right hemicolectomy",
+            "evidence": "Right hemicolectomy: Right hemicolectomy"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "18/02/2024"
+            "value": "18/02/2024",
+            "evidence": "Timeline End: 18/02/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "05/03/1949"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "05/03/1949"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "18/02/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "18/02/2024"
+            "value": "05/03/1949",
+            "evidence": "Timeline Start: 05/03/1949"
         }
     ]
 }

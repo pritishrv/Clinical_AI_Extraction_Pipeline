@@ -4,212 +4,236 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Well"
+            "value": "Well differentiated",
+            "evidence": "...with dysplasia ICD10 Code: D12.8 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990047"
+            "value": "Hospital Number: 9990047",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990047"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990047"
+            "value": "9990047",
+            "evidence": "Hospital Number: 9990047"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000047"
+            "value": "9990000047",
+            "evidence": "NHS Number: 9990000047"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Frankie Edwards"
+            "value": "Frankie Edwards",
+            "evidence": "Name: Frankie Edwards"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "09/10/1964    Age: 60 Years"
+            "value": "09/10/1964    Age: 60 Years",
+            "evidence": "DOB: 09/10/1964    Age: 60 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990047"
+            "value": "9990047",
+            "evidence": "Hospital Number: 9990047"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000047"
+            "value": "9990000047",
+            "evidence": "NHS Number: 9990000047"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Frankie Edwards"
+            "value": "Frankie Edwards",
+            "evidence": "Name: Frankie Edwards"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "09/10/1964    Age: 60 Years"
+            "value": "09/10/1964    Age: 60 Years",
+            "evidence": "DOB: 09/10/1964    Age: 60 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Serrated adenoma with dysplasia"
+            "value": "Diagnosis: Serrated adenoma with dysplasia",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Serrated adenoma with dysplasia"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Serrated adenoma with dysplasia"
+            "value": "Serrated adenoma with dysplasia",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.8"
+            "value": "D12.8",
+            "evidence": "ICD10 Code: D12.8"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Well differentiated"
+            "value": "Well differentiated",
+            "evidence": "Differentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "CT TAP on 15/07/2024",
-            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease.",
+            "evidence": "CT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
         },
         {
             "type": "kv",
             "key": "CT TAP on 15/07/2024",
-            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease.",
+            "evidence": "CT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
         },
         {
             "type": "kv",
             "key": "CT TAP on 15/07/2024",
-            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+            "value": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease.",
+            "evidence": "CT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+            "value": "Colonoscopy + biopsy + tattoo; return to MDT with histology.",
+            "evidence": "MDT Outcome(h): Colonoscopy + biopsy + tattoo; return to MDT with histology."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "15/07/2024"
+            "value": "15/07/2024",
+            "evidence": "Timeline End: 15/07/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "09/10/1964"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "09/10/1964"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "15/07/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "15/07/2024"
+            "value": "09/10/1964",
+            "evidence": "Timeline Start: 09/10/1964"
         }
     ]
 }

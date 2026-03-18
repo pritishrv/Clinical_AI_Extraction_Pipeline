@@ -4,292 +4,332 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lypoid lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abd..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lypoid lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abd..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lypoid lesion in rectosigmoid junction. If cancer T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...oid lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abdomi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...oid lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abdomi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...oid lesion in rectosigmoid junction. If cancer T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) F..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abdominal..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...lesion in rectosigmoid junction. If cancer T2 N0 M0 Patient reports altered bowel habit and abdominal..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...lesion in rectosigmoid junction. If cancer T2 N0 M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) For..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...nosis(g) Staging & Diagnosis(g) Diagnosis: Caecal adenocarcinoma ICD10 Code: C18.7 Differentiation: Moderately dif..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: C18.7 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "24/06/2024"
+            "value": "62 DAY TARGET: 24/06/2024",
+            "evidence": "...g Gender: Female DOB: 20/12/1967    Age: 59 Years 62 DAY TARGET: 24/06/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990035"
+            "value": "Hospital Number: 9990035",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990035"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990035"
+            "value": "9990035",
+            "evidence": "Hospital Number: 9990035"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000035"
+            "value": "9990000035",
+            "evidence": "NHS Number: 9990000035"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Emma Armstrong"
+            "value": "Emma Armstrong",
+            "evidence": "Name: Emma Armstrong"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "20/12/1967    Age: 59 Years"
+            "value": "20/12/1967    Age: 59 Years",
+            "evidence": "DOB: 20/12/1967    Age: 59 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990035"
+            "value": "9990035",
+            "evidence": "Hospital Number: 9990035"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000035"
+            "value": "9990000035",
+            "evidence": "NHS Number: 9990000035"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Emma Armstrong"
+            "value": "Emma Armstrong",
+            "evidence": "Name: Emma Armstrong"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "20/12/1967    Age: 59 Years"
+            "value": "20/12/1967    Age: 59 Years",
+            "evidence": "DOB: 20/12/1967    Age: 59 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "24/06/2024"
+            "value": "24/06/2024",
+            "evidence": "62 DAY TARGET: 24/06/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Caecal adenocarcinoma"
+            "value": "Diagnosis: Caecal adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Caecal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Caecal adenocarcinoma"
+            "value": "Caecal adenocarcinoma",
+            "evidence": "Diagnosis: Caecal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.7"
+            "value": "C18.7",
+            "evidence": "ICD10 Code: C18.7"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 09/04/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
+            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0",
+            "evidence": "CT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 09/04/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
+            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0",
+            "evidence": "CT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT colonography on 09/04/2024",
-            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
+            "value": "large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0",
+            "evidence": "CT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For MRI rectum, consider local excision"
+            "value": "For MRI rectum, consider local excision",
+            "evidence": "MDT Outcome(h): For MRI rectum, consider local excision"
         },
         {
             "type": "kv",
             "key": "For MRI rectum, consider local excision",
-            "value": "For MRI rectum, consider local excision"
+            "value": "For MRI rectum, consider local excision",
+            "evidence": "For MRI rectum, consider local excision: For MRI rectum, consider local excision"
         },
         {
             "type": "kv",
             "key": "For MRI rectum, consider local excision",
-            "value": "For MRI rectum, consider local excision"
+            "value": "For MRI rectum, consider local excision",
+            "evidence": "For MRI rectum, consider local excision: For MRI rectum, consider local excision"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "09/04/2024"
+            "value": "09/04/2024",
+            "evidence": "Timeline End: 09/04/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "20/12/1967"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "20/12/1967"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "24/06/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "09/04/2024"
+            "value": "20/12/1967",
+            "evidence": "Timeline Start: 20/12/1967"
         }
     ]
 }

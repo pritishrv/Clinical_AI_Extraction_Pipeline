@@ -4,292 +4,344 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, alt..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, alt..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N2"
+            "value": "N2",
+            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N2"
+            "value": "N2",
+            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N2"
+            "value": "N2",
+            "evidence": "...ion in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h)..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered bow..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 Symptoms include altered bowel habit, altered bow..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...in rectosigmoid junction. Multiple nodes, T2, N2, M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Surg..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...colonic tumour ICD10 Code: C18.4 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "23/08/2024"
+            "value": "62 DAY TARGET: 23/08/2024",
+            "evidence": "...son Gender: Male DOB: 16/11/1982    Age: 44 Years 62 DAY TARGET: 23/08/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990045"
+            "value": "Hospital Number: 9990045",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990045"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990045"
+            "value": "9990045",
+            "evidence": "Hospital Number: 9990045"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000045"
+            "value": "9990000045",
+            "evidence": "NHS Number: 9990000045"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Geo Wilson"
+            "value": "Geo Wilson",
+            "evidence": "Name: Geo Wilson"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "16/11/1982    Age: 44 Years"
+            "value": "16/11/1982    Age: 44 Years",
+            "evidence": "DOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990045"
+            "value": "9990045",
+            "evidence": "Hospital Number: 9990045"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000045"
+            "value": "9990000045",
+            "evidence": "NHS Number: 9990000045"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Geo Wilson"
+            "value": "Geo Wilson",
+            "evidence": "Name: Geo Wilson"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "16/11/1982    Age: 44 Years"
+            "value": "16/11/1982    Age: 44 Years",
+            "evidence": "DOB: 16/11/1982    Age: 44 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "23/08/2024"
+            "value": "23/08/2024",
+            "evidence": "62 DAY TARGET: 23/08/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Right\u2011sided colonic tumour"
+            "value": "Diagnosis: Right\u2011sided colonic tumour",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Right\u2011sided colonic tumour"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Right\u2011sided colonic tumour"
+            "value": "Right\u2011sided colonic tumour",
+            "evidence": "Diagnosis: Right\u2011sided colonic tumour"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.4"
+            "value": "C18.4",
+            "evidence": "ICD10 Code: C18.4"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied"
+            "value": "tumour at 18 cm, biopsied",
+            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
         },
         {
             "type": "kv",
             "key": "CT TAP",
-            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied"
+            "value": "tumour at 18 cm, biopsied",
+            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
         },
         {
             "type": "kv",
             "key": "CT TAP",
-            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "tumour at 18 cm, biopsied"
+            "value": "tumour at 18 cm, biopsied",
+            "evidence": "Colonoscopy: tumour at 18 cm, biopsied"
         },
         {
             "type": "kv",
             "key": "CT TAP",
-            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+            "value": "lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0",
+            "evidence": "CT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "MDT Outcome(h): Surgery"
         },
         {
             "type": "kv",
             "key": "Surgery",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "Surgery: Surgery"
         },
         {
             "type": "kv",
             "key": "Surgery",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "Surgery: Surgery"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "23/08/2024"
+            "value": "23/08/2024",
+            "evidence": "Timeline End: 23/08/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "16/11/1982"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "16/11/1982"
+            "value": "16/11/1982",
+            "evidence": "Timeline Start: 16/11/1982"
         }
     ]
 }

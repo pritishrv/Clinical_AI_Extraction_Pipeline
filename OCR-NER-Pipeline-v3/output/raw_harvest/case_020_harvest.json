@@ -4,247 +4,278 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...osis(g) Staging & Diagnosis(g) Diagnosis: Sigmoid adenocarcinoma ICD10 Code: C18.2 Differentiation: Well different..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Well"
+            "value": "Well differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: C18.2 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "08/05/2025"
+            "value": "62 DAY TARGET: 08/05/2025",
+            "evidence": "...on Gender: Female DOB: 02/02/1939   Age: 87 Years 62 DAY TARGET: 08/05/2025 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990021"
+            "value": "Hospital Number: 9990021",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990021"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990021"
+            "value": "9990021",
+            "evidence": "Hospital Number: 9990021"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000021"
+            "value": "9990000021",
+            "evidence": "NHS Number: 9990000021"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Harper Hamilton"
+            "value": "Harper Hamilton",
+            "evidence": "Name: Harper Hamilton"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "02/02/1939   Age: 87 Years"
+            "value": "02/02/1939   Age: 87 Years",
+            "evidence": "DOB: 02/02/1939   Age: 87 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990021"
+            "value": "9990021",
+            "evidence": "Hospital Number: 9990021"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000021"
+            "value": "9990000021",
+            "evidence": "NHS Number: 9990000021"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Harper Hamilton"
+            "value": "Harper Hamilton",
+            "evidence": "Name: Harper Hamilton"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "02/02/1939   Age: 87 Years"
+            "value": "02/02/1939   Age: 87 Years",
+            "evidence": "DOB: 02/02/1939   Age: 87 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "08/05/2025"
+            "value": "08/05/2025",
+            "evidence": "62 DAY TARGET: 08/05/2025"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Sigmoid adenocarcinoma"
+            "value": "Diagnosis: Sigmoid adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Sigmoid adenocarcinoma"
+            "value": "Sigmoid adenocarcinoma",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.2"
+            "value": "C18.2",
+            "evidence": "ICD10 Code: C18.2"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Well differentiated"
+            "value": "Well differentiated",
+            "evidence": "Differentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT on 07/02/2025",
-            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+            "evidence": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT on 07/02/2025",
-            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+            "evidence": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT on 07/02/2025",
-            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+            "value": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+            "evidence": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For consideration of FOXTROT."
+            "value": "For consideration of FOXTROT.",
+            "evidence": "MDT Outcome(h): For consideration of FOXTROT."
         },
         {
             "type": "kv",
             "key": "For consideration of FOXTROT.",
-            "value": "For consideration of FOXTROT."
+            "value": "For consideration of FOXTROT.",
+            "evidence": "For consideration of FOXTROT.: For consideration of FOXTROT."
         },
         {
             "type": "kv",
             "key": "For consideration of FOXTROT.",
-            "value": "For consideration of FOXTROT."
+            "value": "For consideration of FOXTROT.",
+            "evidence": "For consideration of FOXTROT.: For consideration of FOXTROT."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "07/02/2025"
+            "value": "07/02/2025",
+            "evidence": "Timeline End: 07/02/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "02/02/1939"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "02/02/1939"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "08/05/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "07/02/2025"
+            "value": "02/02/1939",
+            "evidence": "Timeline Start: 02/02/1939"
         }
     ]
 }

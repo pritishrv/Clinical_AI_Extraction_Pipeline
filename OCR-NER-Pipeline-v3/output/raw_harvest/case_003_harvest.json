@@ -4,362 +4,428 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...ferentiation:  Moderately differentiated Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Staging: T3..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...T3 N0 M0 Integrated TNM Stage: I Dukes: Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Clinical Det..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...inoma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...inoma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T2"
+            "value": "T2",
+            "evidence": "...inoma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...entiation:  Moderately differentiated Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Staging: T3 N0..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...N0 M0 Integrated TNM Stage: I Dukes: Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Clinical Detail..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear CR..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear CR..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...ma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear CR..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...iation:  Moderately differentiated Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Staging: T3 N0 M0..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...M0 Integrated TNM Stage: I Dukes: Staging: T3 N0 M0 Integrated TNM Stage: I Dukes: Clinical Details(f..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "ADENOCARCINOMA"
+            "value": "ADENOCARCINOMA",
+            "evidence": "...& Diagnosis(g) Staging & Diagnosis(g) Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED ICD10 Code: 10 - C20: Ma..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...nical Details(f): Clinical Details(f): Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR MRI stage: T2 N0..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...se Plan: for 10 week MRI and fleci sig Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR MRI stage: T2 N0..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...se Plan: for 10 week MRI and fleci sig Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR MRI stage: T2 N0..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...lasm of rectum - rectal ampulla Differentiation:  Moderately differentiated Staging: T3 N0 M0 Integrated TNM Stage: I Dukes:..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "06/05/2025"
+            "value": "62 DAY TARGET: 06/05/2025",
+            "evidence": "...000004 MATTEO ROSSI Male 25/02/1943 Age: 82 Years 62 DAY TARGET: 06/05/2025 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990004"
+            "value": "Hospital Number: 9990004",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990004"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990004"
+            "value": "9990004",
+            "evidence": "Hospital Number: 9990004"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000004"
+            "value": "9990000004",
+            "evidence": "NHS Number: 9990000004"
         },
         {
             "type": "kv",
             "key": "MATTEO ROSSI",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "MATTEO ROSSI: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "25/02/1943 Age: 82 Years"
+            "value": "25/02/1943 Age: 82 Years",
+            "evidence": "Male: 25/02/1943 Age: 82 Years"
         },
         {
             "type": "kv",
             "key": "25/02/1943 Age",
-            "value": "82 Years"
+            "value": "82 Years",
+            "evidence": "25/02/1943 Age: 82 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990004"
+            "value": "9990004",
+            "evidence": "Hospital Number: 9990004"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000004"
+            "value": "9990000004",
+            "evidence": "NHS Number: 9990000004"
         },
         {
             "type": "kv",
             "key": "MATTEO ROSSI",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "MATTEO ROSSI: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "25/02/1943 Age: 82 Years"
+            "value": "25/02/1943 Age: 82 Years",
+            "evidence": "Male: 25/02/1943 Age: 82 Years"
         },
         {
             "type": "kv",
             "key": "25/02/1943 Age",
-            "value": "82 Years"
+            "value": "82 Years",
+            "evidence": "25/02/1943 Age: 82 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "06/05/2025"
+            "value": "06/05/2025",
+            "evidence": "62 DAY TARGET: 06/05/2025"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
+            "value": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+            "evidence": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla"
+            "value": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+            "evidence": "ICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation:  Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": "T3 N0 M0"
+            "value": "T3 N0 M0",
+            "evidence": "Staging: T3 N0 M0"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": "I"
+            "value": "I",
+            "evidence": "Integrated TNM Stage: I"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": "T3 N0 M0"
+            "value": "T3 N0 M0",
+            "evidence": "Staging: T3 N0 M0"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": "I"
+            "value": "I",
+            "evidence": "Integrated TNM Stage: I"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "MRI stage",
-            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear"
+            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear",
+            "evidence": "MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear"
         },
         {
             "type": "kv",
             "key": "CRT to downstage",
-            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
+            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response",
+            "evidence": "CRT to downstage: 6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
         },
         {
             "type": "kv",
             "key": "Plan",
-            "value": "for 10 week MRI and fleci sig"
+            "value": "for 10 week MRI and fleci sig",
+            "evidence": "Plan: for 10 week MRI and fleci sig"
         },
         {
             "type": "kv",
             "key": "MRI stage",
-            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear"
+            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear",
+            "evidence": "MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear"
         },
         {
             "type": "kv",
             "key": "CRT to downstage",
-            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
+            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response",
+            "evidence": "CRT to downstage: 6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
         },
         {
             "type": "kv",
             "key": "Plan",
-            "value": "for 10 week MRI and fleci sig"
+            "value": "for 10 week MRI and fleci sig",
+            "evidence": "Plan: for 10 week MRI and fleci sig"
         },
         {
             "type": "kv",
             "key": "MRI stage",
-            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear"
+            "value": "T2 N0 EMVI negative ISP involved CRM clear PSW clear",
+            "evidence": "MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear"
         },
         {
             "type": "kv",
             "key": "CRT to downstage",
-            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
+            "value": "6 week MRI \u2013 staging unchanged but of low signal and may represent complete response",
+            "evidence": "CRT to downstage: 6 week MRI \u2013 staging unchanged but of low signal and may represent complete response"
         },
         {
             "type": "kv",
             "key": "Plan",
-            "value": "for 10 week MRI and fleci sig"
+            "value": "for 10 week MRI and fleci sig",
+            "evidence": "Plan: for 10 week MRI and fleci sig"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MRI 1/3/25: Persistent low signal, may represent complete response"
+            "value": "MRI 1/3/25: Persistent low signal, may represent complete response",
+            "evidence": "MDT Outcome(h): MRI 1/3/25: Persistent low signal, may represent complete response"
         },
         {
             "type": "kv",
             "key": "MRI 1/3/25",
-            "value": "Persistent low signal, may represent complete response"
+            "value": "Persistent low signal, may represent complete response",
+            "evidence": "MRI 1/3/25: Persistent low signal, may represent complete response"
         },
         {
             "type": "kv",
             "key": "Flexi sig",
-            "value": "scar seen"
+            "value": "scar seen",
+            "evidence": "Flexi sig: scar seen"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "to see surgeon, for discussion with patient RE entering watch and wait"
+            "value": "to see surgeon, for discussion with patient RE entering watch and wait",
+            "evidence": "Outcome: to see surgeon, for discussion with patient RE entering watch and wait"
         },
         {
             "type": "kv",
             "key": "MRI 1/3/25",
-            "value": "Persistent low signal, may represent complete response"
+            "value": "Persistent low signal, may represent complete response",
+            "evidence": "MRI 1/3/25: Persistent low signal, may represent complete response"
         },
         {
             "type": "kv",
             "key": "Flexi sig",
-            "value": "scar seen"
+            "value": "scar seen",
+            "evidence": "Flexi sig: scar seen"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "to see surgeon, for discussion with patient RE entering watch and wait"
+            "value": "to see surgeon, for discussion with patient RE entering watch and wait",
+            "evidence": "Outcome: to see surgeon, for discussion with patient RE entering watch and wait"
         },
         {
             "type": "kv",
             "key": "MRI 1/3/25",
-            "value": "Persistent low signal, may represent complete response"
+            "value": "Persistent low signal, may represent complete response",
+            "evidence": "MRI 1/3/25: Persistent low signal, may represent complete response"
         },
         {
             "type": "kv",
             "key": "Flexi sig",
-            "value": "scar seen"
+            "value": "scar seen",
+            "evidence": "Flexi sig: scar seen"
         },
         {
             "type": "kv",
             "key": "Outcome",
-            "value": "to see surgeon, for discussion with patient RE entering watch and wait"
+            "value": "to see surgeon, for discussion with patient RE entering watch and wait",
+            "evidence": "Outcome: to see surgeon, for discussion with patient RE entering watch and wait"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "06/05/2025"
+            "value": "06/05/2025",
+            "evidence": "Timeline End: 06/05/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "25/02/1943"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "25/02/1943"
+            "value": "25/02/1943",
+            "evidence": "Timeline Start: 25/02/1943"
         }
     ]
 }

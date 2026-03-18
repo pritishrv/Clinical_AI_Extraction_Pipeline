@@ -4,7 +4,7 @@
         "Baseline CT: T(h)": "T3b",
         "Baseline CT: N(h)": "N1",
         "Histology: Biopsy result(g)": "Rectal adenocarcinoma",
-        "Radiotherapy: Dates": "13/01/2025",
+        "Radiotherapy: Dates": "62 DAY TARGET: 13/01/2025",
         "Chemotherapy: Dates": "Hospital Number: 9990046",
         "Demographics: \nNHS number(d)": "9990000046",
         "Demographics: \nGender(e)": "Male",
@@ -12,8 +12,6 @@
         "2nd MRI: Date": "T3b, N1, CRM threatened, EMVI negative.",
         "MDT (after 6 week: Decision ": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks.",
         "1st MDT: date(i)": "05/10/2024",
-        "Baseline CT: Date(h)": "14/02/1952",
-        "Baseline MRI: date(h)": "14/02/1952",
-        "12 week MRI: Date": "05/10/2024"
+        "Baseline CT: Date(h)": "14/02/1952"
     }
 }

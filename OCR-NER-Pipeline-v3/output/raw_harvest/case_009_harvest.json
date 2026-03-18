@@ -4,252 +4,284 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3b"
+            "value": "T3b",
+            "evidence": "...kidney disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3b"
+            "value": "T3b",
+            "evidence": "...kidney disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3b"
+            "value": "T3b",
+            "evidence": "...kidney disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...y disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...y disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoi..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1"
+            "value": "N1",
+            "evidence": "...y disease stage 3. MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoi..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...osis(g) Staging & Diagnosis(g) Diagnosis: Sigmoid adenocarcinoma ICD10 Code: D12.6 Differentiation: Moderately dif..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: D12.6 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "19/11/2024"
+            "value": "62 DAY TARGET: 19/11/2024",
+            "evidence": "...Freya Hall Female DOB: 20/06/1941   Age: 85 Years 62 DAY TARGET: 19/11/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999010"
+            "value": "Hospital Number: 9999010",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999010"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999010"
+            "value": "9999010",
+            "evidence": "Hospital Number: 9999010"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009010"
+            "value": "9998009010",
+            "evidence": "NHS Number: 9998009010"
         },
         {
             "type": "kv",
             "key": "Freya Hall",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Freya Hall: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 20/06/1941   Age: 85 Years"
+            "value": "DOB: 20/06/1941   Age: 85 Years",
+            "evidence": "Female: DOB: 20/06/1941   Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "20/06/1941   Age: 85 Years"
+            "value": "20/06/1941   Age: 85 Years",
+            "evidence": "DOB: 20/06/1941   Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999010"
+            "value": "9999010",
+            "evidence": "Hospital Number: 9999010"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009010"
+            "value": "9998009010",
+            "evidence": "NHS Number: 9998009010"
         },
         {
             "type": "kv",
             "key": "Freya Hall",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Freya Hall: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 20/06/1941   Age: 85 Years"
+            "value": "DOB: 20/06/1941   Age: 85 Years",
+            "evidence": "Female: DOB: 20/06/1941   Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "20/06/1941   Age: 85 Years"
+            "value": "20/06/1941   Age: 85 Years",
+            "evidence": "DOB: 20/06/1941   Age: 85 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "19/11/2024"
+            "value": "19/11/2024",
+            "evidence": "62 DAY TARGET: 19/11/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Sigmoid adenocarcinoma"
+            "value": "Diagnosis: Sigmoid adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Sigmoid adenocarcinoma"
+            "value": "Sigmoid adenocarcinoma",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.6"
+            "value": "D12.6",
+            "evidence": "ICD10 Code: D12.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 14/08/2024",
-            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
+            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "evidence": "MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 14/08/2024",
-            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
+            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "evidence": "MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
         },
         {
             "type": "kv",
             "key": "MRI pelvis on 14/08/2024",
-            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
+            "value": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "evidence": "MRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+            "value": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "evidence": "MDT Outcome(h): Plan neoadjuvant CRT and repeat MRI in 6 weeks."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "14/08/2024"
+            "value": "14/08/2024",
+            "evidence": "Timeline End: 14/08/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "20/06/1941"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "20/06/1941"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "19/11/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "14/08/2024"
+            "value": "20/06/1941",
+            "evidence": "Timeline Start: 20/06/1941"
         }
     ]
 }

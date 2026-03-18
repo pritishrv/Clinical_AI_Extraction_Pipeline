@@ -10,9 +10,6 @@
         "Demographics: \nDOB(a)": "14/09/1953    Age: 73 Years",
         "MDT (after 6 week: Decision ": "Needs CT thorax to complete staging",
         "1st MDT: date(i)": "07/12/2024",
-        "Baseline CT: Date(h)": "14/09/1953",
-        "Baseline MRI: date(h)": "14/09/1953",
-        "2nd MRI: Date": "07/12/2024",
-        "12 week MRI: Date": "07/12/2024"
+        "Baseline CT: Date(h)": "14/09/1953"
     }
 }

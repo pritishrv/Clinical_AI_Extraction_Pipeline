@@ -8,9 +8,6 @@
         "Histology: Biopsy result(g)": "Descending colon mass (indeterminate pathology)",
         "MDT (after 6 week: Decision ": "For colonoscopy, need tissue",
         "1st MDT: date(i)": "23/07/2024",
-        "Baseline CT: Date(h)": "24/04/1955",
-        "Baseline MRI: date(h)": "24/04/1955",
-        "2nd MRI: Date": "23/07/2024",
-        "12 week MRI: Date": "23/07/2024"
+        "Baseline CT: Date(h)": "24/04/1955"
     }
 }

@@ -4,232 +4,260 @@
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990026"
+            "value": "Hospital Number: 9990026",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990026"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990026"
+            "value": "9990026",
+            "evidence": "Hospital Number: 9990026"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000026"
+            "value": "9990000026",
+            "evidence": "NHS Number: 9990000026"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Sony Smith"
+            "value": "Sony Smith",
+            "evidence": "Name: Sony Smith"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "24/04/1955   Age: 71 Years"
+            "value": "24/04/1955   Age: 71 Years",
+            "evidence": "DOB: 24/04/1955   Age: 71 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990026"
+            "value": "9990026",
+            "evidence": "Hospital Number: 9990026"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000026"
+            "value": "9990000026",
+            "evidence": "NHS Number: 9990000026"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Sony Smith"
+            "value": "Sony Smith",
+            "evidence": "Name: Sony Smith"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Gender: Male"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "24/04/1955   Age: 71 Years"
+            "value": "24/04/1955   Age: 71 Years",
+            "evidence": "DOB: 24/04/1955   Age: 71 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Descending colon mass (indeterminate pathology)"
+            "value": "Diagnosis: Descending colon mass (indeterminate pathology)",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Descending colon mass (indeterminate pathology)"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Descending colon mass (indeterminate pathology)"
+            "value": "Descending colon mass (indeterminate pathology)",
+            "evidence": "Diagnosis: Descending colon mass (indeterminate pathology)"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": ""
+            "value": "",
+            "evidence": "ICD10 Code:"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": ""
+            "value": "",
+            "evidence": "Differentiation:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 23/07/2024",
-            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 23/07/2024",
-            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT abdomen on 23/07/2024",
-            "value": "mural thickening at descending colon, inflammatory vs neoplastic."
+            "value": "mural thickening at descending colon, inflammatory vs neoplastic.",
+            "evidence": "CT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "For colonoscopy, need tissue"
+            "value": "For colonoscopy, need tissue",
+            "evidence": "MDT Outcome(h): For colonoscopy, need tissue"
         },
         {
             "type": "kv",
             "key": "For colonoscopy, need tissue",
-            "value": "For colonoscopy, need tissue"
+            "value": "For colonoscopy, need tissue",
+            "evidence": "For colonoscopy, need tissue: For colonoscopy, need tissue"
         },
         {
             "type": "kv",
             "key": "For colonoscopy, need tissue",
-            "value": "For colonoscopy, need tissue"
+            "value": "For colonoscopy, need tissue",
+            "evidence": "For colonoscopy, need tissue: For colonoscopy, need tissue"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "23/07/2024"
+            "value": "23/07/2024",
+            "evidence": "Timeline End: 23/07/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "24/04/1955"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "24/04/1955"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "23/07/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "23/07/2024"
+            "value": "24/04/1955",
+            "evidence": "Timeline Start: 24/04/1955"
         }
     ]
 }

@@ -13,9 +13,6 @@
         "Endoscopy: date(f)": "Large sessile polyp at descending colon with abnormal pit pattern",
         "MDT (after 6 week: Decision ": "Left hemicolectomy, needs completion CT thorax",
         "1st MDT: date(i)": "07/01/2024",
-        "Baseline CT: Date(h)": "04/07/1981",
-        "Baseline MRI: date(h)": "04/07/1981",
-        "2nd MRI: Date": "01/01/2024",
-        "12 week MRI: Date": "07/01/2024"
+        "Baseline CT: Date(h)": "04/07/1981"
     }
 }

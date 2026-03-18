@@ -4,212 +4,236 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Well"
+            "value": "Well differentiated",
+            "evidence": "...with dysplasia ICD10 Code: D12.8 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999011"
+            "value": "Hospital Number: 9999011",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999011"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999011"
+            "value": "9999011",
+            "evidence": "Hospital Number: 9999011"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009011"
+            "value": "9998009011",
+            "evidence": "NHS Number: 9998009011"
         },
         {
             "type": "kv",
             "key": "Erin Hall",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Erin Hall: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 24/03/1957   Age: 69 Years"
+            "value": "DOB: 24/03/1957   Age: 69 Years",
+            "evidence": "Female: DOB: 24/03/1957   Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "24/03/1957   Age: 69 Years"
+            "value": "24/03/1957   Age: 69 Years",
+            "evidence": "DOB: 24/03/1957   Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999011"
+            "value": "9999011",
+            "evidence": "Hospital Number: 9999011"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009011"
+            "value": "9998009011",
+            "evidence": "NHS Number: 9998009011"
         },
         {
             "type": "kv",
             "key": "Erin Hall",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Erin Hall: Female"
         },
         {
             "type": "kv",
             "key": "Female",
-            "value": "DOB: 24/03/1957   Age: 69 Years"
+            "value": "DOB: 24/03/1957   Age: 69 Years",
+            "evidence": "Female: DOB: 24/03/1957   Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "24/03/1957   Age: 69 Years"
+            "value": "24/03/1957   Age: 69 Years",
+            "evidence": "DOB: 24/03/1957   Age: 69 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Serrated adenoma with dysplasia"
+            "value": "Diagnosis: Serrated adenoma with dysplasia",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Serrated adenoma with dysplasia"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Serrated adenoma with dysplasia"
+            "value": "Serrated adenoma with dysplasia",
+            "evidence": "Diagnosis: Serrated adenoma with dysplasia"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.8"
+            "value": "D12.8",
+            "evidence": "ICD10 Code: D12.8"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Well differentiated"
+            "value": "Well differentiated",
+            "evidence": "Differentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "CT on 12/02/2025",
-            "value": "lesion in the low rectum, no metastases"
+            "value": "lesion in the low rectum, no metastases",
+            "evidence": "CT on 12/02/2025:  lesion in the low rectum, no metastases"
         },
         {
             "type": "kv",
             "key": "CT on 12/02/2025",
-            "value": "lesion in the low rectum, no metastases"
+            "value": "lesion in the low rectum, no metastases",
+            "evidence": "CT on 12/02/2025:  lesion in the low rectum, no metastases"
         },
         {
             "type": "kv",
             "key": "CT on 12/02/2025",
-            "value": "lesion in the low rectum, no metastases"
+            "value": "lesion in the low rectum, no metastases",
+            "evidence": "CT on 12/02/2025:  lesion in the low rectum, no metastases"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+            "value": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "evidence": "MDT Outcome(h): Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "12/02/2025"
+            "value": "12/02/2025",
+            "evidence": "Timeline End: 12/02/2025"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "24/03/1957"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "24/03/1957"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "12/02/2025"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "12/02/2025"
+            "value": "24/03/1957",
+            "evidence": "Timeline Start: 24/03/1957"
         }
     ]
 }

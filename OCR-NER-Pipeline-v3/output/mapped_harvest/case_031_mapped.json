@@ -11,9 +11,6 @@
         "Demographics: \nDOB(a)": "14/02/1967    Age: 59 Years",
         "MDT (after 6 week: Decision ": "For surgery (unsuitable for chemotherapy)",
         "1st MDT: date(i)": "29/04/2024",
-        "Baseline CT: Date(h)": "14/02/1967",
-        "Baseline MRI: date(h)": "14/02/1967",
-        "2nd MRI: Date": "29/04/2024",
-        "12 week MRI: Date": "29/04/2024"
+        "Baseline CT: Date(h)": "14/02/1967"
     }
 }

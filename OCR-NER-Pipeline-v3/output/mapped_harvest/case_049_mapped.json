@@ -2,7 +2,7 @@
     "case_index": 49,
     "mapped_columns": {
         "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
-        "Radiotherapy: Dates": "17/04/2025",
+        "Radiotherapy: Dates": "62 DAY TARGET: 17/04/2025",
         "Chemotherapy: Dates": "Hospital Number: 9990050",
         "Demographics: \nNHS number(d)": "9990000050",
         "Demographics: \nGender(e)": "Male",
@@ -10,9 +10,6 @@
         "MDT (after 6 week: Decision ": "For colonoscopy and biopsies.",
         "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy and biopsies.",
         "1st MDT: date(i)": "10/01/2025",
-        "Baseline CT: Date(h)": "12/05/1945",
-        "Baseline MRI: date(h)": "12/05/1945",
-        "2nd MRI: Date": "17/04/2025",
-        "12 week MRI: Date": "10/01/2025"
+        "Baseline CT: Date(h)": "12/05/1945"
     }
 }

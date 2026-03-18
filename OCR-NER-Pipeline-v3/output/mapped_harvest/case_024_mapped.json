@@ -3,7 +3,7 @@
     "mapped_columns": {
         "Baseline CT: T(h)": "T3b",
         "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
-        "Radiotherapy: Dates": "09/04/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 09/04/2024",
         "Chemotherapy: Dates": "Hospital Number: 9990025",
         "Demographics: \nNHS number(d)": "9990000025",
         "Demographics: \nGender(e)": "Female",
@@ -11,8 +11,6 @@
         "2nd MRI: Date": "T3b lesion, CRM clear, EMVI positive.",
         "MDT (after 6 week: Decision ": "For CRT",
         "1st MDT: date(i)": "24/01/2024",
-        "Baseline CT: Date(h)": "20/09/1957",
-        "Baseline MRI: date(h)": "20/09/1957",
-        "12 week MRI: Date": "24/01/2024"
+        "Baseline CT: Date(h)": "20/09/1957"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Baseline CT: T(h)": "T3b",
+    "Baseline CT: N(h)": "N1",
+    "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
+    "Radiotherapy: Dates": "62 DAY TARGET: 19/11/2024",
+    "Chemotherapy: Dates": "Hospital Number: 9999010",
+    "Demographics: \nNHS number(d)": "9998009010",
+    "Demographics: \nDOB(a)": "20/06/1941   Age: 85 Years",
+    "12 week MRI: Date": "T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+    "MDT (after 6 week: Decision ": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+    "1st MDT: date(i)": "14/08/2024",
+    "Baseline CT: Date(h)": "20/06/1941"
+}

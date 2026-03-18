@@ -12,9 +12,6 @@
         "MDT (after 6 week: Decision ": "For colonoscopy",
         "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
         "1st MDT: date(i)": "20/04/2024",
-        "Baseline CT: Date(h)": "03/01/1978",
-        "Baseline MRI: date(h)": "03/01/1978",
-        "2nd MRI: Date": "20/04/2024",
-        "12 week MRI: Date": "20/04/2024"
+        "Baseline CT: Date(h)": "03/01/1978"
     }
 }

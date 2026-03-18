@@ -4,292 +4,332 @@
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...iple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...iple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: T(h)",
-            "value": "T3"
+            "value": "T3",
+            "evidence": "...iple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 MDT Outcome(h) MDT Outcome(h) MDT Ou..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...e enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and abdo..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...e enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and abdo..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N1c"
+            "value": "N1c",
+            "evidence": "...e enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 MDT Outcome(h) MDT Outcome(h) MDT Outcom..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and abdominal dis..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 Patient reports rectal bleeding and abdominal dis..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 MDT Outcome(h) MDT Outcome(h) MDT Outcome(h) Chem..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...nosis(g) Staging & Diagnosis(g) Diagnosis: Caecal adenocarcinoma ICD10 Code: D12.8 Differentiation: Moderately dif..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: D12.8 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "06/05/2024"
+            "value": "62 DAY TARGET: 06/05/2024",
+            "evidence": "...n Gender: Female DOB: 22/07/1976    Age: 50 Years 62 DAY TARGET: 06/05/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990034"
+            "value": "Hospital Number: 9990034",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990034"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990034"
+            "value": "9990034",
+            "evidence": "Hospital Number: 9990034"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000034"
+            "value": "9990000034",
+            "evidence": "NHS Number: 9990000034"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Saskia Johnson"
+            "value": "Saskia Johnson",
+            "evidence": "Name: Saskia Johnson"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/07/1976    Age: 50 Years"
+            "value": "22/07/1976    Age: 50 Years",
+            "evidence": "DOB: 22/07/1976    Age: 50 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990034"
+            "value": "9990034",
+            "evidence": "Hospital Number: 9990034"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000034"
+            "value": "9990000034",
+            "evidence": "NHS Number: 9990000034"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Saskia Johnson"
+            "value": "Saskia Johnson",
+            "evidence": "Name: Saskia Johnson"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "22/07/1976    Age: 50 Years"
+            "value": "22/07/1976    Age: 50 Years",
+            "evidence": "DOB: 22/07/1976    Age: 50 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "06/05/2024"
+            "value": "06/05/2024",
+            "evidence": "62 DAY TARGET: 06/05/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Caecal adenocarcinoma"
+            "value": "Diagnosis: Caecal adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Caecal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Caecal adenocarcinoma"
+            "value": "Caecal adenocarcinoma",
+            "evidence": "Diagnosis: Caecal adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "D12.8"
+            "value": "D12.8",
+            "evidence": "ICD10 Code: D12.8"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 13/02/2024",
-            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "evidence": "CT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 13/02/2024",
-            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "evidence": "CT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "CT TAP on 13/02/2024",
-            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+            "value": "cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0",
+            "evidence": "CT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Chemotherapy and review"
+            "value": "Chemotherapy and review",
+            "evidence": "MDT Outcome(h): Chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "Chemotherapy and review",
-            "value": "Chemotherapy and review"
+            "value": "Chemotherapy and review",
+            "evidence": "Chemotherapy and review: Chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "Chemotherapy and review",
-            "value": "Chemotherapy and review"
+            "value": "Chemotherapy and review",
+            "evidence": "Chemotherapy and review: Chemotherapy and review"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "13/02/2024"
+            "value": "13/02/2024",
+            "evidence": "Timeline End: 13/02/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "22/07/1976"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "22/07/1976"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "06/05/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "13/02/2024"
+            "value": "22/07/1976",
+            "evidence": "Timeline Start: 22/07/1976"
         }
     ]
 }

@@ -8,9 +8,6 @@
         "Demographics: \nDOB(a)": "09/10/1964    Age: 60 Years",
         "MDT (after 6 week: Decision ": "Colonoscopy + biopsy + tattoo; return to MDT with histology.",
         "1st MDT: date(i)": "15/07/2024",
-        "Baseline CT: Date(h)": "09/10/1964",
-        "Baseline MRI: date(h)": "09/10/1964",
-        "2nd MRI: Date": "15/07/2024",
-        "12 week MRI: Date": "15/07/2024"
+        "Baseline CT: Date(h)": "09/10/1964"
     }
 }

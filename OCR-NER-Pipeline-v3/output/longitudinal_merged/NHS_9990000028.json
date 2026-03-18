@@ -1,0 +1,12 @@
+{
+    "Baseline CT: T(h)": "T3",
+    "Baseline CT: N(h)": "N1",
+    "Histology: Biopsy result(g)": "Ascending colon mass suspicious for malignancy",
+    "Chemotherapy: Dates": "Hospital Number: 9990028",
+    "Demographics: \nNHS number(d)": "9990000028",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "22/06/1950    Age: 76 Years",
+    "MDT (after 6 week: Decision ": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy",
+    "1st MDT: date(i)": "16/02/2024",
+    "Baseline CT: Date(h)": "22/06/1950"
+}

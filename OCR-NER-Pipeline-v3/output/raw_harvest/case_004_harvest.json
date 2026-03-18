@@ -4,232 +4,260 @@
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "adenocarcinoma"
+            "value": "adenocarcinoma",
+            "evidence": "...osis(g) Staging & Diagnosis(g) Diagnosis: Sigmoid adenocarcinoma ICD10 Code: C18.6 Differentiation: Moderately dif..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Moderately"
+            "value": "Moderately differentiated",
+            "evidence": "...adenocarcinoma ICD10 Code: C18.6 Differentiation: Moderately differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Radiotherapy: Dates",
-            "value": "14/11/2024"
+            "value": "62 DAY TARGET: 14/11/2024",
+            "evidence": "...Graham Green Male DOB: 16/11/1950   Age: 76 Years 62 DAY TARGET: 14/11/2024 Please note: If the 62 Day Breach Date is blank,..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9999005"
+            "value": "Hospital Number: 9999005",
+            "evidence": "Cancer Target Dates: Hospital Number: 9999005"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999005"
+            "value": "9999005",
+            "evidence": "Hospital Number: 9999005"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009005"
+            "value": "9998009005",
+            "evidence": "NHS Number: 9998009005"
         },
         {
             "type": "kv",
             "key": "Graham Green",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Graham Green: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "DOB: 16/11/1950   Age: 76 Years"
+            "value": "DOB: 16/11/1950   Age: 76 Years",
+            "evidence": "Male: DOB: 16/11/1950   Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "16/11/1950   Age: 76 Years"
+            "value": "16/11/1950   Age: 76 Years",
+            "evidence": "DOB: 16/11/1950   Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9999005"
+            "value": "9999005",
+            "evidence": "Hospital Number: 9999005"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9998009005"
+            "value": "9998009005",
+            "evidence": "NHS Number: 9998009005"
         },
         {
             "type": "kv",
             "key": "Graham Green",
-            "value": "Male"
+            "value": "Male",
+            "evidence": "Graham Green: Male"
         },
         {
             "type": "kv",
             "key": "Male",
-            "value": "DOB: 16/11/1950   Age: 76 Years"
+            "value": "DOB: 16/11/1950   Age: 76 Years",
+            "evidence": "Male: DOB: 16/11/1950   Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "16/11/1950   Age: 76 Years"
+            "value": "16/11/1950   Age: 76 Years",
+            "evidence": "DOB: 16/11/1950   Age: 76 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": "14/11/2024"
+            "value": "14/11/2024",
+            "evidence": "62 DAY TARGET: 14/11/2024"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Sigmoid adenocarcinoma"
+            "value": "Diagnosis: Sigmoid adenocarcinoma",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Sigmoid adenocarcinoma"
+            "value": "Sigmoid adenocarcinoma",
+            "evidence": "Diagnosis: Sigmoid adenocarcinoma"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.6"
+            "value": "C18.6",
+            "evidence": "ICD10 Code: C18.6"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Moderately differentiated"
+            "value": "Moderately differentiated",
+            "evidence": "Differentiation: Moderately differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "CT TAP on 06/09/2024",
-            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
+            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases.",
+            "evidence": "CT TAP on 06/09/2024: sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
         },
         {
             "type": "kv",
             "key": "CT TAP on 06/09/2024",
-            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
+            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases.",
+            "evidence": "CT TAP on 06/09/2024: sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
         },
         {
             "type": "kv",
             "key": "CT TAP on 06/09/2024",
-            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
+            "value": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases.",
+            "evidence": "CT TAP on 06/09/2024: sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases."
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Refer for colorectal surgical review."
+            "value": "Refer for colorectal surgical review.",
+            "evidence": "MDT Outcome(h): Refer for colorectal surgical review."
         },
         {
             "type": "kv",
             "key": "Refer for colorectal surgical review.",
-            "value": "Refer for colorectal surgical review."
+            "value": "Refer for colorectal surgical review.",
+            "evidence": "Refer for colorectal surgical review.: Refer for colorectal surgical review."
         },
         {
             "type": "kv",
             "key": "Refer for colorectal surgical review.",
-            "value": "Refer for colorectal surgical review."
+            "value": "Refer for colorectal surgical review.",
+            "evidence": "Refer for colorectal surgical review.: Refer for colorectal surgical review."
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "06/09/2024"
+            "value": "06/09/2024",
+            "evidence": "Timeline End: 06/09/2024"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "16/11/1950"
-        },
-        {
-            "type": "kv",
-            "key": "Baseline MRI: date(h)",
-            "value": "16/11/1950"
-        },
-        {
-            "type": "kv",
-            "key": "2nd MRI: Date",
-            "value": "14/11/2024"
-        },
-        {
-            "type": "kv",
-            "key": "12 week MRI: Date",
-            "value": "06/09/2024"
+            "value": "16/11/1950",
+            "evidence": "Timeline Start: 16/11/1950"
         }
     ]
 }

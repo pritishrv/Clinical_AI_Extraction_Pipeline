@@ -4,267 +4,320 @@
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: N(h)",
-            "value": "N0"
+            "value": "N0",
+            "evidence": "...n sigmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- MDT Outcome(h) MDT Outcome(h) MDT Outcom..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous di..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- Symptoms include rectal bleeding, mucous di..."
         },
         {
             "type": "kv",
             "key": "Baseline CT: M(h)",
-            "value": "M0"
+            "value": "M0",
+            "evidence": "...igmoid colon CT: unable to identify lesion: Tx N0 M0 EMVI- MDT Outcome(h) MDT Outcome(h) MDT Outcome(h..."
         },
         {
             "type": "kv",
             "key": "Histology: Biopsy result(g)",
-            "value": "Well"
+            "value": "Well differentiated",
+            "evidence": "...lignant change ICD10 Code: C18.2 Differentiation: Well differentiated Staging: Integrated TNM Stage: Dukes: Staging: In..."
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Patient Details"
+            "value": "Patient Details",
+            "evidence": "Patient Details: Patient Details"
         },
         {
             "type": "kv",
             "key": "Patient Details",
-            "value": "Cancer Target Dates"
+            "value": "Cancer Target Dates",
+            "evidence": "Patient Details: Cancer Target Dates"
         },
         {
             "type": "kv",
             "key": "Cancer Target Dates",
-            "value": "Hospital Number: 9990042"
+            "value": "Hospital Number: 9990042",
+            "evidence": "Cancer Target Dates: Hospital Number: 9990042"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990042"
+            "value": "9990042",
+            "evidence": "Hospital Number: 9990042"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000042"
+            "value": "9990000042",
+            "evidence": "NHS Number: 9990000042"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Maya Brown"
+            "value": "Maya Brown",
+            "evidence": "Name: Maya Brown"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "13/07/1958   Age: 68 Years"
+            "value": "13/07/1958   Age: 68 Years",
+            "evidence": "DOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
             "key": "Hospital Number",
-            "value": "9990042"
+            "value": "9990042",
+            "evidence": "Hospital Number: 9990042"
         },
         {
             "type": "kv",
             "key": "NHS Number",
-            "value": "9990000042"
+            "value": "9990000042",
+            "evidence": "NHS Number: 9990000042"
         },
         {
             "type": "kv",
             "key": "Name",
-            "value": "Maya Brown"
+            "value": "Maya Brown",
+            "evidence": "Name: Maya Brown"
         },
         {
             "type": "kv",
             "key": "Gender",
-            "value": "Female"
+            "value": "Female",
+            "evidence": "Gender: Female"
         },
         {
             "type": "kv",
             "key": "DOB",
-            "value": "13/07/1958   Age: 68 Years"
+            "value": "13/07/1958   Age: 68 Years",
+            "evidence": "DOB: 13/07/1958   Age: 68 Years"
         },
         {
             "type": "kv",
             "key": "62 DAY TARGET",
-            "value": ""
+            "value": "",
+            "evidence": "62 DAY TARGET:"
         },
         {
             "type": "kv",
             "key": "Please note",
-            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+            "value": "If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "evidence": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Staging & Diagnosis(g)"
+            "value": "Staging & Diagnosis(g)",
+            "evidence": "Staging & Diagnosis(g): Staging & Diagnosis(g)"
         },
         {
             "type": "kv",
             "key": "Staging & Diagnosis(g)",
-            "value": "Diagnosis: Large sessile polyp with possible malignant change"
+            "value": "Diagnosis: Large sessile polyp with possible malignant change",
+            "evidence": "Staging & Diagnosis(g): Diagnosis: Large sessile polyp with possible malignant change"
         },
         {
             "type": "kv",
             "key": "Diagnosis",
-            "value": "Large sessile polyp with possible malignant change"
+            "value": "Large sessile polyp with possible malignant change",
+            "evidence": "Diagnosis: Large sessile polyp with possible malignant change"
         },
         {
             "type": "kv",
             "key": "ICD10 Code",
-            "value": "C18.2"
+            "value": "C18.2",
+            "evidence": "ICD10 Code: C18.2"
         },
         {
             "type": "kv",
             "key": "Differentiation",
-            "value": "Well differentiated"
+            "value": "Well differentiated",
+            "evidence": "Differentiation: Well differentiated"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Staging",
-            "value": ""
+            "value": "",
+            "evidence": "Staging:"
         },
         {
             "type": "kv",
             "key": "Integrated TNM Stage",
-            "value": ""
+            "value": "",
+            "evidence": "Integrated TNM Stage:"
         },
         {
             "type": "kv",
             "key": "Dukes",
-            "value": ""
+            "value": "",
+            "evidence": "Dukes:"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Clinical Details(f)",
-            "value": ""
+            "value": "",
+            "evidence": "Clinical Details(f):"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon"
+            "value": "polypoidal lesion in sigmoid colon",
+            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
         },
         {
             "type": "kv",
             "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-"
+            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
+            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon"
+            "value": "polypoidal lesion in sigmoid colon",
+            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
         },
         {
             "type": "kv",
             "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-"
+            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
+            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "Imaging",
-            "value": ""
+            "value": "",
+            "evidence": "Imaging:"
         },
         {
             "type": "kv",
             "key": "Colonoscopy",
-            "value": "polypoidal lesion in sigmoid colon"
+            "value": "polypoidal lesion in sigmoid colon",
+            "evidence": "Colonoscopy: polypoidal lesion in sigmoid colon"
         },
         {
             "type": "kv",
             "key": "CT",
-            "value": "unable to identify lesion: Tx N0 M0 EMVI-"
+            "value": "unable to identify lesion: Tx N0 M0 EMVI-",
+            "evidence": "CT: unable to identify lesion: Tx N0 M0 EMVI-"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "MDT Outcome(h)"
+            "value": "MDT Outcome(h)",
+            "evidence": "MDT Outcome(h): MDT Outcome(h)"
         },
         {
             "type": "kv",
             "key": "MDT Outcome(h)",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "MDT Outcome(h): Surgery"
         },
         {
             "type": "kv",
             "key": "Surgery",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "Surgery: Surgery"
         },
         {
             "type": "kv",
             "key": "Surgery",
-            "value": "Surgery"
+            "value": "Surgery",
+            "evidence": "Surgery: Surgery"
         },
         {
             "type": "kv",
             "key": "1st MDT: date(i)",
-            "value": "13/07/1958"
+            "value": "13/07/1958",
+            "evidence": "Timeline End: 13/07/1958"
         },
         {
             "type": "kv",
             "key": "Baseline CT: Date(h)",
-            "value": "13/07/1958"
+            "value": "13/07/1958",
+            "evidence": "Timeline Start: 13/07/1958"
         }
     ]
 }

@@ -5,7 +5,7 @@
         "Baseline CT: N(h)": "N0",
         "Baseline CT: M(h)": "M0",
         "Histology: Biopsy result(g)": "Caecal adenocarcinoma",
-        "Radiotherapy: Dates": "24/06/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 24/06/2024",
         "Chemotherapy: Dates": "Hospital Number: 9990035",
         "Demographics: \nNHS number(d)": "9990000035",
         "Demographics: \nGender(e)": "Female",
@@ -13,9 +13,6 @@
         "MDT (after 6 week: Decision ": "For MRI rectum, consider local excision",
         "2nd MRI: mrCRM": "For MRI rectum, consider local excision",
         "1st MDT: date(i)": "09/04/2024",
-        "Baseline CT: Date(h)": "20/12/1967",
-        "Baseline MRI: date(h)": "20/12/1967",
-        "2nd MRI: Date": "24/06/2024",
-        "12 week MRI: Date": "09/04/2024"
+        "Baseline CT: Date(h)": "20/12/1967"
     }
 }

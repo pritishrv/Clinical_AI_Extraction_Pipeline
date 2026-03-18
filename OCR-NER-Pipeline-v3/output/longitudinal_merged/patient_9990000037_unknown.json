@@ -1,0 +1,15 @@
+{
+    "Baseline CT: T(h)": "T4b",
+    "Baseline CT: N(h)": "N1c",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Right\u2011sided colonic tumour",
+    "Radiotherapy: Dates": "62 DAY TARGET: 15/08/2024",
+    "Chemotherapy: Dates": "Hospital Number: 9990037",
+    "Demographics: \nNHS number(d)": "9990000037",
+    "Demographics: \nGender(e)": "Male",
+    "Demographics: \nDOB(a)": "06/10/1947    Age: 79 Years",
+    "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons.",
+    "MDT (after 6 week: Decision ": "For chemotherapy, surgical margin is unsafe",
+    "1st MDT: date(i)": "15/08/2024",
+    "Baseline CT: Date(h)": "06/10/1947"
+}

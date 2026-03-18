@@ -2,15 +2,12 @@
     "case_index": 17,
     "mapped_columns": {
         "Histology: Biopsy result(g)": "Sigmoid adenocarcinoma",
-        "Radiotherapy: Dates": "21/12/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 21/12/2024",
         "Chemotherapy: Dates": "Hospital Number: 9999018",
         "Demographics: \nNHS number(d)": "9998009018",
         "Demographics: \nDOB(a)": "28/10/1981   Age: 45 Years",
         "MDT (after 6 week: Decision ": "PET\u2011CT and oncology consultation.",
         "1st MDT: date(i)": "29/09/2024",
-        "Baseline CT: Date(h)": "28/10/1981",
-        "Baseline MRI: date(h)": "28/10/1981",
-        "2nd MRI: Date": "21/12/2024",
-        "12 week MRI: Date": "29/09/2024"
+        "Baseline CT: Date(h)": "28/10/1981"
     }
 }

@@ -4,7 +4,7 @@
         "Baseline CT: T(h)": "T1",
         "Baseline CT: N(h)": "N0",
         "Histology: Biopsy result(g)": "Villous adenoma with focal invasion",
-        "Radiotherapy: Dates": "25/11/2024",
+        "Radiotherapy: Dates": "62 DAY TARGET: 25/11/2024",
         "Chemotherapy: Dates": "Hospital Number: 9990038",
         "Demographics: \nNHS number(d)": "9990000038",
         "Demographics: \nGender(e)": "Female",
@@ -13,7 +13,6 @@
         "2nd MRI: mrT": "T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013",
         "MDT (after 6 week: Decision ": "Consider ESD",
         "1st MDT: date(i)": "25/11/2024",
-        "Baseline CT: Date(h)": "07/09/1975",
-        "Baseline MRI: date(h)": "07/09/1975"
+        "Baseline CT: Date(h)": "07/09/1975"
     }
 }

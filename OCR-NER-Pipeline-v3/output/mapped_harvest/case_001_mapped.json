@@ -11,9 +11,6 @@
         "MDT (after 6 week: Decision ": "Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
         "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated.",
         "1st MDT: date(i)": "22/2/2025",
-        "Baseline CT: Date(h)": "30/03/1944",
-        "Baseline MRI: date(h)": "30/03/1944",
-        "2nd MRI: Date": "22/2/2025",
-        "12 week MRI: Date": "22/2/2025"
+        "Baseline CT: Date(h)": "30/03/1944"
     }
 }

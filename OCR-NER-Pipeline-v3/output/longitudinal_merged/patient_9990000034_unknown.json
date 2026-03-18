@@ -1,0 +1,15 @@
+{
+    "Baseline CT: T(h)": "T3",
+    "Baseline CT: N(h)": "N1c",
+    "Baseline CT: M(h)": "M0",
+    "Histology: Biopsy result(g)": "Caecal adenocarcinoma",
+    "Radiotherapy: Dates": "62 DAY TARGET: 06/05/2024",
+    "Chemotherapy: Dates": "Hospital Number: 9990034",
+    "Demographics: \nNHS number(d)": "9990000034",
+    "Demographics: \nGender(e)": "Female",
+    "Demographics: \nDOB(a)": "22/07/1976    Age: 50 Years",
+    "MDT (after 6 week: Decision ": "Chemotherapy and review",
+    "Chemotherapy: Drugs": "Chemotherapy and review",
+    "1st MDT: date(i)": "13/02/2024",
+    "Baseline CT: Date(h)": "22/07/1976"
+}

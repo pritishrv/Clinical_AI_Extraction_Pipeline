@@ -4,16 +4,13 @@
         "Histology: Biopsy result(g)": "MMR\u2011deficient rectal adenocarcinoma",
         "Chemotherapy: Drugs": "curative",
         "Chemotherapy: Treatment goals  \n(curative, palliative)": "curative",
-        "Radiotherapy: Dates": "15/03/2025",
+        "Radiotherapy: Dates": "62 DAY TARGET: 15/03/2025",
         "Chemotherapy: Dates": "Hospital Number: 9999013",
         "Demographics: \nNHS number(d)": "9998009013",
         "Demographics: \nDOB(a)": "28/04/1952   Age: 74 Years",
         "Demographics: \nState site of previous cancer(f)": "FDG\u2011avid lesion in the rectum, avid breast lesion.",
         "MDT (after 6 week: Decision ": "Colpnoscopy, biopsy, MRI",
         "1st MDT: date(i)": "29/12/2024",
-        "Baseline CT: Date(h)": "28/04/1952",
-        "Baseline MRI: date(h)": "28/04/1952",
-        "2nd MRI: Date": "15/03/2025",
-        "12 week MRI: Date": "29/12/2024"
+        "Baseline CT: Date(h)": "28/04/1952"
     }
 }
