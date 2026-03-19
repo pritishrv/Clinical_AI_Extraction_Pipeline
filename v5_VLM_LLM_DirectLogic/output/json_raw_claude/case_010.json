@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "19/02/2025",
+    "patient_details": {
+        "hospital_number": "9999011",
+        "nhs_number": "9998009011",
+        "name": "Erin Hall",
+        "gender": "Female",
+        "dob": "1957-03-24",
+        "age": "69"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "22/03/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Serrated adenoma with dysplasia",
+        "icd10_code": "D12.8",
+        "differentiation": "Well differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.",
+    "mdt_outcome": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+}

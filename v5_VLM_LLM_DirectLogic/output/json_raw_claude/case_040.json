@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "17/11/2024",
+    "patient_details": {
+        "hospital_number": "9990041",
+        "nhs_number": "9990000041",
+        "name": "Martin Johnson",
+        "gender": "Male",
+        "dob": "1970-10-09",
+        "age": "56"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2025-01-18",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2025-01-18"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Sigmoid adenocarcinoma",
+        "icd10_code": "C20",
+        "differentiation": "Well differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.",
+    "mdt_outcome": "CRT\nCT adrenal study\nCompletion colonoscopy and tattoo"
+}

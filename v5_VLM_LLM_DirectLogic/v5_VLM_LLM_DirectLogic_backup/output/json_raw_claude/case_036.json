@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "14/06/2024",
+    "patient_details": {
+        "hospital_number": "9990037",
+        "nhs_number": "9990000037",
+        "name": "Elijay Fraser",
+        "gender": "Male",
+        "dob": "1947-10-06",
+        "age": "79"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-08-15",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-08-15"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Right-sided colonic tumour",
+        "icd10_code": "C18.0",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.",
+    "mdt_outcome": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes."
+}

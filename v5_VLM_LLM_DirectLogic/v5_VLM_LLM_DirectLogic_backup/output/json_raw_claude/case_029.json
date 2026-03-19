@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "29/04/2024",
+    "patient_details": {
+        "hospital_number": "9990030",
+        "nhs_number": "9990000030",
+        "name": "Effy King",
+        "gender": "Female",
+        "dob": "12/05/1957",
+        "age": "69"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "30/06/2024",
+        "pathway_type": "62-day",
+        "calculated_target_date": "30/06/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Rectal adenocarcinoma",
+        "icd10_code": "C18.4",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+    "mdt_outcome": "Consider local excision with histology review at MDT. Needs CT TAP"
+}

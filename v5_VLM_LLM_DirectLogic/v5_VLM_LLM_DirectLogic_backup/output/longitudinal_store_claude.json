@@ -1,0 +1,1504 @@
+{
+    "patients": {
+        "9990000001(c)": {
+            "07-03-2025": [
+                {
+                    "mdt_meeting_date": "07/03/2025",
+                    "patient_details": {
+                        "hospital_number": "9990001(d)",
+                        "nhs_number": "9990000001(c)",
+                        "name": "AIDEN O'CONNOR(b)",
+                        "gender": "Male(e)",
+                        "dob": "26/05/1970",
+                        "age": "55"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "20/05/2025",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "20/05/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+                        "icd10_code": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "TWR / DTT\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+                    "mdt_outcome": "TWR / DTT\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple modules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+                }
+            ]
+        },
+        "9990000002(c)": {
+            "07-03-2025": [
+                {
+                    "mdt_meeting_date": "07/03/2025",
+                    "patient_details": {
+                        "hospital_number": "9990002(d)",
+                        "nhs_number": "9990000002(c)",
+                        "name": "ZIAD AL-FARSI",
+                        "gender": "Male",
+                        "dob": "30/03/1944",
+                        "age": "81 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "07/04/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+                        "icd10_code": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "T3 N0 M0",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Known prior lymphoma, treated\nNow fresh PR bleeding\nWeight loss\nReferral from haematology\nMDT with PET-CT avidity in rectum.",
+                    "mdt_outcome": "CT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum\nPET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation.\nHaematology-oncology MDT 3/3/25: for discussion in the lower GI MDT\nLower-GI MDT 5/3/35 \u2013 for colonoscopy"
+                }
+            ]
+        },
+        "9990000003": {
+            "07-03-2025": [
+                {
+                    "mdt_meeting_date": "07/03/2025",
+                    "patient_details": {
+                        "hospital_number": "9990003",
+                        "nhs_number": "9990000003",
+                        "name": "AISHA MOHAMMED",
+                        "gender": "Female",
+                        "dob": "1974-12-19",
+                        "age": "51 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-05-28",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-05-28"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "ICD10 Code: Differentiation:",
+                        "icd10_code": null,
+                        "differentiation": null,
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "BCSP : wants further treatment locally.",
+                    "mdt_outcome": "Descending colon polyp \u2013 well differentiated adenocarcinoma Other polyps \u2013 tubular adenoma with low grade dysplasia"
+                }
+            ]
+        },
+        "9990000004": {
+            "07-03-2025": [
+                {
+                    "mdt_meeting_date": "07/03/2025",
+                    "patient_details": {
+                        "hospital_number": "9990004",
+                        "nhs_number": "9990000004",
+                        "name": "MATTEO ROSSI",
+                        "gender": "Male",
+                        "dob": "25/02/1943",
+                        "age": "82 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "06/05/2025",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "06/05/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+                        "icd10_code": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "T3 N0 M0",
+                        "integrated_tnm_stage": "I",
+                        "dukes": "I"
+                    },
+                    "clinical_details": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear CRT to downstage",
+                    "mdt_outcome": "MRI 1/3/25: Persistent low signal, may represent complete response Flexi sig: scar seen"
+                }
+            ]
+        },
+        "9998009005": {
+            "13-09-2024": [
+                {
+                    "mdt_meeting_date": "13/09/2024",
+                    "patient_details": {
+                        "hospital_number": "9999005",
+                        "nhs_number": "9998009005",
+                        "name": "Graham Green",
+                        "gender": "Male",
+                        "dob": "1950-11-16",
+                        "age": "76"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-11-14",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-11-14"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C18.6",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include altered bowel habit, mucous discharge, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes chronic kidney disease stage 3.",
+                    "mdt_outcome": "Refer for colorectal surgical review."
+                }
+            ]
+        },
+        "9998009006": {
+            "14-11-2024": [
+                {
+                    "mdt_meeting_date": "14/11/2024",
+                    "patient_details": {
+                        "hospital_number": "9999006",
+                        "nhs_number": "9998009006",
+                        "name": "Ava Clarke",
+                        "gender": "Female",
+                        "dob": "1937-08-18",
+                        "age": "89"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-01-15",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-01-15"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Villous adenoma with focal invasion",
+                        "icd10_code": "C18.7",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).",
+                    "mdt_outcome": "Refer for colorectal surgical review."
+                }
+            ]
+        },
+        "9998009007": {
+            "21-06-2024": [
+                {
+                    "mdt_meeting_date": "21/06/2024",
+                    "patient_details": {
+                        "hospital_number": "9999007",
+                        "nhs_number": "9998009007",
+                        "name": "Mason Barker",
+                        "gender": "Male",
+                        "dob": "27/12/1947",
+                        "age": "79"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "21/07/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Tubular adenoma with HGD",
+                        "icd10_code": "C19",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.",
+                    "mdt_outcome": "Schedule colonoscopy + tattooing, plus MRI rectum."
+                }
+            ]
+        },
+        "9998009008": {
+            "20-08-2024": [
+                {
+                    "mdt_meeting_date": "20/08/2024",
+                    "patient_details": {
+                        "hospital_number": "9999008",
+                        "nhs_number": "9998009008",
+                        "name": "Freda Smale",
+                        "gender": "Female",
+                        "dob": "1951-08-08",
+                        "age": "75 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-10-21",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-10-21"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "C18.7",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.",
+                    "mdt_outcome": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+                }
+            ]
+        },
+        "9998009009": {
+            "10-04-2024": [
+                {
+                    "mdt_meeting_date": "10/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9999009",
+                        "nhs_number": "9998009009",
+                        "name": "Oliver Turner",
+                        "gender": "Male",
+                        "dob": "1964-03-18",
+                        "age": "62"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-06-11",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-06-11"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes rheumatoid arthritis.",
+                    "mdt_outcome": "Refer for colorectal surgical review colonoscopy, and CT TAP"
+                }
+            ]
+        },
+        "9998009010": {
+            "18-09-2024": [
+                {
+                    "mdt_meeting_date": "18/09/2024",
+                    "patient_details": {
+                        "hospital_number": "9999010",
+                        "nhs_number": "9998009010",
+                        "name": "Freya Hall",
+                        "gender": "Female",
+                        "dob": "20/06/1941",
+                        "age": "85 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "19/11/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "19/11/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.",
+                    "mdt_outcome": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+                }
+            ]
+        },
+        "9998009011": {
+            "19-02-2025": [
+                {
+                    "mdt_meeting_date": "19/02/2025",
+                    "patient_details": {
+                        "hospital_number": "9999011",
+                        "nhs_number": "9998009011",
+                        "name": "Erin Hall",
+                        "gender": "Female",
+                        "dob": "1957-03-24",
+                        "age": "69"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "22/03/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Serrated adenoma with dysplasia",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.",
+                    "mdt_outcome": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+                }
+            ]
+        },
+        "9998009012": {
+            "18-05-2024": [
+                {
+                    "mdt_meeting_date": "18/05/2024",
+                    "patient_details": {
+                        "hospital_number": "9999012",
+                        "nhs_number": "9998009012",
+                        "name": "Emmile Franklin",
+                        "gender": "Male",
+                        "dob": "22/10/1958",
+                        "age": "68"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "19/07/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "19/07/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.",
+                    "mdt_outcome": "oncology consultation ? CRT and surgical review ? Straight to ELAPE"
+                }
+            ]
+        },
+        "9998009013": {
+            "12-01-2025": [
+                {
+                    "mdt_meeting_date": "12/01/2025",
+                    "patient_details": {
+                        "hospital_number": "9999013",
+                        "nhs_number": "9998009013",
+                        "name": "Leah Morris",
+                        "gender": "Female",
+                        "dob": "1952-04-28",
+                        "age": "74"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-03-15",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-03-15"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "MMR-deficient rectal adenocarcinoma",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG-avid lesion in the rectum, avid breast lesion. Breast cancer being treated with curative intent",
+                    "mdt_outcome": "Colpnoscopy, biopsy, MRI"
+                }
+            ]
+        },
+        "9998009014": {
+            "27-02-2024": [
+                {
+                    "mdt_meeting_date": "27/02/2024",
+                    "patient_details": {
+                        "hospital_number": "9999014",
+                        "nhs_number": "9998009014",
+                        "name": "Hannah Higgins",
+                        "gender": "Female",
+                        "dob": "20/06/1964",
+                        "age": "62 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "29/04/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "29/04/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "MMR-deficient rectal adenocarcinoma",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats. Flexi sig lesion in the upper rectum, unable to reach TI",
+                    "mdt_outcome": "For MRI liver with contrast and PET-CT"
+                }
+            ]
+        },
+        "9998009015": {
+            "05-01-2025": [
+                {
+                    "mdt_meeting_date": "05/01/2025",
+                    "patient_details": {
+                        "hospital_number": "9999015",
+                        "nhs_number": "9998009015",
+                        "name": "Ollie Armstrong",
+                        "gender": "Male",
+                        "dob": "1972-03-27",
+                        "age": "54"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-03-08",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-03-08"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "C20",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.",
+                    "mdt_outcome": "Review ? Local excision Needs CT"
+                }
+            ]
+        },
+        "9998009016": {
+            "Colorectal Multidisciplinary Meeting(i)": [
+                {
+                    "mdt_meeting_date": "Colorectal Multidisciplinary Meeting(i)",
+                    "patient_details": {
+                        "hospital_number": "9999016",
+                        "nhs_number": "9998009016",
+                        "name": "Leo Hughes",
+                        "gender": "Male",
+                        "dob": "1984-03-03",
+                        "age": "42 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "13/04/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Suspicious rectosigmoid mass",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer. MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative.",
+                    "mdt_outcome": "For TNT, CRT first"
+                }
+            ]
+        },
+        "9998009017": {
+            "21-09-2024": [
+                {
+                    "mdt_meeting_date": "21/09/2024",
+                    "patient_details": {
+                        "hospital_number": "9999017",
+                        "nhs_number": "9998009017",
+                        "name": "Sophia Green",
+                        "gender": "Female",
+                        "dob": "25/07/1965",
+                        "age": "61 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "21/10/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Tubular adenoma with HGD",
+                        "icd10_code": "C20",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.",
+                    "mdt_outcome": "Needs MRI for local staging"
+                }
+            ]
+        },
+        "9998009018": {
+            "20-10-2024": [
+                {
+                    "mdt_meeting_date": "20/10/2024",
+                    "patient_details": {
+                        "hospital_number": "9999018",
+                        "nhs_number": "9998009018",
+                        "name": "Harper Kirk",
+                        "gender": "Female",
+                        "dob": "1981-10-28",
+                        "age": "45"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-12-21",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-12-21"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C18.6",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.",
+                    "mdt_outcome": "PET-CT on 29/09/2024: FDG-avid lesion in the low rectum, no distant uptake.\nMDT Outcome(h)\nPET-CT and oncology consultation."
+                }
+            ]
+        },
+        "9990000019": {
+            "30-01-2024": [
+                {
+                    "mdt_meeting_date": "30/01/2024",
+                    "patient_details": {
+                        "hospital_number": "9990019",
+                        "nhs_number": "9990000019",
+                        "name": "Lauren Fraser",
+                        "gender": "Female",
+                        "dob": "17/05/1940",
+                        "age": "86 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "01/04/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "01/04/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Rectal adenocarcinoma",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+                    "mdt_outcome": "For chemotherapy and review"
+                }
+            ]
+        },
+        "9990000020": {
+            "31-07-2024": [
+                {
+                    "mdt_meeting_date": "31/07/2024",
+                    "patient_details": {
+                        "hospital_number": "9990020",
+                        "nhs_number": "9990000020",
+                        "name": "Oliver Door",
+                        "gender": "Male",
+                        "dob": "1979-07-03",
+                        "age": "47"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "01/09/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Large sessile polyp with possible malignant change",
+                        "icd10_code": "C20",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.",
+                    "mdt_outcome": "For right hemicolectomy"
+                }
+            ]
+        },
+        "9990000021": {
+            "07-03-2025": [
+                {
+                    "mdt_meeting_date": "07/03/2025",
+                    "patient_details": {
+                        "hospital_number": "9990021",
+                        "nhs_number": "9990000021",
+                        "name": "Harper Hamilton",
+                        "gender": "Female",
+                        "dob": "1939-02-02",
+                        "age": "87"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-08-05",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-08-05"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C18.2",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Referred to RDCC for weight loss, CT requested. FIT negative",
+                    "mdt_outcome": "For consideration of FOXTROT."
+                }
+            ]
+        },
+        "9990000022": {
+            "28-02-2025": [
+                {
+                    "mdt_meeting_date": "28/02/2025",
+                    "patient_details": {
+                        "hospital_number": "9990022",
+                        "nhs_number": "9990000022",
+                        "name": "Oscar Hughes",
+                        "gender": "Male",
+                        "dob": "20/05/1971",
+                        "age": "55 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "31/03/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Descending colon mass (indeterminate pathology)",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Intermittent episodes of mucous discharge and altered bowel habit affecting daily activities for 2 years. Past medical history significant for coeliac disease.",
+                    "mdt_outcome": "For surgery"
+                }
+            ]
+        },
+        "9990000023": {
+            "26-07-2024": [
+                {
+                    "mdt_meeting_date": "26/07/2024",
+                    "patient_details": {
+                        "hospital_number": "9990023",
+                        "nhs_number": "9990000023",
+                        "name": "Ren Kerr",
+                        "gender": "Male",
+                        "dob": "18/06/1941",
+                        "age": "85"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "26/08/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Ascending colon mass suspicious for malignancy",
+                        "icd10_code": "C19",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.",
+                    "mdt_outcome": "For MRI rectum to stage."
+                }
+            ]
+        },
+        "9990000024": {
+            "10-01-2025": [
+                {
+                    "mdt_meeting_date": "10/01/2025",
+                    "patient_details": {
+                        "hospital_number": "9990024",
+                        "nhs_number": "9990000024",
+                        "name": "Elijah Brown",
+                        "gender": "Male",
+                        "dob": "1963-01-06",
+                        "age": "63 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-03-13",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-03-13"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Rectal adenocarcinoma",
+                        "icd10_code": "C19",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+                    "mdt_outcome": "For surgery"
+                }
+            ]
+        },
+        "9990000025": {
+            "07-02-2024": [
+                {
+                    "mdt_meeting_date": "07/02/2024",
+                    "patient_details": {
+                        "hospital_number": "9990025",
+                        "nhs_number": "9990000025",
+                        "name": "Amelia Smith",
+                        "gender": "Female",
+                        "dob": "1957-09-20",
+                        "age": "69"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-09-04",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-09-04"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C20",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.",
+                    "mdt_outcome": "For CRT"
+                }
+            ]
+        },
+        "9990000026": {
+            "30-07-2024": [
+                {
+                    "mdt_meeting_date": "30/07/2024",
+                    "patient_details": {
+                        "hospital_number": "9990026",
+                        "nhs_number": "9990000026",
+                        "name": "Sony Smith",
+                        "gender": "Male",
+                        "dob": "1955-04-24",
+                        "age": "71"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "30/08/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Descending colon mass (indeterminate pathology)",
+                        "icd10_code": "C18",
+                        "differentiation": null,
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include altered bowel habit, abdominal discomfort, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include back pain.",
+                    "mdt_outcome": "For colonoscopy, need tissue"
+                }
+            ]
+        },
+        "9990000027": {
+            "10-04-2024": [
+                {
+                    "mdt_meeting_date": "10/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9990027",
+                        "nhs_number": "9990000027",
+                        "name": "Mia Edwards",
+                        "gender": "Female",
+                        "dob": "1957-11-22",
+                        "age": "69"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "11/05/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Ascending colon mass suspicious for malignancy",
+                        "icd10_code": "C18.0",
+                        "differentiation": null,
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+                    "mdt_outcome": "For colonoscopy"
+                }
+            ]
+        },
+        "9990000028": {
+            "22-03-2024": [
+                {
+                    "mdt_meeting_date": "22/03/2024",
+                    "patient_details": {
+                        "hospital_number": "9990028",
+                        "nhs_number": "9990000028",
+                        "name": "Mason Stark",
+                        "gender": "Male",
+                        "dob": "1950-06-22",
+                        "age": "76"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "23/04/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Ascending colon mass suspicious for malignancy",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Intermittent episodes of tenesmus and anaemia symptoms affecting daily activities for 10 weeks.",
+                    "mdt_outcome": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy"
+                }
+            ]
+        },
+        "9990000029": {
+            "04-01-2025": [
+                {
+                    "mdt_meeting_date": "04/01/2025",
+                    "patient_details": {
+                        "hospital_number": "9990029",
+                        "nhs_number": "9990000029",
+                        "name": "Lucien Bronte",
+                        "gender": "Male",
+                        "dob": "1953-09-14",
+                        "age": "73"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "04/02/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Ascending colon mass suspicious for malignancy",
+                        "icd10_code": "C18.0",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.",
+                    "mdt_outcome": "Needs CT thorax to complete staging\nFor chemotherapy downstaging and then surgery"
+                }
+            ]
+        },
+        "9990000030": {
+            "29-04-2024": [
+                {
+                    "mdt_meeting_date": "29/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9990030",
+                        "nhs_number": "9990000030",
+                        "name": "Effy King",
+                        "gender": "Female",
+                        "dob": "12/05/1957",
+                        "age": "69"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "30/06/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "30/06/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Rectal adenocarcinoma",
+                        "icd10_code": "C18.4",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+                    "mdt_outcome": "Consider local excision with histology review at MDT. Needs CT TAP"
+                }
+            ]
+        },
+        "9990000031": {
+            "13-12-2024": [
+                {
+                    "mdt_meeting_date": "13/12/2024",
+                    "patient_details": {
+                        "hospital_number": "9990031",
+                        "nhs_number": "9990000031",
+                        "name": "Ava Hamilton",
+                        "gender": "Female",
+                        "dob": "1953-11-18",
+                        "age": "73 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-02-13",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-02-13"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.",
+                    "mdt_outcome": "For right hemicolectomy"
+                }
+            ]
+        },
+        "9990000032": {
+            "13-05-2024": [
+                {
+                    "mdt_meeting_date": "13/05/2024",
+                    "patient_details": {
+                        "hospital_number": "9990032",
+                        "nhs_number": "9990000032",
+                        "name": "Emma Cooper",
+                        "gender": "Female",
+                        "dob": "1967-02-14",
+                        "age": "59"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "14/06/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Tubular adenoma with HGD",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.",
+                    "mdt_outcome": "For surgery (unsuitable for chemotherapy)"
+                }
+            ]
+        },
+        "9990000033": {
+            "08-04-2024": [
+                {
+                    "mdt_meeting_date": "08/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9990033",
+                        "nhs_number": "9990000033",
+                        "name": "Liam Turner",
+                        "gender": "Male",
+                        "dob": "1967-11-15",
+                        "age": "59"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "09/05/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Serrated adenoma with dysplasia",
+                        "icd10_code": "C18.7",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.",
+                    "mdt_outcome": "For colonoscopy, tattoo, left hemicolectomy"
+                }
+            ]
+        },
+        "9990000034": {
+            "05-03-2024": [
+                {
+                    "mdt_meeting_date": "05/03/2024",
+                    "patient_details": {
+                        "hospital_number": "9990034",
+                        "nhs_number": "9990000034",
+                        "name": "Saskia Johnson",
+                        "gender": "Female",
+                        "dob": "1976-07-22",
+                        "age": "50"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-06-05",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-06-05"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Caecal adenocarcinoma",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+                    "mdt_outcome": "Chemotherapy and review"
+                }
+            ]
+        },
+        "9990000035": {
+            "23-04-2024": [
+                {
+                    "mdt_meeting_date": "23/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9990035",
+                        "nhs_number": "9990000035",
+                        "name": "Emma Armstrong",
+                        "gender": "Female",
+                        "dob": "20/12/1967",
+                        "age": "59"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "24/06/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "24/06/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Caecal adenocarcinoma",
+                        "icd10_code": "C18.7",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Patient reports altered bowel habit and abdominal discomfort over 12 weeks with gradual worsening. Additional symptoms include early satiety, Past medical history significant for type 2 diabetes.",
+                    "mdt_outcome": "For MRI rectum, consider local excision"
+                }
+            ]
+        },
+        "9990000036": {
+            "21-01-2024": [
+                {
+                    "mdt_meeting_date": "21/01/2024",
+                    "patient_details": {
+                        "hospital_number": "9990036",
+                        "nhs_number": "9990000036",
+                        "name": "Leo Hall",
+                        "gender": "Male",
+                        "dob": "1981-07-04",
+                        "age": "45"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "21/02/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Large sessile polyp with possible malignant change",
+                        "icd10_code": "C19",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.",
+                    "mdt_outcome": "Left hemicolectomy, needs completion CT thorax"
+                }
+            ]
+        },
+        "9990000037": {
+            "14-06-2024": [
+                {
+                    "mdt_meeting_date": "14/06/2024",
+                    "patient_details": {
+                        "hospital_number": "9990037",
+                        "nhs_number": "9990000037",
+                        "name": "Elijay Fraser",
+                        "gender": "Male",
+                        "dob": "1947-10-06",
+                        "age": "79"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-08-15",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-08-15"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "C18.0",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.",
+                    "mdt_outcome": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes."
+                }
+            ]
+        },
+        "9990000038": {
+            "24-09-2024": [
+                {
+                    "mdt_meeting_date": "24/09/2024",
+                    "patient_details": {
+                        "hospital_number": "9990038",
+                        "nhs_number": "9990000038",
+                        "name": "Elizabeth Roberts",
+                        "gender": "Female",
+                        "dob": "07/09/1975",
+                        "age": "51 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "25/11/2024",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "25/11/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Villous adenoma with focal invasion",
+                        "icd10_code": "C19",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "TWR referral, PR bleeding Imaging: Colonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. MRI rectum: T1 N0 EMVI - CRM - PSW -",
+                    "mdt_outcome": "Consider ESD"
+                }
+            ]
+        },
+        "9990000039": {
+            "17-03-2024": [
+                {
+                    "mdt_meeting_date": "17/03/2024",
+                    "patient_details": {
+                        "hospital_number": "9990039",
+                        "nhs_number": "9990000039",
+                        "name": "James Morris",
+                        "gender": "Male",
+                        "dob": "1949-03-05",
+                        "age": "77"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "17/04/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Descending colon mass (adenocarcinoma)",
+                        "icd10_code": "C20",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.",
+                    "mdt_outcome": "Right hemicolectomy"
+                }
+            ]
+        },
+        "9990000040": {
+            "14-10-2024": [
+                {
+                    "mdt_meeting_date": "14/10/2024",
+                    "patient_details": {
+                        "hospital_number": "9990040",
+                        "nhs_number": "9990000040",
+                        "name": "Sophia Jackson",
+                        "gender": "Female",
+                        "dob": "1956-08-08",
+                        "age": "70 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-12-15",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-12-15"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Caecal adenocarcinoma",
+                        "icd10_code": "C18.2",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.",
+                    "mdt_outcome": "For right hemicolectomy"
+                }
+            ]
+        },
+        "9990000041": {
+            "17-11-2024": [
+                {
+                    "mdt_meeting_date": "17/11/2024",
+                    "patient_details": {
+                        "hospital_number": "9990041",
+                        "nhs_number": "9990000041",
+                        "name": "Martin Johnson",
+                        "gender": "Male",
+                        "dob": "1970-10-09",
+                        "age": "56"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-01-18",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-01-18"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C20",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.",
+                    "mdt_outcome": "CRT\nCT adrenal study\nCompletion colonoscopy and tattoo"
+                }
+            ]
+        },
+        "9990000042": {
+            "07-04-2024": [
+                {
+                    "mdt_meeting_date": "07/04/2024",
+                    "patient_details": {
+                        "hospital_number": "9990042",
+                        "nhs_number": "9990000042",
+                        "name": "Maya Brown",
+                        "gender": "Female",
+                        "dob": "1958-07-13",
+                        "age": "68"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "08/05/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Large sessile polyp with possible malignant change",
+                        "icd10_code": "C18.2",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.",
+                    "mdt_outcome": "Surgery"
+                }
+            ]
+        },
+        "9990000043": {
+            "01-07-2024": [
+                {
+                    "mdt_meeting_date": "01/07/2024",
+                    "patient_details": {
+                        "hospital_number": "9990043",
+                        "nhs_number": "9990000043",
+                        "name": "Lucy Boyle",
+                        "gender": "Female",
+                        "dob": "22/06/1962",
+                        "age": "64 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "01/08/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Serrated adenoma with dysplasia",
+                        "icd10_code": "C19",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.",
+                    "mdt_outcome": "Chemotherapy"
+                }
+            ]
+        },
+        "NHSNumber": {
+            "17-11-2024": [
+                {
+                    "mdt_meeting_date": "17/11/2024",
+                    "patient_details": {
+                        "hospital_number": "NHS Number",
+                        "nhs_number": "NHS Number",
+                        "name": "Freya Kind",
+                        "gender": "Female",
+                        "dob": "06/05/1971",
+                        "age": "55 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "18/01/2025",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "18/01/2025"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Rectal adenocarcinoma",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+                    "mdt_outcome": "For MRI rectum and colonoscopy"
+                }
+            ]
+        },
+        "9990000045": {
+            "22-06-2024": [
+                {
+                    "mdt_meeting_date": "22/06/2024",
+                    "patient_details": {
+                        "hospital_number": "9990045",
+                        "nhs_number": "9990000045",
+                        "name": "Geo Wilson",
+                        "gender": "Male",
+                        "dob": "1982-11-16",
+                        "age": "44"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2024-08-23",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2024-08-23"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Right-sided colonic tumour",
+                        "icd10_code": "C18.4",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+                    "mdt_outcome": "Surgery"
+                }
+            ]
+        },
+        "9990000046": {
+            "12-11-2024": [
+                {
+                    "mdt_meeting_date": "12/11/2024",
+                    "patient_details": {
+                        "hospital_number": "9990046",
+                        "nhs_number": "9990000046",
+                        "name": "James Cooper",
+                        "gender": "Male",
+                        "dob": "1952-02-14",
+                        "age": "72 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-01-13",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-01-13"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Rectal adenocarcinoma",
+                        "icd10_code": "C20",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+                    "mdt_outcome": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks."
+                }
+            ]
+        },
+        "9990000047": {
+            "03-08-2024": [
+                {
+                    "mdt_meeting_date": "03/08/2024",
+                    "patient_details": {
+                        "hospital_number": "9990047",
+                        "nhs_number": "9990000047",
+                        "name": "Frankie Edwards",
+                        "gender": "Female",
+                        "dob": "1964-10-09",
+                        "age": "60 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "04/09/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Serrated adenoma with dysplasia",
+                        "icd10_code": "D12.8",
+                        "differentiation": "Well differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": null,
+                        "dukes": null
+                    },
+                    "clinical_details": "Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.",
+                    "mdt_outcome": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+                }
+            ]
+        },
+        "9990000048": {
+            "22-01-2025": [
+                {
+                    "mdt_meeting_date": "22/01/2025",
+                    "patient_details": {
+                        "hospital_number": "9990048",
+                        "nhs_number": "9990000048",
+                        "name": "Jackson King",
+                        "gender": "Male",
+                        "dob": "1959-11-17",
+                        "age": "66"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-03-25",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-03-25"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Caecal adenocarcinoma",
+                        "icd10_code": "C18.0",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": ""
+                    },
+                    "clinical_details": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.",
+                    "mdt_outcome": "Refer for colorectal surgical review; staging CT chest requested."
+                }
+            ]
+        },
+        "9990000049": {
+            "05-05-2024": [
+                {
+                    "mdt_meeting_date": "05/05/2024",
+                    "patient_details": {
+                        "hospital_number": "9990049",
+                        "nhs_number": "9990000049",
+                        "name": "Emilia Taylor",
+                        "gender": "Female",
+                        "dob": "1978-03-01",
+                        "age": "48 Years"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": null,
+                        "pathway_type": "31-day",
+                        "calculated_target_date": "05/06/2024"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Tubular adenoma with HGD",
+                        "icd10_code": "D12.6",
+                        "differentiation": "Moderately differentiated",
+                        "staging": "Integrated TNM Stage: Dukes:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": "Dukes:"
+                    },
+                    "clinical_details": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.",
+                    "mdt_outcome": "For colonoscopy"
+                }
+            ]
+        },
+        "9990000050": {
+            "14-02-2025": [
+                {
+                    "mdt_meeting_date": "14/02/2025",
+                    "patient_details": {
+                        "hospital_number": "9990050",
+                        "nhs_number": "9990000050",
+                        "name": "Noah Robin",
+                        "gender": "Male",
+                        "dob": "1945-05-12",
+                        "age": "80"
+                    },
+                    "cancer_target_dates": {
+                        "extracted_62_day_target": "2025-04-17",
+                        "pathway_type": "62-day",
+                        "calculated_target_date": "2025-04-17"
+                    },
+                    "staging_and_diagnosis": {
+                        "diagnosis": "Sigmoid adenocarcinoma",
+                        "icd10_code": "C18.6",
+                        "differentiation": "Poorly differentiated",
+                        "staging": "Integrated TNM Stage:",
+                        "integrated_tnm_stage": "Dukes:",
+                        "dukes": null
+                    },
+                    "clinical_details": "Known head and neck cancer, had PET-CT for staging",
+                    "mdt_outcome": "For colonoscopy and biopsies."
+                }
+            ]
+        }
+    }
+}

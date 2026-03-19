@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "07/03/2025",
+    "patient_details": {
+        "hospital_number": "9990021",
+        "nhs_number": "9990000021",
+        "name": "Harper Hamilton",
+        "gender": "Female",
+        "dob": "1939-02-02",
+        "age": "87"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2025-08-05",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2025-08-05"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Sigmoid adenocarcinoma",
+        "icd10_code": "C18.2",
+        "differentiation": "Well differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": null
+    },
+    "clinical_details": "Referred to RDCC for weight loss, CT requested. FIT negative",
+    "mdt_outcome": "For consideration of FOXTROT."
+}

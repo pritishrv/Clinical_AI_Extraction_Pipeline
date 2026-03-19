@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "28/02/2025",
+    "patient_details": {
+        "hospital_number": "9990022",
+        "nhs_number": "9990000022",
+        "name": "Oscar Hughes",
+        "gender": "Male",
+        "dob": "20/05/1971",
+        "age": "55 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "31/03/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Descending colon mass (indeterminate pathology)",
+        "icd10_code": "D12.8",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Intermittent episodes of mucous discharge and altered bowel habit affecting daily activities for 2 years. Past medical history significant for coeliac disease.",
+    "mdt_outcome": "For surgery"
+}

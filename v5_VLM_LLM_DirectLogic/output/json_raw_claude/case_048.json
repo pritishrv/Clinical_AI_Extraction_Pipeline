@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "05/05/2024",
+    "patient_details": {
+        "hospital_number": "9990049",
+        "nhs_number": "9990000049",
+        "name": "Emilia Taylor",
+        "gender": "Female",
+        "dob": "1978-03-01",
+        "age": "48 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "05/06/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Tubular adenoma with HGD",
+        "icd10_code": "D12.6",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": "Dukes:"
+    },
+    "clinical_details": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.",
+    "mdt_outcome": "For colonoscopy"
+}

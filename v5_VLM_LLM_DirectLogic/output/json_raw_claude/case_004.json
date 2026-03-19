@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "13/09/2024",
+    "patient_details": {
+        "hospital_number": "9999005",
+        "nhs_number": "9998009005",
+        "name": "Graham Green",
+        "gender": "Male",
+        "dob": "1950-11-16",
+        "age": "76"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-11-14",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-11-14"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Sigmoid adenocarcinoma",
+        "icd10_code": "C18.6",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Symptoms include altered bowel habit, mucous discharge, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes chronic kidney disease stage 3.",
+    "mdt_outcome": "Refer for colorectal surgical review."
+}

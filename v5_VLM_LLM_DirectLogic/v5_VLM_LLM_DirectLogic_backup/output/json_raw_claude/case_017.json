@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "20/10/2024",
+    "patient_details": {
+        "hospital_number": "9999018",
+        "nhs_number": "9998009018",
+        "name": "Harper Kirk",
+        "gender": "Female",
+        "dob": "1981-10-28",
+        "age": "45"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-12-21",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-12-21"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Sigmoid adenocarcinoma",
+        "icd10_code": "C18.6",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.",
+    "mdt_outcome": "PET-CT on 29/09/2024: FDG-avid lesion in the low rectum, no distant uptake.\nMDT Outcome(h)\nPET-CT and oncology consultation."
+}

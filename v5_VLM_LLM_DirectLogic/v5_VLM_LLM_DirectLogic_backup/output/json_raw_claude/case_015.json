@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "Colorectal Multidisciplinary Meeting(i)",
+    "patient_details": {
+        "hospital_number": "9999016",
+        "nhs_number": "9998009016",
+        "name": "Leo Hughes",
+        "gender": "Male",
+        "dob": "1984-03-03",
+        "age": "42 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "13/04/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Suspicious rectosigmoid mass",
+        "icd10_code": "D12.6",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer. MRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative.",
+    "mdt_outcome": "For TNT, CRT first"
+}

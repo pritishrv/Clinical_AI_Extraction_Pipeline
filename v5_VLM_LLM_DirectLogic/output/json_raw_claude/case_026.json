@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "10/04/2024",
+    "patient_details": {
+        "hospital_number": "9990027",
+        "nhs_number": "9990000027",
+        "name": "Mia Edwards",
+        "gender": "Female",
+        "dob": "1957-11-22",
+        "age": "69"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "11/05/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Ascending colon mass suspicious for malignancy",
+        "icd10_code": "C18.0",
+        "differentiation": null,
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.",
+    "mdt_outcome": "For colonoscopy"
+}

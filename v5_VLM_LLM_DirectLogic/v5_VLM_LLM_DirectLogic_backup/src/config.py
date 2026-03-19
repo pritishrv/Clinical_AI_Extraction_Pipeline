@@ -1,0 +1,4 @@
+# v5_version_1/src/config.py
+# Paste your API Keys here
+GOOGLE_API_KEY = "PASTE_YOUR_GOOGLE_KEY_HERE"
+ANTHROPIC_API_KEY = "PASTE_YOUR_ANTHROPIC_KEY_HERE"

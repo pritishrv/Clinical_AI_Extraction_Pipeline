@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "17/11/2024",
+    "patient_details": {
+        "hospital_number": "NHS Number",
+        "nhs_number": "NHS Number",
+        "name": "Freya Kind",
+        "gender": "Female",
+        "dob": "06/05/1971",
+        "age": "55 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "18/01/2025",
+        "pathway_type": "62-day",
+        "calculated_target_date": "18/01/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Rectal adenocarcinoma",
+        "icd10_code": "D12.8",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": null
+    },
+    "clinical_details": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+    "mdt_outcome": "For MRI rectum and colonoscopy"
+}
