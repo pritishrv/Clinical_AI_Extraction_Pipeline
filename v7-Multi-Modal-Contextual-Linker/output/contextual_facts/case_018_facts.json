@@ -1,0 +1,24 @@
+{
+    "case_index": 18,
+    "nhs": "9990000019",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "For chemotherapy and review",
+        "Baseline CT: T(h)": "3",
+        "CEA: Date": "0",
+        "Baseline CT: M(h)": "1",
+        "Date_Sequence_0": "17/05/1940",
+        "Date_Sequence_1": "17/05/1940",
+        "Date_Sequence_2": "01/04/2024",
+        "Date_Sequence_3": "02/01/2024",
+        "Date_Sequence_4": "02/01/2024",
+        "Date_Sequence_5": "02/01/2024"
+    }
+}

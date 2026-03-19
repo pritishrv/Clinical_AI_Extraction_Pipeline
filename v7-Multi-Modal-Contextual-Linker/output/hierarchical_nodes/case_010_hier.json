@@ -1,0 +1,198 @@
+{
+    "case_index": 10,
+    "nhs": "9998009011",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases",
+            "is_label": false,
+            "context_row_text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases",
+            "is_label": false,
+            "context_row_text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases",
+            "is_label": false,
+            "context_row_text": "Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "is_label": false,
+            "context_row_text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "is_label": false,
+            "context_row_text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+            "is_label": false,
+            "context_row_text": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+        }
+    ]
+}

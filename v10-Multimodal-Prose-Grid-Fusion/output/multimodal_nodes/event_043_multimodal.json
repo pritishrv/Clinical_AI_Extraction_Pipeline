@@ -1,0 +1,127 @@
+{
+    "event_index": 43,
+    "nhs": "unknown",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For MRI rectum and colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For MRI rectum and colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For MRI rectum and colonoscopy"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease. || MDT Outcome(h) || For MRI rectum and colonoscopy"
+}

@@ -1,0 +1,18 @@
+{
+    "case_index": 4,
+    "nhs": "9998009005",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999005\nNHS Number: 9998009005\nGraham Green\nMale\nDOB: 16/11/1950   Age: 76 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Moderately differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Intent, pre-neoadjuvant therapy": "Refer for colorectal surgical review.",
+        "Surgery: Defunctioned?": "Refer for colorectal surgical review."
+    }
+}

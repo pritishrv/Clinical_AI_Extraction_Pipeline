@@ -1,0 +1,21 @@
+{
+    "case_index": 36,
+    "nhs": "9990000037",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Chemotherapy: Breaks": "For chemotherapy, surgical margin is unsafe",
+        "Baseline CT: T(h)": "3",
+        "CEA: Date": "1",
+        "Baseline CT: M(h)": "0",
+        "Date_Sequence_0": "06/10/1947",
+        "Date_Sequence_1": "06/10/1947",
+        "Date_Sequence_2": "15/08/2024"
+    }
+}

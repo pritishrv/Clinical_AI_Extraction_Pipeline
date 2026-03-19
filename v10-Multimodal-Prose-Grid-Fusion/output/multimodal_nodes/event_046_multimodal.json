@@ -1,0 +1,127 @@
+{
+    "event_index": 46,
+    "nhs": "9990000047",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.\n\nCT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.\n\nCT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.\n\nCT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.\n\nCT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease. || MDT Outcome(h) || Colonoscopy + biopsy + tattoo; return to MDT with histology."
+}

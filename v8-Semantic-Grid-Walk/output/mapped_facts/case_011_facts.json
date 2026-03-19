@@ -1,0 +1,11 @@
+{
+    "case_index": 11,
+    "nhs": "9998009012",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+        "MDT (after 12 week): Date": "19/07/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "12 week MRI: mrEMVI": "T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE"
+    }
+}

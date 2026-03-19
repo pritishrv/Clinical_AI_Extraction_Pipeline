@@ -1,0 +1,174 @@
+{
+    "case_index": 31,
+    "nhs": "9990000032",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "row_header": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "row_header": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "row_header": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "row_header": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "row_header": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "row_header": "For surgery (unsuitable for chemotherapy)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "row_header": "For surgery (unsuitable for chemotherapy)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "row_header": "For surgery (unsuitable for chemotherapy)",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "case_index": 1,
+    "nhs": "9990000002",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990002(d)\nNHS Number: 9990000002(c)\nZIAD AL-FARSI(b)\nMale(e)\n30/03/1944 Age: 81 Years(a)",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: M(h)": "T3 N0 M0 \nIntegrated TNM Stage:      \nDukes:",
+        "Demographics: \nState site of previous cancer(f)": "T3 N0 M0 \nIntegrated TNM Stage:      \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "no lymphadenopathy. New semi-annular thickening in rectum \nPET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation. \n\nHaematology-oncology MDT 3/3/25: for discussion in the lower GI MDT \n\nLower-GI MDT 5/3/35 \u2013 for colonoscopy",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. \n\nMRI 4/3/25 \u2013 low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear",
+        "2nd MRI: Date": "MRI 4/3/25",
+        "Baseline CT: EMVI(h)": "low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear",
+        "2nd MRI: mrCRM": "polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. \n\nMRI 4/3/25 \u2013 low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear"
+    }
+}

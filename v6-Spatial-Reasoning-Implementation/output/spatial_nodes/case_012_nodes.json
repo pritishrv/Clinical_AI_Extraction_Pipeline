@@ -1,0 +1,126 @@
+{
+    "case_index": 12,
+    "patient_nhs": "9998009013",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Colpnoscopy, biopsy, MRI"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Colpnoscopy, biopsy, MRI"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Colpnoscopy, biopsy, MRI"
+        }
+    ]
+}

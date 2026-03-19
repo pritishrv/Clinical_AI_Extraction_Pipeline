@@ -1,0 +1,19 @@
+{
+    "case_index": 40,
+    "patient_nhs": "9990000041",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "12 week MRI: mrEMVI": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+        "Baseline CT: T(h)": "CRT\nCT adrenal study",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Completion colonoscopy and tattoo"
+    }
+}

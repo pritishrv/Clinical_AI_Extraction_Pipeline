@@ -1,0 +1,17 @@
+{
+    "case_index": 30,
+    "nhs": "9990000031",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "2nd MRI: Patient pathway status": "CT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For right hemicolectomy"
+    }
+}

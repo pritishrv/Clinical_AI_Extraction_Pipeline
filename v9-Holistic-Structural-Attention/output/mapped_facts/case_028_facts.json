@@ -1,0 +1,17 @@
+{
+    "case_index": 28,
+    "nhs": "9990000029",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery"
+    }
+}

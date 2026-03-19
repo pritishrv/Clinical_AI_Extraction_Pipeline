@@ -1,0 +1,16 @@
+{
+    "case_index": 19,
+    "nhs": "9990000020",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For right hemicolectomy"
+    }
+}

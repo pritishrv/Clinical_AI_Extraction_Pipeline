@@ -1,0 +1,16 @@
+{
+    "case_index": 10,
+    "nhs": "9998009011",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "lesion in the low rectum, no metastases",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+        "2nd MRI: Patient pathway status": "Patient needs to be told, for colonoscopy, biopsy and MRI pelvis"
+    }
+}

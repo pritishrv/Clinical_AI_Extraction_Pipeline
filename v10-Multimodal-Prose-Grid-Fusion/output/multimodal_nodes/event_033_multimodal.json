@@ -1,0 +1,127 @@
+{
+    "event_index": 33,
+    "nhs": "9990000034",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Chemotherapy and review"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Chemotherapy and review"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Chemotherapy and review"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 || MDT Outcome(h) || Chemotherapy and review"
+}

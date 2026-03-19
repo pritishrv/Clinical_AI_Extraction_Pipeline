@@ -1,0 +1,127 @@
+{
+    "event_index": 0,
+    "nhs": "9990000001",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55 | 62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging:    \nIntegrated TNM Stage:      \nDukes: || Clinical Details(f): || TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path || MDT Outcome(h) || DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+}

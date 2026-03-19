@@ -1,0 +1,198 @@
+{
+    "case_index": 22,
+    "nhs": "9990000023",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum to stage.",
+            "is_label": false,
+            "context_row_text": "For MRI rectum to stage."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum to stage.",
+            "is_label": false,
+            "context_row_text": "For MRI rectum to stage."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum to stage.",
+            "is_label": false,
+            "context_row_text": "For MRI rectum to stage."
+        }
+    ]
+}

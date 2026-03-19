@@ -1,0 +1,17 @@
+{
+    "case_index": 18,
+    "nhs": "9990000019",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "For chemotherapy and review",
+        "Demographics: \nNHS number(d)": "9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "For chemotherapy and review"
+    }
+}

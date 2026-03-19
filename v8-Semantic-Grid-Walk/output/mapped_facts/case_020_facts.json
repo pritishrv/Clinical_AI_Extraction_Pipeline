@@ -1,0 +1,11 @@
+{
+    "case_index": 20,
+    "nhs": "9990000021",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years",
+        "MDT (after 12 week): Date": "08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: M(h)": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "case_index": 16,
+    "nhs": "9998009017",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years",
+            "row_header": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years",
+            "row_header": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "row_header": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "row_header": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "row_header": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Needs MRI for local staging",
+            "row_header": "Needs MRI for local staging",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Needs MRI for local staging",
+            "row_header": "Needs MRI for local staging",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Needs MRI for local staging",
+            "row_header": "Needs MRI for local staging",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

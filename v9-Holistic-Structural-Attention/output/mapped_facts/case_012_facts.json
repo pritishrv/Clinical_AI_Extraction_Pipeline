@@ -1,0 +1,15 @@
+{
+    "case_index": 12,
+    "nhs": "9998009013",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years",
+        "Histology: Biopsy result(g)": "Colpnoscopy, biopsy, MRI",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)"
+    }
+}

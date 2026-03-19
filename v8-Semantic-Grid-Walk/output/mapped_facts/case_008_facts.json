@@ -1,0 +1,12 @@
+{
+    "case_index": 8,
+    "nhs": "9998009009",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9999009\nNHS Number: 9998009009\nOliver Turner\nMale\nDOB: 18/03/1964    Age: 62 Years",
+        "Chemotherapy: Dates": "11/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Refer for colorectal surgical review colonoscopy, and CT TAP",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG\u2011avid lesion in the ascending colon, no distant uptake."
+    }
+}

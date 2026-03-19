@@ -1,0 +1,198 @@
+{
+    "case_index": 43,
+    "nhs": "unknown",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "is_label": false,
+            "context_row_text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum and colonoscopy",
+            "is_label": false,
+            "context_row_text": "For MRI rectum and colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum and colonoscopy",
+            "is_label": false,
+            "context_row_text": "For MRI rectum and colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "For MRI rectum and colonoscopy",
+            "is_label": false,
+            "context_row_text": "For MRI rectum and colonoscopy"
+        }
+    ]
+}

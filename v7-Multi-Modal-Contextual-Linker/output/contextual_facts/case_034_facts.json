@@ -1,0 +1,24 @@
+{
+    "case_index": 34,
+    "nhs": "9990000035",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 24/06/2024 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For MRI rectum, consider local excision",
+        "Baseline CT: T(h)": "2",
+        "CEA: Date": "0",
+        "Baseline CT: M(h)": "0",
+        "Date_Sequence_0": "20/12/1967",
+        "Date_Sequence_1": "20/12/1967",
+        "Date_Sequence_2": "24/06/2024",
+        "Date_Sequence_3": "09/04/2024",
+        "Date_Sequence_4": "09/04/2024",
+        "Date_Sequence_5": "09/04/2024"
+    }
+}

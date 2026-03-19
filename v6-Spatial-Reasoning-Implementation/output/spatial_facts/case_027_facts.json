@@ -1,0 +1,17 @@
+{
+    "case_index": 27,
+    "patient_nhs": "9990000028",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990028\nNHS Number: 9990000028\nName: Mason Stark\nGender: Male\nDOB: 22/06/1950    Age: 76 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Ascending colon mass suspicious for malignancy\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "12 week MRI: mrEMVI": "Intermittent episodes of tenesmus and anaemia symptoms affecting daily activities for 10 weeks. \n\nImaging:\nCT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Surgery: Intent, pre-neoadjuvant therapy": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy"
+    }
+}

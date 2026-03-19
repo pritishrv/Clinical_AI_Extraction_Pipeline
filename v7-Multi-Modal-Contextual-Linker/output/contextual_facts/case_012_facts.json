@@ -1,0 +1,19 @@
+{
+    "case_index": 12,
+    "nhs": "9998009013",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Colpnoscopy, biopsy, MRI",
+        "Histology: \nMMR status(g/h)": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Date_Sequence_0": "28/04/1952",
+        "Date_Sequence_1": "28/04/1952",
+        "Date_Sequence_2": "15/03/2025",
+        "Date_Sequence_3": "29/12/2024",
+        "Date_Sequence_4": "29/12/2024",
+        "Date_Sequence_5": "29/12/2024"
+    }
+}

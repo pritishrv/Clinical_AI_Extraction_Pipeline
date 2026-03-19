@@ -1,0 +1,20 @@
+{
+    "case_index": 16,
+    "nhs": "9998009017",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "12 week MRI: mrCRM": "Needs MRI for local staging",
+        "Date_Sequence_0": "25/07/1965",
+        "Date_Sequence_1": "25/07/1965",
+        "Date_Sequence_2": "14/09/2024",
+        "Date_Sequence_3": "14/09/2024",
+        "Date_Sequence_4": "14/09/2024"
+    }
+}

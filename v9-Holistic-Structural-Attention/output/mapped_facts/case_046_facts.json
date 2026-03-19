@@ -1,0 +1,16 @@
+{
+    "case_index": 46,
+    "nhs": "9990000047",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Colonoscopy + biopsy + tattoo; return to MDT with histology.",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Colonoscopy + biopsy + tattoo; return to MDT with histology."
+    }
+}

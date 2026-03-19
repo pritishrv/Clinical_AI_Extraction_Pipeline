@@ -1,0 +1,12 @@
+{
+    "case_index": 33,
+    "nhs": "9990000034",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years",
+        "MDT (after 12 week): Date": "06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy date(g)": "Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0"
+    }
+}

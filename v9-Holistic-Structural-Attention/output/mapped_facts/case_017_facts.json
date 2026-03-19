@@ -1,0 +1,15 @@
+{
+    "case_index": 17,
+    "nhs": "9998009018",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "PET\u2011CT and oncology consultation.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)"
+    }
+}

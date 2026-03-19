@@ -1,0 +1,198 @@
+{
+    "case_index": 35,
+    "nhs": "9990000036",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C19\nDifferentiation: Moderately differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0",
+            "is_label": false,
+            "context_row_text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0",
+            "is_label": false,
+            "context_row_text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0",
+            "is_label": false,
+            "context_row_text": "Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Left hemicolectomy, needs completion CT thorax",
+            "is_label": false,
+            "context_row_text": "Left hemicolectomy, needs completion CT thorax"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Left hemicolectomy, needs completion CT thorax",
+            "is_label": false,
+            "context_row_text": "Left hemicolectomy, needs completion CT thorax"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Left hemicolectomy, needs completion CT thorax",
+            "is_label": false,
+            "context_row_text": "Left hemicolectomy, needs completion CT thorax"
+        }
+    ]
+}

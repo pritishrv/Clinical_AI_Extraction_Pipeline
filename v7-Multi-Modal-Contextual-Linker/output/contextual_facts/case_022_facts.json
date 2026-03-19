@@ -1,0 +1,20 @@
+{
+    "case_index": 22,
+    "nhs": "9990000023",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "2nd MRI: Patient pathway status": "For MRI rectum to stage.",
+        "Date_Sequence_0": "18/06/1941",
+        "Date_Sequence_1": "18/06/1941",
+        "Date_Sequence_2": "12/07/2024",
+        "Date_Sequence_3": "12/07/2024",
+        "Date_Sequence_4": "12/07/2024"
+    }
+}

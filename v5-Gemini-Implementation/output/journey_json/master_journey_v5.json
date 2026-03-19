@@ -1,0 +1,725 @@
+{
+    "9990000001": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 0,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55 | 62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging:    \nIntegrated TNM Stage:      \nDukes: || Clinical Details(f): || TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path || MDT Outcome(h) || DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+                "target_dates": [
+                    "26/05/1970",
+                    "20/05/2025",
+                    "29/02/2025"
+                ]
+            }
+        ]
+    },
+    "9990000002": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 1,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990002(d)\nNHS Number: 9990000002(c)\nZIAD AL-FARSI(b)\nMale(e)\n30/03/1944 Age: 81 Years(a) | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Poorly differentiated | Staging: T3 N0 M0 \nIntegrated TNM Stage:      \nDukes: || Clinical Details(f): || Known prior lymphoma, treated \nNow fresh PR bleeding \nWeight loss\nReferral from haematology MDT with PET-CT avidity in rectum. \n\nCT 22/2/2025: no lymphadenopathy. New semi-annular thickening in rectum \nPET-CT 1/3/25: no nodal avidity, avidity in the mid rectum- recommend direct visualisation. \n\nHaematology-oncology MDT 3/3/25: for discussion in the lower GI MDT \n\nLower-GI MDT 5/3/35 \u2013 for colonoscopy || MDT Outcome(h) || Colonoscopy: polypoidal lesion in the low rectum, biopsy adenocarcinoma, poorly differentiated. \n\nMRI 4/3/25 \u2013 low rectal lesion with a low signal stalk, area of ulceration noted. Some high signal change consistent with mucus. Soft tissue extends to ISP so low rectal cancer plane is unsafe. T3c, N1c, CRM/ISP unsafe, EMVI positive, PSW clear",
+                "target_dates": [
+                    "30/03/1944",
+                    "22/2/2025"
+                ]
+            }
+        ]
+    },
+    "9990000003": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 2,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes: || Clinical Details(f): || BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan || MDT Outcome(h) || Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo",
+                "target_dates": [
+                    "19/12/1974",
+                    "28/05/2025"
+                ]
+            }
+        ]
+    },
+    "9990000004": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 3,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years | 62 DAY TARGET: 06/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging: T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes: || Clinical Details(f): || Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig || MDT Outcome(h) || MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+                "target_dates": [
+                    "25/02/1943",
+                    "06/05/2025"
+                ]
+            }
+        ]
+    },
+    "9998009005": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 4,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999005\nNHS Number: 9998009005\nGraham Green\nMale\nDOB: 16/11/1950   Age: 76 Years | 62 DAY TARGET: 14/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include altered bowel habit, mucous discharge, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes chronic kidney disease stage 3.\n\n\nCT TAP on 06/09/2024: sigmoid colon thickening with no enlarged mesenteric nodes; no distant metastases. || MDT Outcome(h) || Refer for colorectal surgical review.",
+                "target_dates": [
+                    "16/11/1950",
+                    "14/11/2024",
+                    "06/09/2024"
+                ]
+            }
+        ]
+    },
+    "9998009006": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 5,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999006\nNHS Number: 9998009006\nAva Clarke\nFemale\nDOB: 18/08/1937   Age: 89 Years | 62 DAY TARGET: 15/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).\n\n\nMRI pelvis on 31/10/2024: T1 sm2/3, N0, CRM clear, EMVI negative. || MDT Outcome(h) || Refer for colorectal surgical review.",
+                "target_dates": [
+                    "18/08/1937",
+                    "15/01/2025",
+                    "31/10/2024"
+                ]
+            }
+        ]
+    },
+    "9998009007": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 6,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases. || MDT Outcome(h) || Schedule colonoscopy + tattooing, plus MRI rectum.",
+                "target_dates": [
+                    "27/12/1947",
+                    "14/06/2024"
+                ]
+            }
+        ]
+    },
+    "9998009008": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 7,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive. || MDT Outcome(h) || Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+                "target_dates": [
+                    "08/08/1951",
+                    "21/10/2024",
+                    "30/07/2024"
+                ]
+            }
+        ]
+    },
+    "9998009009": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 8,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999009\nNHS Number: 9998009009\nOliver Turner\nMale\nDOB: 18/03/1964    Age: 62 Years | 62 DAY TARGET: 11/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT performed for ? Vasculitis on 13/03/2024: FDG\u2011avid lesion in the ascending colon, no distant uptake. || MDT Outcome(h) || Refer for colorectal surgical review colonoscopy, and CT TAP",
+                "target_dates": [
+                    "18/03/1964",
+                    "11/06/2024",
+                    "13/03/2024"
+                ]
+            }
+        ]
+    },
+    "9998009010": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 9,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years | 62 DAY TARGET: 19/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT. || MDT Outcome(h) || Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+                "target_dates": [
+                    "20/06/1941",
+                    "19/11/2024",
+                    "14/08/2024"
+                ]
+            }
+        ]
+    },
+    "9998009011": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 10,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999011\nNHS Number: 9998009011\nErin Hall\nFemale\nDOB: 24/03/1957   Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include abdominal discomfort, altered bowel habit, reduced appetite, and intermittent bloating for 5 weeks. Patient also reports night sweats. Relevant history includes coeliac disease.\n\n\nCT on 12/02/2025:  lesion in the low rectum, no metastases || MDT Outcome(h) || Patient needs to be told, for colonoscopy, biopsy and MRI pelvis",
+                "target_dates": [
+                    "24/03/1957",
+                    "12/02/2025"
+                ]
+            }
+        ]
+    },
+    "9998009012": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 11,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years | 62 DAY TARGET: 19/07/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE || MDT Outcome(h) || oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+                "target_dates": [
+                    "22/10/1958",
+                    "19/07/2024",
+                    "11/05/2024"
+                ]
+            }
+        ]
+    },
+    "9998009013": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 12,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years | 62 DAY TARGET: 15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Known breast cancer, had PET-CT which also showed (29/12/2024): FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent || MDT Outcome(h) || Colpnoscopy, biopsy, MRI",
+                "target_dates": [
+                    "28/04/1952",
+                    "15/03/2025",
+                    "29/12/2024"
+                ]
+            }
+        ]
+    },
+    "9998009014": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 13,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years | 62 DAY TARGET: 29/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion || MDT Outcome(h) || For MRI liver with contrast and PET-CT",
+                "target_dates": [
+                    "20/06/1964",
+                    "29/04/2024"
+                ]
+            }
+        ]
+    },
+    "9998009015": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 14,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years | 62 DAY TARGET: 08/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive. || MDT Outcome(h) || Review ? Local excision \nNeeds CT",
+                "target_dates": [
+                    "27/03/1972",
+                    "08/03/2025",
+                    "01/12/2024"
+                ]
+            }
+        ]
+    },
+    "9998009016": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 15,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include weight loss, rectal bleeding, reduced appetite, and intermittent bloating for 10 weeks. Patient also reports fatigue. Relevant history includes history of prostate cancer\n\nMRI pelvis on 13/01/2025: T3d, N0, CRM threatened, EMVI negative. || MDT Outcome(h) || For TNT, CRT first",
+                "target_dates": [
+                    "03/03/1984",
+                    "13/01/2025"
+                ]
+            }
+        ]
+    },
+    "9998009017": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 16,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999017\nNHS Number: 9998009017\nSophia Green\nFemale\nDOB: 25/07/1965   Age: 61 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Tubular adenoma with HGD\nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive weight loss accompanied by rectal bleeding; patient also notes fatigue over 2 weeks. Patient also reports early satiety.\n\nCT \u2013 10/9/24\nPET\u2011CT on 14/09/2024: FDG\u2011avid lesion in the mid rectum, no distant uptake. || MDT Outcome(h) || Needs MRI for local staging",
+                "target_dates": [
+                    "25/07/1965",
+                    "14/09/2024"
+                ]
+            }
+        ]
+    },
+    "9998009018": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 17,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years | 62 DAY TARGET: 21/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake. || MDT Outcome(h) || PET\u2011CT and oncology consultation.",
+                "target_dates": [
+                    "28/10/1981",
+                    "21/12/2024",
+                    "29/09/2024"
+                ]
+            }
+        ]
+    },
+    "9990000019": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 18,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years | 62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver || MDT Outcome(h) || For chemotherapy and review",
+                "target_dates": [
+                    "17/05/1940",
+                    "01/04/2024",
+                    "02/01/2024"
+                ]
+            }
+        ]
+    },
+    "9990000020": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 19,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0 || MDT Outcome(h) || For right hemicolectomy",
+                "target_dates": [
+                    "03/07/1979",
+                    "31/07/2024"
+                ]
+            }
+        ]
+    },
+    "9990000021": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 20,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years | 62 DAY TARGET: 08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe. || MDT Outcome(h) || For consideration of FOXTROT.",
+                "target_dates": [
+                    "02/02/1939",
+                    "08/05/2025",
+                    "07/02/2025"
+                ]
+            }
+        ]
+    },
+    "9990000022": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 21,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990022\nNHS Number: 9990000022\nName: Oscar Hughes\nGender: Male\nDOB: 20/05/1971    Age: 55 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Descending colon mass (indeterminate pathology)\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent episodes of mucous discharge and altered bowel habit affecting daily activities for 2 years. Past medical history significant for coeliac disease.\n\nImaging:\nCT colonography 24/01/2025: suspected cancer, mural thickening at mid sigmoid, T2, N0 M0 || MDT Outcome(h) || For surgery",
+                "target_dates": [
+                    "20/05/1971",
+                    "24/01/2025"
+                ]
+            }
+        ]
+    },
+    "9990000023": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 22,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.\n\nImaging:\nCT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets. || MDT Outcome(h) || For MRI rectum to stage.",
+                "target_dates": [
+                    "18/06/1941",
+                    "12/07/2024"
+                ]
+            }
+        ]
+    },
+    "9990000024": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 23,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990024\nNHS Number: 9990000024\nName: Elijah Brown\nGender: Male\nDOB: 06/01/1963   Age: 63 Years | 62 DAY TARGET: 13/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || intermittent episodes of altered bowel habit and abdominal discomfort affecting daily activities for 12 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nCT abdomen on 03/01/2025: mural thickening at descending colon, semiannular, stage early T3, N0, M0, for surgery (patient unfit for chemotherapy). || MDT Outcome(h) || For surgery",
+                "target_dates": [
+                    "06/01/1963",
+                    "13/03/2025",
+                    "03/01/2025"
+                ]
+            }
+        ]
+    },
+    "9990000025": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 24,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive. || MDT Outcome(h) || For CRT",
+                "target_dates": [
+                    "20/09/1957",
+                    "09/04/2024",
+                    "24/01/2024"
+                ]
+            }
+        ]
+    },
+    "9990000026": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 25,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990026\nNHS Number: 9990000026\nName: Sony Smith\nGender: Male\nDOB: 24/04/1955   Age: 71 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Descending colon mass (indeterminate pathology)\nICD10 Code: \nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include altered bowel habit, abdominal discomfort, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include back pain.\n\nImaging:\nCT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic. || MDT Outcome(h) || For colonoscopy, need tissue",
+                "target_dates": [
+                    "24/04/1955",
+                    "23/07/2024"
+                ]
+            }
+        ]
+    },
+    "9990000027": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 26,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive tenesmus with new onset rectal bleeding; fatigue over 3 weeks. Additional symptoms include early satiety. Past medical history significant for previous prostate cancer.\n\nImaging:\nCT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0 || MDT Outcome(h) || For colonoscopy",
+                "target_dates": [
+                    "22/11/1957",
+                    "27/03/2024"
+                ]
+            }
+        ]
+    },
+    "9990000028": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 27,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990028\nNHS Number: 9990000028\nName: Mason Stark\nGender: Male\nDOB: 22/06/1950    Age: 76 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent episodes of tenesmus and anaemia symptoms affecting daily activities for 10 weeks. \n\nImaging:\nCT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx || MDT Outcome(h) || Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy",
+                "target_dates": [
+                    "22/06/1950",
+                    "16/02/2024"
+                ]
+            }
+        ]
+    },
+    "9990000029": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 28,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990029\nNHS Number: 9990000029\nName: Lucien Bronte\nGender: Male\nDOB: 14/09/1953    Age: 73 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Ascending colon mass suspicious for malignancy\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 07/12/2024: mural thickening at sigmoid colon, T3 N1c EMVI positive, Mx || MDT Outcome(h) || Needs CT thorax to complete staging\n\nFor chemotherapy downstaging and then surgery",
+                "target_dates": [
+                    "14/09/1953",
+                    "07/12/2024"
+                ]
+            }
+        ]
+    },
+    "9990000030": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 29,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years | 62 DAY TARGET: 30/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative || MDT Outcome(h) || Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+                "target_dates": [
+                    "12/05/1957",
+                    "30/06/2024",
+                    "15/04/2024"
+                ]
+            }
+        ]
+    },
+    "9990000031": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 30,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years | 62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV || MDT Outcome(h) || For right hemicolectomy",
+                "target_dates": [
+                    "18/11/1953",
+                    "13/02/2025",
+                    "06/12/2024"
+                ]
+            }
+        ]
+    },
+    "9990000032": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 31,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0 || MDT Outcome(h) || For surgery (unsuitable for chemotherapy)",
+                "target_dates": [
+                    "14/02/1967",
+                    "29/04/2024"
+                ]
+            }
+        ]
+    },
+    "9990000033": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 32,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C18.7\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0 || MDT Outcome(h) || For colonoscopy, tattoo, left hemicolectomy",
+                "target_dates": [
+                    "15/11/1967",
+                    "25/03/2024"
+                ]
+            }
+        ]
+    },
+    "9990000034": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 33,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990034\nNHS Number: 9990000034\nName: Saskia Johnson\nGender: Female\nDOB: 22/07/1976    Age: 50 Years | 62 DAY TARGET: 06/05/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Caecal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT TAP on 13/02/2024: cecal mass with multiple enlarged mesenteric nodes; no liver mets. CT T3 N1c EMVI+ M0 || MDT Outcome(h) || Chemotherapy and review",
+                "target_dates": [
+                    "22/07/1976",
+                    "06/05/2024",
+                    "13/02/2024"
+                ]
+            }
+        ]
+    },
+    "9990000035": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 34,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990035\nNHS Number: 9990000035\nName: Emma Armstrong\nGender: Female\nDOB: 20/12/1967    Age: 59 Years | 62 DAY TARGET: 24/06/2024 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports altered bowel habit and abdominal discomfort over 12 weeks with gradual worsening. Additional symptoms include early satiety. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0 || MDT Outcome(h) || For MRI rectum, consider local excision",
+                "target_dates": [
+                    "20/12/1967",
+                    "24/06/2024",
+                    "09/04/2024"
+                ]
+            }
+        ]
+    },
+    "9990000036": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 35,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990036\nNHS Number: 9990000036\nName: Leo Hall\nGender: Male\nDOB: 04/07/1981    Age: 45 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C19\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include altered bowel habit, weight loss, reduced appetite and abdominal bloating for 2 weeks. Additional symptoms include early satiety. Past medical history significant for rheumatoid arthritis.\n\nImaging:\nColonoscopy 01/01/2024: Large sessile polyp at descending colon with abnormal pit pattern \nCT abdomen on 07/01/2024: polyp at descending colon, T2 N1 M0 || MDT Outcome(h) || Left hemicolectomy, needs completion CT thorax",
+                "target_dates": [
+                    "04/07/1981",
+                    "01/01/2024",
+                    "07/01/2024"
+                ]
+            }
+        ]
+    },
+    "9990000037": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 36,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990037\nNHS Number: 9990000037\nName: Eljay Fraser\nGender: Male\nDOB: 06/10/1947    Age: 79 Years | 62 DAY TARGET: 15/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent episodes of anaemia symptoms and weight loss affecting daily activities for 10 weeks. Additional symptoms include back pain. Past medical history significant for type 2 diabetes.\n\nImaging:\n\nColonoscopy: multiple polyps, is there a history of a polyposis syndrome? Suspicious cancers in the transverse and ascending colons. \n\nCT TAP: \nTransverse colon: T3 N1 EMVI negative, \nAscending colon: T4b, N1c, EMVI negative. Directly infiltrates the terminal ileum \nIndeterminate lung nodules, can be kept under review, below the size criteria for PET-CT, M0 || MDT Outcome(h) || For chemotherapy, surgical margin is unsafe",
+                "target_dates": [
+                    "06/10/1947",
+                    "15/08/2024"
+                ]
+            }
+        ]
+    },
+    "9990000038": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 37,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990038\nNHS Number: 9990000038\nName: Elizabeth Roberts\nGender: Female \nDOB: 07/09/1975    Age: 51 Years | 62 DAY TARGET: 25/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || TWR referral, PR bleeding\nImaging:\nColonoscopy: sessile lesion in rectum, does not lift, unsuitable for local excision. \nMRI rectum: T1 N0 EMVI \u2013 CRM \u2013 PSW \u2013 \n\nCT: no mets || MDT Outcome(h) || Consider ESD",
+                "target_dates": [
+                    "07/09/1975",
+                    "25/11/2024"
+                ]
+            }
+        ]
+    },
+    "9990000039": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 38,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 || MDT Outcome(h) || Right hemicolectomy",
+                "target_dates": [
+                    "05/03/1949",
+                    "18/02/2024"
+                ]
+            }
+        ]
+    },
+    "9990000040": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 39,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years | 62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0 || MDT Outcome(h) || For right hemicolectomy",
+                "target_dates": [
+                    "08/08/1956",
+                    "15/12/2024"
+                ]
+            }
+        ]
+    },
+    "9990000041": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 40,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion || MDT Outcome(h) || CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+                "target_dates": [
+                    "09/10/1970",
+                    "18/01/2025",
+                    "20/10/2024",
+                    "03/11/2024"
+                ]
+            }
+        ]
+    },
+    "9990000042": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 41,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI- || MDT Outcome(h) || Surgery",
+                "target_dates": [
+                    "13/07/1958"
+                ]
+            }
+        ]
+    },
+    "9990000043": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 42,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0 || MDT Outcome(h) || Chemotherapy",
+                "target_dates": [
+                    "22/06/1962",
+                    "10/06/2024"
+                ]
+            }
+        ]
+    },
+    "unknown": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 43,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease. || MDT Outcome(h) || For MRI rectum and colonoscopy",
+                "target_dates": [
+                    "06/05/1971",
+                    "18/01/2025"
+                ]
+            }
+        ]
+    },
+    "9990000045": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 44,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years | 62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0 || MDT Outcome(h) || Surgery",
+                "target_dates": [
+                    "16/11/1982",
+                    "23/08/2024"
+                ]
+            }
+        ]
+    },
+    "9990000046": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 45,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years | 62 DAY TARGET: 13/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nMRI pelvis on 05/10/2024: T3b, N1, CRM threatened, EMVI negative. || MDT Outcome(h) || Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks.",
+                "target_dates": [
+                    "14/02/1952",
+                    "13/01/2025",
+                    "05/10/2024"
+                ]
+            }
+        ]
+    },
+    "9990000047": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 46,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: D12.8\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Patient reports mucous discharge, intermittent abdominal discomfort, reduced appetite and bloating for 4 weeks. Additional symptoms include night sweats. Past medical history significant for type 2 diabetes.\n\nCT TAP on 15/07/2024: descending colon mural thickening, inflammatory vs neoplastic; no distant disease. || MDT Outcome(h) || Colonoscopy + biopsy + tattoo; return to MDT with histology.",
+                "target_dates": [
+                    "09/10/1964",
+                    "15/07/2024"
+                ]
+            }
+        ]
+    },
+    "9990000048": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 47,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013 || MDT Outcome(h) || Refer for colorectal surgical review; staging CT chest requested.",
+                "target_dates": [
+                    "17/11/1959",
+                    "25/03/2025",
+                    "28/12/2024"
+                ]
+            }
+        ]
+    },
+    "9990000049": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 48,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer || MDT Outcome(h) || For colonoscopy",
+                "target_dates": [
+                    "03/01/1978",
+                    "20/04/2024"
+                ]
+            }
+        ]
+    },
+    "9990000050": {
+        "demographics": {},
+        "events": [
+            {
+                "case_index": 49,
+                "mdt_date": "unknown",
+                "raw_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years | 62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity || MDT Outcome(h) || For colonoscopy and biopsies.",
+                "target_dates": [
+                    "12/05/1945",
+                    "17/04/2025",
+                    "10/01/2025"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "case_index": 20,
+    "nhs": "9990000021",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: M(h)": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "For consideration of FOXTROT."
+    }
+}

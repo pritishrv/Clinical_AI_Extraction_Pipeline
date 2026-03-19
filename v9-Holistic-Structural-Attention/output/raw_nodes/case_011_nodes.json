@@ -1,0 +1,174 @@
+{
+    "case_index": 11,
+    "nhs": "9998009012",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+            "row_header": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+            "row_header": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 19/07/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9999012\nNHS Number: 9998009012 \nEmmile Franklin\nMale\nDOB: 22/10/1958  Age: 68 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports night sweats.\n\n\nMRI pelvis on 11/05/2024: T2, N0, CRM/ISP threatened, EMVI negative. Surgery would be ELAPE",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "row_header": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "row_header": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "row_header": "oncology consultation ? CRT and surgical review ? Straight to ELAPE",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

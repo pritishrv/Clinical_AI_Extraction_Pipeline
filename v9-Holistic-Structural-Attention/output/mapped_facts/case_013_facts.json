@@ -1,0 +1,18 @@
+{
+    "case_index": 13,
+    "nhs": "9998009014",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Baseline MRI: mrT(h)": "For MRI liver with contrast and PET-CT",
+        "2nd MRI: Patient pathway status": "For MRI liver with contrast and PET",
+        "Baseline MRI: date(h)": "For MRI liver with contrast and PET-CT"
+    }
+}

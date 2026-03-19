@@ -1,0 +1,198 @@
+{
+    "case_index": 7,
+    "nhs": "9998009008",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9999008\nNHS Number: 9998009008\nFreida Smale\nFemale\nDOB: 08/08/1951   Age: 75 Years | 62 DAY TARGET: 21/10/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive.",
+            "is_label": false,
+            "context_row_text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive.",
+            "is_label": false,
+            "context_row_text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive.",
+            "is_label": false,
+            "context_row_text": "Symptoms include weight loss, altered bowel habit, reduced appetite, and intermittent bloating for 8 weeks. Patient also reports tenesmus.\n\nMRI pelvis on 30/07/2024: T3a, N1c , CRM clear, EMVI positive."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "is_label": false,
+            "context_row_text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "is_label": false,
+            "context_row_text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "is_label": false,
+            "context_row_text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks."
+        }
+    ]
+}

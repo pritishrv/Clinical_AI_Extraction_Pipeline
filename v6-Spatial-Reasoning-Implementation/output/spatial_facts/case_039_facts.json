@@ -1,0 +1,16 @@
+{
+    "case_index": 39,
+    "patient_nhs": "9990000040",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "For right hemicolectomy",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.\n\nImaging:\nColonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

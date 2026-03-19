@@ -1,0 +1,12 @@
+{
+    "case_index": 22,
+    "nhs": "9990000023",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990023\nNHS Number: 9990000023\nName: Ren Kerr\nGender: Male\nDOB: 18/06/1941     Age: 85 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Ascending colon mass suspicious for malignancy\nICD10 Code: C19 \nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT TAP on 12/07/2024: low rectum mass with multiple enlarged mesenteric nodes; no liver mets."
+    }
+}

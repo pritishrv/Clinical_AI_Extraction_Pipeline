@@ -1,0 +1,22 @@
+{
+    "case_index": 3,
+    "nhs": "9990000004",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: M(h)": "T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+        "Demographics: \nState site of previous cancer(f)": "T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+        "12 week MRI: mrCRM": "T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "MRI and flexisigmoidoscopy watch and wait dates: MRI Date.1": "Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+        "2nd MRI: Date": "MRI 1/3/25",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Persistent low signal, may represent complete response",
+        "Flex sig: Fidnings ": "Flexi sig",
+        "Surgery: Date of surgery ": "to see surgeon, for discussion with patient RE entering watch and wait",
+        "MRI and flexisigmoidoscopy watch and wait dates: Due date next .1": "Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait"
+    }
+}

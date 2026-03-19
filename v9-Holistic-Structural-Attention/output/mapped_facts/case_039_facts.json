@@ -1,0 +1,16 @@
+{
+    "case_index": 39,
+    "nhs": "9990000040",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Colonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For right hemicolectomy"
+    }
+}

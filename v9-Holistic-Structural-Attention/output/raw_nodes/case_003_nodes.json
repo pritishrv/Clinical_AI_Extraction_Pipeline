@@ -1,0 +1,174 @@
+{
+    "case_index": 3,
+    "nhs": "9990000004",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+            "row_header": "Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+            "row_header": "Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 06/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated",
+            "row_header": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging: T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+            "row_header": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging: T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+            "row_header": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "row_header": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "row_header": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "row_header": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "row_header": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "row_header": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "row_header": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

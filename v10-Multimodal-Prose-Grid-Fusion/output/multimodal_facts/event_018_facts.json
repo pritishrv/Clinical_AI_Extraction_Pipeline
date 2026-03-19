@@ -1,0 +1,32 @@
+{
+    "event_index": 18,
+    "nhs": "9990000019",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years",
+        "MDT (after 12 week): Date": "01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "For chemotherapy and review",
+        "Demographics: \nGender(e)": "Lauren Fraser\nGender",
+        "Demographics: \nDOB(a)": "Female\nDOB",
+        "Immunotherapy: Dates": "17/05/1940",
+        "Surgery: Date of surgery ": "86 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "CEA: Date": "01/04/2024",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: DRE finding": "D12.6\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "12 week MRI: mrEMVI": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.",
+        "2nd MRI: mrN": "Imaging",
+        "Surgery: Intent, pre-neoadjuvant therapy": "mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1"
+    }
+}

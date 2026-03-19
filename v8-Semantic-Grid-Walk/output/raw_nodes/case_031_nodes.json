@@ -1,0 +1,174 @@
+{
+    "case_index": 31,
+    "nhs": "9990000032",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.8\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "is_likely_label": false,
+            "row_context": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "is_likely_label": false,
+            "row_context": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+            "is_likely_label": false,
+            "row_context": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nCT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "is_likely_label": false,
+            "row_context": "For surgery (unsuitable for chemotherapy)"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "is_likely_label": false,
+            "row_context": "For surgery (unsuitable for chemotherapy)"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For surgery (unsuitable for chemotherapy)",
+            "is_likely_label": false,
+            "row_context": "For surgery (unsuitable for chemotherapy)"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "case_index": 49,
+    "nhs": "9990000050",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years | 62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years | 62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years | 62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "is_likely_label": false,
+            "row_context": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "is_likely_label": false,
+            "row_context": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "is_likely_label": false,
+            "row_context": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For colonoscopy and biopsies.",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy and biopsies."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For colonoscopy and biopsies.",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy and biopsies."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For colonoscopy and biopsies.",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy and biopsies."
+        }
+    ]
+}

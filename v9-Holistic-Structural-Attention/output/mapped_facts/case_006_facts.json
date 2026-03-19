@@ -1,0 +1,16 @@
+{
+    "case_index": 6,
+    "nhs": "9998009007",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+        "MRI and flexisigmoidoscopy watch and wait dates: Due date next .3": "Schedule colonoscopy + tattooing, plus MRI rectum."
+    }
+}

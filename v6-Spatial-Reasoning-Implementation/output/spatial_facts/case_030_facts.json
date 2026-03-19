@@ -1,0 +1,16 @@
+{
+    "case_index": 30,
+    "patient_nhs": "9990000031",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "For right hemicolectomy",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990031\nNHS Number: 9990000031\nName: Ava Hamilton\nGender: Female\nDOB: 18/11/1953   Age: 73 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 13/02/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Right\u2011sided colonic tumour\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Progressive abdominal discomfort with new onset anaemia symptoms; fatigue over 6 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for type 2 diabetes.\n\nImaging:\nCT on 06/12/2024: thickening at cecum, for colonoscopy T2 N0 M0 \n\nColonoscopy: early annular cancer with abnormal pit pattern opposite ICV",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

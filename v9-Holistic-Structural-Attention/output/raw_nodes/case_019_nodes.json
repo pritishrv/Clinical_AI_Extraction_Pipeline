@@ -1,0 +1,174 @@
+{
+    "case_index": 19,
+    "nhs": "9990000020",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+            "row_header": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+            "row_header": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990020\nNHS Number: 9990000020\nName: Oliver Door\nGender: Male\nDOB: 03/07/1979   Age: 47 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change \nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "row_header": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "row_header": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "row_header": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.\n\nImaging:\nCT TAP on 31/07/2024: caecum mass with no enlarged mesenteric nodes; no liver mets. T2N0 M0",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For right hemicolectomy",
+            "row_header": "For right hemicolectomy",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For right hemicolectomy",
+            "row_header": "For right hemicolectomy",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For right hemicolectomy",
+            "row_header": "For right hemicolectomy",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

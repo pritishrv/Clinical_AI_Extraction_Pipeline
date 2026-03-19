@@ -1,0 +1,29 @@
+{
+    "event_index": 48,
+    "nhs": "9990000049",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
+        "Demographics: MRN(c)": "9990000049\nName",
+        "Demographics: \nGender(e)": "Emilia Taylor\nGender",
+        "Demographics: \nDOB(a)": "Female\nDOB",
+        "CEA: Date": "03/01/1978",
+        "Surgery: Date of surgery ": "48 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: DRE finding": "D12.6\nDifferentiation",
+        "Demographics: Initials(b)": "Moderately differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Baseline CT: EMVI(h)": "CT colonography on 20/04/2024"
+    }
+}

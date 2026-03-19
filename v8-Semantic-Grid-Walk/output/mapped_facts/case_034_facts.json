@@ -1,0 +1,12 @@
+{
+    "case_index": 34,
+    "nhs": "9990000035",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990035\nNHS Number: 9990000035\nName: Emma Armstrong\nGender: Female\nDOB: 20/12/1967    Age: 59 Years",
+        "MDT (after 12 week): Date": "24/06/2024 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy date(g)": "Caecal adenocarcinoma\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "CT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0"
+    }
+}

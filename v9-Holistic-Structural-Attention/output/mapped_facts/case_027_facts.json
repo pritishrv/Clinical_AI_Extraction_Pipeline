@@ -1,0 +1,17 @@
+{
+    "case_index": 27,
+    "nhs": "9990000028",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990028\nNHS Number: 9990000028\nName: Mason Stark\nGender: Male\nDOB: 22/06/1950    Age: 76 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Ascending colon mass suspicious for malignancy\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT colonography (non-contrast) on 16/02/2024: large polypoid lesion in rectosigmoid junction. T3, N1, EMVI negative, Mx",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Intent, pre-neoadjuvant therapy": "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy"
+    }
+}

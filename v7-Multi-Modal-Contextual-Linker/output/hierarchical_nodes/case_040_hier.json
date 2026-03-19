@@ -1,0 +1,198 @@
+{
+    "case_index": 40,
+    "nhs": "9990000041",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years | 62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion",
+            "is_label": false,
+            "context_row_text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion",
+            "is_label": false,
+            "context_row_text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion",
+            "is_label": false,
+            "context_row_text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+            "is_label": false,
+            "context_row_text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+            "is_label": false,
+            "context_row_text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+            "is_label": false,
+            "context_row_text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        }
+    ]
+}

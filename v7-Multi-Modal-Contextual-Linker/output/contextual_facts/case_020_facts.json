@@ -1,0 +1,20 @@
+{
+    "case_index": 20,
+    "nhs": "9990000021",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "For consideration of FOXTROT.",
+        "Date_Sequence_0": "02/02/1939",
+        "Date_Sequence_1": "02/02/1939",
+        "Date_Sequence_2": "08/05/2025",
+        "Date_Sequence_3": "07/02/2025",
+        "Date_Sequence_4": "07/02/2025",
+        "Date_Sequence_5": "07/02/2025"
+    }
+}

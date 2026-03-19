@@ -1,0 +1,19 @@
+{
+    "case_index": 2,
+    "nhs": "9990000003",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Detail incidental finding(h)": "Diagnosis:  \nICD10 Code:  \nDifferentiation:",
+        "Histology: \nMMR status(g/h)": "Staging:    \nIntegrated TNM Stage:      \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo",
+        "Date_Sequence_0": "19/12/1974",
+        "Date_Sequence_1": "19/12/1974",
+        "Date_Sequence_2": "28/05/2025"
+    }
+}

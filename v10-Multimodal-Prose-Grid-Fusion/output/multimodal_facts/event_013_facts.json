@@ -1,0 +1,31 @@
+{
+    "event_index": 13,
+    "nhs": "9998009014",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline MRI: mrT(h)": "For MRI liver with contrast and PET-CT",
+        "Flex sig: Date": "20/06/1964",
+        "Demographics: \nGender(e)": "Age",
+        "Surgery: Date of surgery ": "62 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "CEA: Date": "29/04/2024",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: DRE date ": "D12.8\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI",
+        "2nd MRI: Date": "MRI 22/2/24",
+        "Baseline CT: EMVI(h)": "T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24",
+        "Baseline CT: N(h)": "CT"
+    }
+}

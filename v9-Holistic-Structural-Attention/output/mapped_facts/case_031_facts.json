@@ -1,0 +1,15 @@
+{
+    "case_index": 31,
+    "nhs": "9990000032",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "For surgery (unsuitable for chemotherapy)",
+        "Demographics: \nNHS number(d)": "9990032 \nNHS Number: 9990000032\nName: Emma Copper\nGender: Female\nDOB: 14/02/1967    Age: 59 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT TAP on 29/04/2024: transverse colon mass with few mildly enlarged mesenteric nodes; no liver mets. CT T3 N1 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "For surgery (unsuitable for chemotherapy)"
+    }
+}

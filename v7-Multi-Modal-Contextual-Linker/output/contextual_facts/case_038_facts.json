@@ -1,0 +1,22 @@
+{
+    "case_index": 38,
+    "nhs": "9990000039",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: M(h)": "Diagnosis: Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "Right hemicolectomy",
+        "Baseline CT: T(h)": "2",
+        "CEA: Date": "0",
+        "Date_Sequence_0": "05/03/1949",
+        "Date_Sequence_1": "05/03/1949",
+        "Date_Sequence_2": "18/02/2024",
+        "Date_Sequence_3": "18/02/2024",
+        "Date_Sequence_4": "18/02/2024"
+    }
+}

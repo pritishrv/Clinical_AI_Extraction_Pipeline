@@ -1,0 +1,127 @@
+{
+    "event_index": 20,
+    "nhs": "9990000021",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Well differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For consideration of FOXTROT."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For consideration of FOXTROT."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For consideration of FOXTROT."
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years | 62 DAY TARGET: 08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Referred to RDCC for weight loss, CT requested. FIT negative \n\nImaging:\nCT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe. || MDT Outcome(h) || For consideration of FOXTROT."
+}

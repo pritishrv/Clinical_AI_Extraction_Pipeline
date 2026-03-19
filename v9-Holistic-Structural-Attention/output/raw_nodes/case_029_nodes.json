@@ -1,0 +1,174 @@
+{
+    "case_index": 29,
+    "nhs": "9990000030",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years",
+            "row_header": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years",
+            "row_header": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 30/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "row_header": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "row_header": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "row_header": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "row_header": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "row_header": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "row_header": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

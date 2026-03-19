@@ -1,0 +1,16 @@
+{
+    "case_index": 9,
+    "patient_nhs": "9998009010",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 19/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "12 week MRI: mrT": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

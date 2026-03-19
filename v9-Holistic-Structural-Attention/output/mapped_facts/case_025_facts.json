@@ -1,0 +1,17 @@
+{
+    "case_index": 25,
+    "nhs": "9990000026",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990026\nNHS Number: 9990000026\nName: Sony Smith\nGender: Male\nDOB: 24/04/1955   Age: 71 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy, need tissue",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT abdomen on 23/07/2024: mural thickening at descending colon, inflammatory vs neoplastic.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endoscopy: Findings(f)": "For colonoscopy, need tissue"
+    }
+}

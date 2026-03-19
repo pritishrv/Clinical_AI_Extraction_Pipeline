@@ -1,0 +1,17 @@
+{
+    "case_index": 38,
+    "nhs": "9990000039",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: M(h)": "Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "Right hemicolectomy"
+    }
+}

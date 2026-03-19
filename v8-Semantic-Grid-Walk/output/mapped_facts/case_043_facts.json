@@ -1,0 +1,12 @@
+{
+    "case_index": 43,
+    "nhs": "unknown",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "NHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+        "MDT (after 12 week): Date": "18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT: fullness at low rectum, no distant disease."
+    }
+}

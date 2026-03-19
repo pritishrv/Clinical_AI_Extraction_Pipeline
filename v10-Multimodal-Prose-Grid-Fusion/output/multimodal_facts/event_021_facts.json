@@ -1,0 +1,29 @@
+{
+    "event_index": 21,
+    "nhs": "9990000022",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "For surgery",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990022\nNHS Number: 9990000022\nName: Oscar Hughes\nGender: Male\nDOB: 20/05/1971    Age: 55 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Descending colon mass (indeterminate pathology)\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT colonography 24/01/2025: suspected cancer, mural thickening at mid sigmoid, T2, N0 M0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Demographics: \nGender(e)": "Oscar Hughes\nGender",
+        "Demographics: \nDOB(a)": "Male\nDOB",
+        "CEA: Date": "20/05/1971",
+        "Surgery: Date of surgery ": "55 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: DRE date ": "D12.8\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "2nd MRI: mrN": "Imaging",
+        "Histology: \nMMR status(g/h)": "suspected cancer, mural thickening at mid sigmoid, T2, N0 M0"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "case_index": 13,
+    "patient_nhs": "9998009014",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999014\nNHS Number: 9998009014\nHannah Higgins\nFemale\nDOB: 20/06/1964   Age: 62 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 29/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports abdominal discomfort and abdominal discomfort over 7 weeks, with increasing severity. Patient also reports night sweats.\nFlexi sig lesion in the upper rectum, unable to reach TI\n\nMRI 22/2/24 -T3c, N1c, EMVI negative, CRM clear\nCT 23/2/24 - suspicious liver lesion"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For MRI liver with contrast and PET-CT"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For MRI liver with contrast and PET-CT"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For MRI liver with contrast and PET-CT"
+        }
+    ]
+}

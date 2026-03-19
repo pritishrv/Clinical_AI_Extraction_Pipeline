@@ -1,0 +1,28 @@
+{
+    "event_index": 12,
+    "nhs": "9998009013",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999013\nNHS Number: 9998009013\nLeah Morris\nFemale\nDOB: 28/04/1952   Age: 74 Years",
+        "MDT (after 12 week): Date": "15/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Colpnoscopy, biopsy, MRI",
+        "Histology: \nMMR status(g/h)": "MMR\u2011deficient rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Well differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG\u2011avid lesion in the rectum, avid breast lesion. \nBreast cancer being treated with curative intent",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "CEA: Date": "28/04/1952",
+        "Demographics: \nGender(e)": "Age",
+        "Surgery: Date of surgery ": "74 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: DRE finding": "D12.6\nDifferentiation",
+        "Demographics: \nDOB(a)": "Well differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "Baseline CT: Date(h)": "CT which also showed (29/12/2024)",
+        "Chemotherapy: Treatment goals  \n(curative, palliative)": "Breast cancer being treated with curative intent"
+    }
+}

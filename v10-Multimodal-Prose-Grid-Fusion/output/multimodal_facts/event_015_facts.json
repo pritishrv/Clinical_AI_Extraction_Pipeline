@@ -1,0 +1,28 @@
+{
+    "event_index": 15,
+    "nhs": "9998009016",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999016\nNHS Number: 9998009016\nLeo Hughes\nMale\nDOB: 03/03/1984    Age: 42 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Detail incidental finding(h)": "Suspicious rectosigmoid mass\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "For TNT, CRT first",
+        "Endoscopy: Findings(f)": "",
+        "12 week MRI: mrCRM": "T3d, N0, CRM threatened, EMVI negative.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Demographics: \nDOB(a)": "9998009016\nLeo Hughes\nMale\nDOB",
+        "CEA: Date": "03/03/1984",
+        "Demographics: \nGender(e)": "Age",
+        "Watch and wait: Date of death": "42 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "CEA: DRE finding": "Suspicious rectosigmoid mass\nICD10 Code",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "12 week MRI: Date": "MRI pelvis on 13/01/2025",
+        "Baseline CT: EMVI(h)": "T3d, N0, CRM threatened, EMVI negative."
+    }
+}

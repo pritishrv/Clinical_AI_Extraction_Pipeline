@@ -1,0 +1,18 @@
+{
+    "case_index": 14,
+    "nhs": "9998009015",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "12 week MRI: mrEMVI": "T1 sm1, CRM involved, EMVI positive.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Review ? Local excision \nNeeds CT",
+        "Surgery: Defunctioned?": "Review ? Local excision"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "event_index": 26,
+    "nhs": "9990000027",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990027\nNHS Number: 9990000027 \nName: Mia Edwards\nGender: Female\nDOB: 22/11/1957    Age: 69 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "12 week MRI: mrCRM": "CT colonography on 27/03/2024: large polypoid lesion in descending colon. T2 (at most), N1 M0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "CEA: Date": "Name",
+        "Demographics: \nGender(e)": "Mia Edwards\nGender",
+        "Demographics: \nDOB(a)": "Female\nDOB",
+        "Surgery: Date of surgery ": "69 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "CEA: Value": "C18.0\nDifferentiation",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "2nd MRI: mrN": "Imaging",
+        "Baseline CT: Date(h)": "CT colonography on 27/03/2024"
+    }
+}

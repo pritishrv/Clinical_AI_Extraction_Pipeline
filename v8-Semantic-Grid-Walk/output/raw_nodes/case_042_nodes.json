@@ -1,0 +1,174 @@
+{
+    "case_index": 42,
+    "nhs": "9990000043",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Serrated adenoma with dysplasia\nICD10 Code: C19\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0",
+            "is_likely_label": false,
+            "row_context": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0",
+            "is_likely_label": false,
+            "row_context": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0",
+            "is_likely_label": false,
+            "row_context": "Progressive rectal bleeding with new onset anaemia symptoms; fatigue over 2 weeks. Additional symptoms include early satiety.\n\nImaging:\nCT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Chemotherapy",
+            "is_likely_label": false,
+            "row_context": "Chemotherapy"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Chemotherapy",
+            "is_likely_label": false,
+            "row_context": "Chemotherapy"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Chemotherapy",
+            "is_likely_label": false,
+            "row_context": "Chemotherapy"
+        }
+    ]
+}

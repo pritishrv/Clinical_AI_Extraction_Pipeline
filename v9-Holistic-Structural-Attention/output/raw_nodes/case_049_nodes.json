@@ -1,0 +1,174 @@
+{
+    "case_index": 49,
+    "nhs": "9990000050",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "row_header": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "row_header": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "row_header": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "row_header": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "row_header": "Known head and neck cancer, had PET-CT for staging\n\nPET CT on 10/01/2025: FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For colonoscopy and biopsies.",
+            "row_header": "For colonoscopy and biopsies.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For colonoscopy and biopsies.",
+            "row_header": "For colonoscopy and biopsies.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For colonoscopy and biopsies.",
+            "row_header": "For colonoscopy and biopsies.",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

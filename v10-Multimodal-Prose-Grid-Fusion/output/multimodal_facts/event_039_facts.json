@@ -1,0 +1,30 @@
+{
+    "event_index": 39,
+    "nhs": "9990000040",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "For right hemicolectomy",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990040\nNHS Number: 9990000040\nName: Sophia Jackson\nGender: Female\nDOB: 08/08/1956    Age: 70 Years",
+        "MDT (after 12 week): Date": "15/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Caecal adenocarcinoma\nICD10 Code: C18.2\nDifferentiation: Moderately differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Colonoscopy: polypoidal lesion in cecum \nCT TAP: unable to identify primary tumour, no mets, Tx N0 M0",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Demographics: \nGender(e)": "Sophia Jackson\nGender",
+        "Demographics: \nDOB(a)": "Female\nDOB",
+        "CEA: Date": "08/08/1956",
+        "Surgery: Date of surgery ": "70 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Caecal adenocarcinoma\nICD10 Code",
+        "CEA: Value": "C18.2\nDifferentiation",
+        "Demographics: Initials(b)": "Moderately differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Demographics: \nState site of previous cancer(f)": "Dukes",
+        "2nd MRI: mrN": "Imaging",
+        "Baseline CT: T(h)": "CT TAP"
+    }
+}

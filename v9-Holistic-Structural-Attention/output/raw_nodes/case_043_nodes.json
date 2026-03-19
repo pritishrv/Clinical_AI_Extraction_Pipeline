@@ -1,0 +1,174 @@
+{
+    "case_index": 43,
+    "nhs": "unknown",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "row_header": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "row_header": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: \nNHS Number: \nName: Freya Kind\nGender: Female\nDOB: 06/05/1971   Age: 55 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "row_header": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "row_header": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "row_header": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.\n\nImaging:\nCT: fullness at low rectum, no distant disease.",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For MRI rectum and colonoscopy",
+            "row_header": "For MRI rectum and colonoscopy",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For MRI rectum and colonoscopy",
+            "row_header": "For MRI rectum and colonoscopy",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For MRI rectum and colonoscopy",
+            "row_header": "For MRI rectum and colonoscopy",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

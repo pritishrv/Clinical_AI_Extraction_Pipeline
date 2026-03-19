@@ -1,0 +1,127 @@
+{
+    "event_index": 2,
+    "nhs": "9990000003",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis:  \nICD10 Code:  \nDifferentiation:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990003\nNHS Number: 9990000003\nAISHA MOHAMMED\nFemale\n19/12/1974 Age: 51 Years | 62 DAY TARGET: 28/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis:  \nICD10 Code:  \nDifferentiation: | Staging:    \nIntegrated TNM Stage:      \nDukes: || Clinical Details(f): || BCSP : wants further treatment locally. \n\nMultiple polyps within the colon, largest is 3 cm in the descending colon \u2013 2 cm polyp located at the ICV and multiple diminutive polyps seen elsewhere. Biopsies taken. \n\nTo discuss histology, CT and plan || MDT Outcome(h) || Descending colon polyp \u2013 well differentiated adenocarcinoma \nOther polyps \u2013 tubular adenoma with low grade dysplasia \n\nCT TAP: fullness in the descending colon with no evidence of extramural spread. No lymphadenopathy. No metastases. \n\nOutcome\nTo see consultant next week to discuss possible surgery \nRepeat colonoscopy with tattoo"
+}

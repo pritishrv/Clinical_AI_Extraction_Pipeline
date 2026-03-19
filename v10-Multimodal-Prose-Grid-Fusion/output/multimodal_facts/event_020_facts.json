@@ -1,0 +1,30 @@
+{
+    "event_index": 20,
+    "nhs": "9990000021",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990021\nNHS Number: 9990000021\nName: Harper Hamilton\nGender: Female\nDOB: 02/02/1939   Age: 87 Years",
+        "MDT (after 12 week): Date": "08/05/2025 \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: M(h)": "CT on 07/02/2025: 3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Radiotheapy: Boost": "For consideration of FOXTROT.",
+        "Demographics: \nGender(e)": "Harper Hamilton\nGender",
+        "Demographics: \nDOB(a)": "Female\nDOB",
+        "1st MDT: date(i)": "02/02/1939",
+        "Surgery: Date of surgery ": "87 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "CEA: Date": "08/05/2025",
+        "Watch and wait: Date of death": "Please note",
+        "Demographics: \nState site of previous cancer(f)": "Sigmoid adenocarcinoma\nICD10 Code",
+        "CEA: Value": "C18.2\nDifferentiation",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: N(h)": "Referred to RDCC for weight loss, CT requested. FIT negative",
+        "2nd MRI: mrN": "Imaging",
+        "Baseline CT: Date(h)": "CT on 07/02/2025",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "3.5 cm annular stricturing at transverse colon, no distant disease. ctT3N0M0, surgical margin safe."
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "case_index": 6,
+    "nhs": "9998009007",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+            "row_header": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+            "row_header": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9999007\nNHS Number: 9998009007\nMason Barker\nMale\nDOB: 27/12/1947   Age: 79 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: C19\nDifferentiation: Moderately differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "row_header": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "row_header": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "row_header": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.\n\n\nCT TAP on 14/06/2024: upper rectum thickening with multiple enlarged mesenteric nodes; no distant metastases.",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "row_header": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "row_header": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "row_header": "Schedule colonoscopy + tattooing, plus MRI rectum.",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

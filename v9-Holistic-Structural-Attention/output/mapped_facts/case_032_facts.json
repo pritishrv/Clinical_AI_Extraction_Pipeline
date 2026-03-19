@@ -1,0 +1,15 @@
+{
+    "case_index": 32,
+    "nhs": "9990000033",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990033\nNHS Number: 9990000033\nName: Liam Turner\nGender: Male\nDOB: 15/11/1967    Age: 59 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT colonography on 25/03/2024: large polypoid lesion in descending colon. T2 N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy, tattoo, left hemicolectomy"
+    }
+}

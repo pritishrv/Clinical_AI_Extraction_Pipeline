@@ -1,0 +1,15 @@
+{
+    "case_index": 9,
+    "nhs": "9998009010",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "12 week MRI: mrT": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)"
+    }
+}

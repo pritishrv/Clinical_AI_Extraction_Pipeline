@@ -1,0 +1,17 @@
+{
+    "case_index": 45,
+    "nhs": "9990000046",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990046\nNHS Number: 9990000046\nName: James Cooper\nGender: Male\nDOB: 14/02/1952    Age: 72 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Rectal adenocarcinoma\nICD10 Code: C20\nDifferentiation: Moderately differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "12 week MRI: mrEMVI": "T3b, N1, CRM threatened, EMVI negative.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "12 week MRI: mrT": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "case_index": 3,
+    "nhs": "9990000004",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 06/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging: T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "2nd MRI: mrCRM": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR \nMRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "12 week MRI: mrCRM": "MRI 1/3/25: Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait",
+        "Baseline CT: T(h)": "3",
+        "CEA: Date": "0",
+        "Baseline CT: M(h)": "0",
+        "Date_Sequence_0": "25/02/1943",
+        "Date_Sequence_1": "25/02/1943",
+        "Date_Sequence_2": "06/05/2025"
+    }
+}

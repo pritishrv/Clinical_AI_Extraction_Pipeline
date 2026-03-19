@@ -1,0 +1,29 @@
+{
+    "event_index": 49,
+    "nhs": "9990000050",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990050\nNHS Number: 9990000050\nName: Noah Robin\nGender: Male\nDOB: 12/05/1945   Age: 80 Years",
+        "MDT (after 12 week): Date": "17/04/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG avid lesion in sigmoid colon; primary head and neck tumour avid, no other areas of avidity",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy and biopsies.",
+        "Demographics: \nGender(e)": "Noah Robin\nGender",
+        "Demographics: \nDOB(a)": "Male\nDOB",
+        "Radiotherapy: Dates": "12/05/1945",
+        "Surgery: Date of surgery ": "80 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "CEA: Date": "17/04/2025",
+        "Watch and wait: Date of death": "Please note",
+        "Demographics: \nState site of previous cancer(f)": "Sigmoid adenocarcinoma\nICD10 Code",
+        "CEA: Value": "C18.6\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "Baseline CT: Date(h)": "PET CT on 10/01/2025"
+    }
+}

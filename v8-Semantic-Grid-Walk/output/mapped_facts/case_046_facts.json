@@ -1,0 +1,12 @@
+{
+    "case_index": 46,
+    "nhs": "9990000047",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990047\nNHS Number: 9990000047\nName: Frankie Edwards\nGender: Female\nDOB: 09/10/1964    Age: 60 Years",
+        "MDT (after 12 week): Date": "Please note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Colonoscopy + biopsy + tattoo; return to MDT with histology.",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "descending colon mural thickening, inflammatory vs neoplastic; no distant disease."
+    }
+}

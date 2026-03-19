@@ -1,0 +1,126 @@
+{
+    "case_index": 44,
+    "patient_nhs": "9990000045",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990045\nNHS Number: 9990000045\nName: Geo Wilson\nGender: Male\nDOB: 16/11/1982    Age: 44 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 23/08/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C18.4\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.\n\nImaging:\nColonoscopy: tumour at 18 cm, biopsied\nCT TAP: lesion in rectosigmoid junction. Multiple nodes, T2, N2, M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Surgery"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Surgery"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Surgery"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "case_index": 13,
+    "nhs": "9998009014",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 29/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "For MRI liver with contrast and PET-CT",
+        "Baseline CT: T(h)": "3c",
+        "CEA: Date": "1c",
+        "Date_Sequence_0": "20/06/1964",
+        "Date_Sequence_1": "20/06/1964",
+        "Date_Sequence_2": "29/04/2024"
+    }
+}

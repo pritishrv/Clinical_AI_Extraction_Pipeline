@@ -1,0 +1,127 @@
+{
+    "event_index": 38,
+    "nhs": "9990000039",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Right hemicolectomy"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Right hemicolectomy"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Right hemicolectomy"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990039\nNHS Number: 9990000039\nName: James Morris\nGender: Male\nDOB: 05/03/1949    Age: 77 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Descending colon mass (adenocarcinoma)\nICD10 Code: C20\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive abdominal discomfort with new onset weight loss; fatigue over 10 weeks. Additional symptoms include back pain.\n\nImaging:\nCT colonography on 18/02/2024: large polypoid lesion in caecum. T2 N0 M0 || MDT Outcome(h) || Right hemicolectomy"
+}

@@ -1,0 +1,174 @@
+{
+    "case_index": 9,
+    "nhs": "9998009010",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+            "row_header": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+            "row_header": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 19/11/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9999010\nNHS Number: 9998009010\nFreya Hall\nFemale\nDOB: 20/06/1941   Age: 85 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "row_header": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "row_header": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "row_header": "Patient reports weight loss and mucous discharge over 3 weeks, with increasing severity. Patient also reports back pain. Relevant history includes chronic kidney disease stage 3.\n\n\nMRI pelvis on 14/08/2024: T3b, N1, CRM clear, EMVI negative. Patient wishes to avoid surgery, consider CRT.",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "row_header": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "row_header": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "row_header": "Plan neoadjuvant CRT and repeat MRI in 6 weeks.",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

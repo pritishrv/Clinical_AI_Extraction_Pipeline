@@ -1,0 +1,17 @@
+{
+    "case_index": 34,
+    "nhs": "9990000035",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990035\nNHS Number: 9990000035\nName: Emma Armstrong\nGender: Female\nDOB: 20/12/1967    Age: 59 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "2nd MRI: Patient pathway status": "CT colonography on 09/04/2024: large polypoid lesion in rectosigmoid junction. If cancer T2 N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For MRI rectum, consider local excision",
+        "2nd MRI: Date": "For MRI rectum, consider local excision"
+    }
+}

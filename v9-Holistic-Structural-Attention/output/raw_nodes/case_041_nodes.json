@@ -1,0 +1,174 @@
+{
+    "case_index": 41,
+    "nhs": "9990000042",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+            "row_header": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+            "row_header": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Large sessile polyp with possible malignant change\nICD10 Code: C18.2\nDifferentiation: Well differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "row_header": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Surgery",
+            "row_header": "Surgery",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Surgery",
+            "row_header": "Surgery",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Surgery",
+            "row_header": "Surgery",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

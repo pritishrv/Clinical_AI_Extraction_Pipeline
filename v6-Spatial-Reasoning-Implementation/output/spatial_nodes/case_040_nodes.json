@@ -1,0 +1,126 @@
+{
+    "case_index": 40,
+    "patient_nhs": "9990000041",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990041\nNHS Number: 9990000041\nName: Martin Johnson\nGender: Male\nDOB: 09/10/1970    Age: 56 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include mucous discharge, weight loss, reduced appetite and abdominal bloating for 4 weeks. Additional symptoms include back pain.\n\nImaging:\nFlexi sig 20/10/2024: rectal cancer, 2.5cm across, fixed, abnormal PIT pattern, unsuitable for local excision \nMR rectum on 03/11/2024: semiannular mass in low rectum, infiltrates ISP, T3c, N1, EMVI- PSW-\nCT TAP: no mets, incidental adrenal lesion"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo"
+        }
+    ]
+}

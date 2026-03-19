@@ -1,0 +1,28 @@
+{
+    "event_index": 17,
+    "nhs": "9998009018",
+    "resolved_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years",
+        "MDT (after 12 week): Date": "21/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "PET\u2011CT and oncology consultation.",
+        "Endoscopy: Findings(f)": "",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "FDG\u2011avid lesion in the low rectum, no distant uptake.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Demographics: \nDOB(a)": "9998009018\nHarper Kirk\nFemale\nDOB",
+        "CEA: Date": "28/10/1981",
+        "Demographics: \nGender(e)": "Age",
+        "Surgery: Date of surgery ": "45 Years",
+        "MDT (after 6 week: Date": "62 DAY TARGET",
+        "Watch and wait: Date of death": "Please note",
+        "Demographics: \nState site of previous cancer(f)": "Sigmoid adenocarcinoma\nICD10 Code",
+        "CEA: Value": "C18.6\nDifferentiation",
+        "Demographics: Initials(b)": "Poorly differentiated",
+        "Watch and wait: Site of \nprogression": "Staging",
+        "Baseline CT: M(h)": "Integrated TNM Stage",
+        "12 week MRI: mrEMVI": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.",
+        "Baseline CT: Date(h)": "PET\u2011CT on 29/09/2024"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "case_index": 42,
+    "nhs": "9990000043",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Chemotherapy",
+        "Demographics: \nNHS number(d)": "9990043\nNHS Number: 9990000043\nName: Lucy Boyle\nGender: Female\nDOB: 22/06/1962   Age: 64 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT TAP on 10/06/2024: transverse colon lesion with multiple enlarged mesenteric nodes; no liver mets. T4a N1 EMVI- M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "Chemotherapy"
+    }
+}

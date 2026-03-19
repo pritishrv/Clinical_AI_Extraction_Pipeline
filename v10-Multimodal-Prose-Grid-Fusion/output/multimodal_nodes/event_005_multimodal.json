@@ -1,0 +1,127 @@
+{
+    "event_index": 5,
+    "nhs": "9998009006",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999006\nNHS Number: 9998009006\nAva Clarke\nFemale\nDOB: 18/08/1937   Age: 89 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999006\nNHS Number: 9998009006\nAva Clarke\nFemale\nDOB: 18/08/1937   Age: 89 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 15/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).\n\n\nMRI pelvis on 31/10/2024: T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).\n\n\nMRI pelvis on 31/10/2024: T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).\n\n\nMRI pelvis on 31/10/2024: T1 sm2/3, N0, CRM clear, EMVI negative."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Refer for colorectal surgical review."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Refer for colorectal surgical review."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Refer for colorectal surgical review."
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9999006\nNHS Number: 9998009006\nAva Clarke\nFemale\nDOB: 18/08/1937   Age: 89 Years | 62 DAY TARGET: 15/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Villous adenoma with focal invasion\nICD10 Code: C18.7\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive mucous discharge accompanied by rectal bleeding; patient also notes fatigue over 8 weeks. Patient also reports back pain. Relevant history includes history of breast cancer (treated).\n\n\nMRI pelvis on 31/10/2024: T1 sm2/3, N0, CRM clear, EMVI negative. || MDT Outcome(h) || Refer for colorectal surgical review."
+}

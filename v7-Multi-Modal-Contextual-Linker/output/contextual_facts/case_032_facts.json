@@ -1,0 +1,23 @@
+{
+    "case_index": 32,
+    "nhs": "9990000033",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "For colonoscopy, tattoo, left hemicolectomy",
+        "Baseline CT: T(h)": "2",
+        "CEA: Date": "0",
+        "Baseline CT: M(h)": "0",
+        "Surgery: Defunctioned?": "hemicolectomy",
+        "Date_Sequence_0": "15/11/1967",
+        "Date_Sequence_1": "15/11/1967",
+        "Date_Sequence_2": "25/03/2024",
+        "Date_Sequence_3": "25/03/2024",
+        "Date_Sequence_4": "25/03/2024"
+    }
+}

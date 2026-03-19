@@ -1,0 +1,17 @@
+{
+    "case_index": 24,
+    "patient_nhs": "9990000025",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "12 week MRI: mrEMVI": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "MDT (after 6 week: Date": "For CRT"
+    }
+}

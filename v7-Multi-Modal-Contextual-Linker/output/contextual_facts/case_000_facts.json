@@ -1,0 +1,20 @@
+{
+    "case_index": 0,
+    "nhs": "9990000001",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:    \nIntegrated TNM Stage:      \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "2nd MRI: mrT": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+        "Date_Sequence_0": "26/05/1970",
+        "Date_Sequence_1": "26/05/1970",
+        "Date_Sequence_2": "20/05/2025",
+        "Date_Sequence_3": "29/02/2025",
+        "Date_Sequence_4": "29/02/2025",
+        "Date_Sequence_5": "29/02/2025"
+    }
+}

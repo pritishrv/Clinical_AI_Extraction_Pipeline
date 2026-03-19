@@ -1,0 +1,174 @@
+{
+    "case_index": 48,
+    "nhs": "9990000049",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "is_likely_label": false,
+            "row_context": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_likely_label": false,
+            "row_context": "Hospital Number: 9990049\nNHS Number: 9990000049\nName: Emilia Taylor\nGender: Female\nDOB: 03/01/1978    Age: 48 Years | 62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "is_likely_label": false,
+            "row_context": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_likely_label": false,
+            "row_context": "Diagnosis: Tubular adenoma with HGD\nICD10 Code: D12.6\nDifferentiation: Moderately differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "is_likely_label": true,
+            "row_context": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+            "is_likely_label": false,
+            "row_context": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+            "is_likely_label": false,
+            "row_context": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer",
+            "is_likely_label": false,
+            "row_context": "Intermittent rectal bleeding, mucous discharge, altered bowel habit and abdominal discomfort for 5 weeks. Additional symptoms include pelvic pressure. Past medical history significant for coeliac disease.\n\nCT colonography on 20/04/2024: large polypoid lesion in sigmoid colon; T2 N0 M0 if cancer"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "is_likely_label": false,
+            "row_context": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For colonoscopy",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For colonoscopy",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For colonoscopy",
+            "is_likely_label": false,
+            "row_context": "For colonoscopy"
+        }
+    ]
+}

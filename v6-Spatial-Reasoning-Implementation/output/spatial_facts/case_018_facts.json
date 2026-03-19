@@ -1,0 +1,17 @@
+{
+    "case_index": 18,
+    "patient_nhs": "9990000019",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990019\nNHS Number: 9990000019\nName: Lauren Fraser\nGender: Female\nDOB: 17/05/1940    Age: 86 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: 01/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Demographics:\nPrevious cancer \n(y, n) \nif yes, where(f)": "Rectal adenocarcinoma\nICD10 Code: D12.6\nDifferentiation: Poorly differentiated",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Symptoms include weight loss, bloody discharge, reduced appetite and abdominal bloating for 2 months. Additional symptoms include early satiety.\n\nImaging:\nCT abdomen on 02/01/2024: mural thickening at rectosigmoid junction, inflammatory vs neoplastic.\nIf malignant staging is T3 N0 M1- liver",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Chemotherapy: Drugs": "For chemotherapy and review"
+    }
+}

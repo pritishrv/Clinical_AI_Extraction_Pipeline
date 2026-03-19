@@ -1,0 +1,18 @@
+{
+    "case_index": 21,
+    "nhs": "9990000022",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990022\nNHS Number: 9990000022\nName: Oscar Hughes\nGender: Male\nDOB: 20/05/1971    Age: 55 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Descending colon mass (indeterminate pathology)\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CT colonography 24/01/2025: suspected cancer, mural thickening at mid sigmoid, T2, N0 M0",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "For surgery",
+        "Surgery: Date of surgery ": "For surgery"
+    }
+}

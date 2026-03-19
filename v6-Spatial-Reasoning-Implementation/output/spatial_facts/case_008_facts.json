@@ -1,0 +1,15 @@
+{
+    "case_index": 8,
+    "patient_nhs": "9998009009",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Patient Details",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999009\nNHS Number: 9998009009\nOliver Turner\nMale\nDOB: 18/03/1964    Age: 62 Years",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Refer for colorectal surgical review colonoscopy, and CT TAP",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT performed for ? Vasculitis on 13/03/2024: FDG\u2011avid lesion in the ascending colon, no distant uptake.",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

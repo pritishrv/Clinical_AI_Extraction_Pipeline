@@ -1,0 +1,127 @@
+{
+    "event_index": 29,
+    "nhs": "9990000030",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 30/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Consider local excision with histology review at MDT.\n\nNeeds CT TAP"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990030\nNHS Number: 9990000030\nName: Effy King\nGender: Female\nDOB: 12/05/1957     Age: 69 Years | 62 DAY TARGET: 30/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Rectal adenocarcinoma\nICD10 Code: C18.4\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive anaemia symptoms with new onset rectal bleeding; fatigue over 7 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.\n\nColonoscopy \u2013 mass in rectum \n\nImaging:\nMRI rectum on 15/04/2024: large polypoid lesion T1 sm1, N0, EMVI \u2013 CRM clear, PSW negative || MDT Outcome(h) || Consider local excision with histology review at MDT.\n\nNeeds CT TAP"
+}

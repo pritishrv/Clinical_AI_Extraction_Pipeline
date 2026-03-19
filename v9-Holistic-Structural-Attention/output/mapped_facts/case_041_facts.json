@@ -1,0 +1,16 @@
+{
+    "case_index": 41,
+    "nhs": "9990000042",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Colonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Defunctioned?": "Surgery",
+        "Surgery: Date of surgery ": "Surgery"
+    }
+}

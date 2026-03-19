@@ -1,0 +1,198 @@
+{
+    "case_index": 0,
+    "nhs": "9990000001",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55 | 62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55 | 62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990001(d)\nNHS Number: 9990000001(c)\nAIDEN O'CONNOR(b)\nMale(e)\n26/05/1970(a) Age: 55 | 62 DAY TARGET: 20/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:    \nIntegrated TNM Stage:      \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: ADENOCARCINOMA, NOT OTHERWISE SPECIFIED \nICD10 Code: 10 - C20: Malignant neoplasm of rectum - rectal ampulla \nDifferentiation:  Moderately differentiated | Staging:    \nIntegrated TNM Stage:      \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path",
+            "is_label": false,
+            "context_row_text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path",
+            "is_label": false,
+            "context_row_text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path",
+            "is_label": false,
+            "context_row_text": "TWR / DTT\n\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy. \n\nDiscuss imaging, staging and path"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "is_label": false,
+            "context_row_text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "is_label": false,
+            "context_row_text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion.",
+            "is_label": false,
+            "context_row_text": "DTT\n\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple nodules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes. \nColonoscopy noted - Histo: Adenocarcinoma. MMR deficient \n\nOutcome: MRI Rectum, PET CT. Rediscuss at MDT for formal staging. Patient aware, decision RE treatment following further imaging and discussion."
+        }
+    ]
+}

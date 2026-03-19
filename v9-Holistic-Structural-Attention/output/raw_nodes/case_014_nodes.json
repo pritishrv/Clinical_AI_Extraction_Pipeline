@@ -1,0 +1,174 @@
+{
+    "case_index": 14,
+    "nhs": "9998009015",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details",
+            "row_header": "Patient Details",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates",
+            "row_header": "Patient Details",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+            "row_header": "Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+            "row_header": "Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 08/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "row_header": "Hospital Number: 9999015\nNHS Number: 9998009015\nOllie Armstrong\nMale\nDOB: 27/03/1972   Age: 54 Years",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)",
+            "row_header": "Staging & Diagnosis(g)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "row_header": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "row_header": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: C20\nDifferentiation: Poorly differentiated",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):",
+            "row_header": "Clinical Details(f):",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "row_header": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "row_header": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "row_header": "Patient reports mucous discharge and weight loss over 8 weeks, with increasing severity. Patient also reports early satiety.\n\n\nMRI pelvis on 01/12/2024: T1 sm1, CRM involved, EMVI positive.",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)",
+            "row_header": "MDT Outcome(h)",
+            "col_header": "Cancer Target Dates"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "Review ? Local excision \nNeeds CT",
+            "row_header": "Review ? Local excision \nNeeds CT",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "Review ? Local excision \nNeeds CT",
+            "row_header": "Review ? Local excision \nNeeds CT",
+            "col_header": "Patient Details"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "Review ? Local excision \nNeeds CT",
+            "row_header": "Review ? Local excision \nNeeds CT",
+            "col_header": "Cancer Target Dates"
+        }
+    ]
+}

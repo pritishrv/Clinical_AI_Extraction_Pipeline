@@ -1,0 +1,16 @@
+{
+    "case_index": 5,
+    "nhs": "9998009006",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9999006\nNHS Number: 9998009006\nAva Clarke\nFemale\nDOB: 18/08/1937   Age: 89 Years",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "12 week MRI: mrEMVI": "T1 sm2/3, N0, CRM clear, EMVI negative.",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Surgery: Intent, pre-neoadjuvant therapy": "Refer for colorectal surgical review.",
+        "Surgery: Defunctioned?": "Refer for colorectal surgical review."
+    }
+}

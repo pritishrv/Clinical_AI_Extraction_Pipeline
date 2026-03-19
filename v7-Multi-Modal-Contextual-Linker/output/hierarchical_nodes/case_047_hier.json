@@ -1,0 +1,198 @@
+{
+    "case_index": 47,
+    "nhs": "9990000048",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Patient Details",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "Cancer Target Dates",
+            "is_label": false,
+            "context_row_text": "Patient Details | Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "block": "DEMOGRAPHICS",
+            "text": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "block": "DEMOGRAPHICS",
+            "text": "62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+            "is_label": false,
+            "context_row_text": "Hospital Number: 9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years | 62 DAY TARGET: 25/03/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging & Diagnosis(g)",
+            "is_label": false,
+            "context_row_text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated",
+            "is_label": false,
+            "context_row_text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "block": "STAGING_DIAGNOSIS",
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+            "is_label": true,
+            "context_row_text": "Diagnosis: Caecal adenocarcinoma\nICD10 Code: C18.0\nDifferentiation: Poorly differentiated | Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Clinical Details(f):",
+            "is_label": true,
+            "context_row_text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013",
+            "is_label": false,
+            "context_row_text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013",
+            "is_label": false,
+            "context_row_text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "block": "ENDOSCOPY",
+            "text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013",
+            "is_label": false,
+            "context_row_text": "Symptoms include anaemia, weight loss, abdominal discomfort and altered bowel habit for 9 weeks. Additional symptoms include fatigue. Past medical history significant for rheumatoid arthritis.\n\nCT abdomen on 28/12/2024: caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013"
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "MDT Outcome(h)",
+            "is_label": false,
+            "context_row_text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Refer for colorectal surgical review; staging CT chest requested.",
+            "is_label": false,
+            "context_row_text": "Refer for colorectal surgical review; staging CT chest requested."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Refer for colorectal surgical review; staging CT chest requested.",
+            "is_label": false,
+            "context_row_text": "Refer for colorectal surgical review; staging CT chest requested."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "block": "OUTCOME_NARRATIVE",
+            "text": "Refer for colorectal surgical review; staging CT chest requested.",
+            "is_label": false,
+            "context_row_text": "Refer for colorectal surgical review; staging CT chest requested."
+        }
+    ]
+}

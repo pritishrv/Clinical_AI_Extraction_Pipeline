@@ -1,0 +1,15 @@
+{
+    "case_index": 41,
+    "patient_nhs": "9990000042",
+    "spatial_facts": {
+        "Surgery: Defunctioned?": "Surgery",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990042\nNHS Number: 9990000042\nName: Maya Brown\nGender: Female\nDOB: 13/07/1958   Age: 68 Years",
+        "MDT (after 12 week): Date": "62 DAY TARGET: \n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "& Diagnosis(g)",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "Integrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.\n\nImaging:\nColonoscopy: polypoidal lesion in sigmoid colon\nCT: unable to identify lesion: Tx N0 M0 EMVI-",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)"
+    }
+}

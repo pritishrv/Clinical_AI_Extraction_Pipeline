@@ -1,0 +1,16 @@
+{
+    "case_index": 47,
+    "nhs": "9990000048",
+    "resolved_facts": {
+        "Baseline CT: Detail incidental finding(h)": "",
+        "Chemotherapy: Dates": "Cancer Target Dates",
+        "Demographics: \nNHS number(d)": "9990048\nNHS Number: 9990000048\nName: Jackson King\nGender: Male\nDOB: 17/11/1959   Age: 66 Years",
+        "Histology: Biopsy date(g)": "Staging & Diagnosis(g)",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Demographics: \nState site of previous cancer(f)": "Integrated TNM Stage: \nDukes:",
+        "12 week MRI: mrEMVI": "caecal mass with multiple enlarged mesenteric nodes; no liver metastases. T2 N1 M0 EMVI \u2013",
+        "MDT (after 12 week): Decision ": "MDT Outcome(h)",
+        "MDT (after 12 week): Date": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Refer for colorectal surgical review; staging CT chest requested."
+    }
+}

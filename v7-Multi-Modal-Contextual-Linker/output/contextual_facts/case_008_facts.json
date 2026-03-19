@@ -1,0 +1,21 @@
+{
+    "case_index": 8,
+    "nhs": "9998009009",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 11/06/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Endosopy type: flexi sig, incomplete colonoscopy, colonoscopy complete - if gets to ileocecal valve(f) ": "Diagnosis: Right\u2011sided colonic tumour\nICD10 Code: D12.8\nDifferentiation: Poorly differentiated",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "Refer for colorectal surgical review colonoscopy, and CT TAP",
+        "Date_Sequence_0": "18/03/1964",
+        "Date_Sequence_1": "18/03/1964",
+        "Date_Sequence_2": "11/06/2024",
+        "Date_Sequence_3": "13/03/2024",
+        "Date_Sequence_4": "13/03/2024",
+        "Date_Sequence_5": "13/03/2024"
+    }
+}

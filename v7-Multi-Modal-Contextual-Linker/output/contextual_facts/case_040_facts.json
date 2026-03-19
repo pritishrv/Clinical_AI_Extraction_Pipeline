@@ -1,0 +1,25 @@
+{
+    "case_index": 40,
+    "nhs": "9990000041",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "Patient Details",
+        "Demographics: \nState site of previous cancer(f)": "Cancer Target Dates",
+        "Immunotherapy: Dates": "62 DAY TARGET: 18/01/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "Histology: Biopsy result(g)": "Staging & Diagnosis(g)",
+        "Histology: \nMMR status(g/h)": "Staging:  \nIntegrated TNM Stage: \nDukes:",
+        "Endoscopy: Findings(f)": "Clinical Details(f):",
+        "MDT (after 6 week: Decision ": "MDT Outcome(h)",
+        "Baseline CT: Incidental findings requiring follow up? Y/N(h)": "CRT\nCT adrenal study \nCompletion colonoscopy and tattoo",
+        "Baseline CT: T(h)": "3c",
+        "CEA: Date": "1",
+        "Date_Sequence_0": "09/10/1970",
+        "Date_Sequence_1": "09/10/1970",
+        "Date_Sequence_2": "18/01/2025",
+        "Date_Sequence_3": "20/10/2024",
+        "Date_Sequence_4": "03/11/2024",
+        "Date_Sequence_5": "20/10/2024",
+        "Date_Sequence_6": "03/11/2024",
+        "Date_Sequence_7": "20/10/2024",
+        "Date_Sequence_8": "03/11/2024"
+    }
+}

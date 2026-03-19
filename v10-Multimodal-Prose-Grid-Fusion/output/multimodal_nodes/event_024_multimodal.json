@@ -1,0 +1,127 @@
+{
+    "event_index": 24,
+    "nhs": "9990000025",
+    "table_nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "For CRT"
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "For CRT"
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "For CRT"
+        }
+    ],
+    "raw_table_prose": "Patient Details | Cancer Target Dates || Hospital Number: 9990025\nNHS Number: 9990000025 \nName: Amelia Smith\nGender: Female\nDOB: 20/09/1957   Age: 69 Years | 62 DAY TARGET: 09/04/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date. || Staging & Diagnosis(g) || Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C20\nDifferentiation: Well differentiated | Staging:  \nIntegrated TNM Stage: \nDukes: || Clinical Details(f): || Progressive weight loss with new onset weight loss; fatigue over 3 weeks. Additional symptoms include nocturnal symptoms.\n\nImaging:\nMRI pelvis on 24/01/2024: T3b lesion, CRM clear, EMVI positive. || MDT Outcome(h) || For CRT"
+}

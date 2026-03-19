@@ -1,0 +1,12 @@
+{
+    "case_index": 3,
+    "nhs": "9990000004",
+    "resolved_facts": {
+        "Demographics: \nNHS number(d)": "9990004\nNHS Number: 9990000004\nMATTEO ROSSI\nMale\n25/02/1943 Age: 82 Years",
+        "MDT (after 12 week): Date": "06/05/2025\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date.",
+        "1st MDT: Treatment approach \n(TNT, downstaging chemotherapy, downstaging nCRT, downstaging shortcourse RT, Papillon +/- EBRT, straight to surgery(h)": "T3 N0 M0 \nIntegrated TNM Stage: I     \nDukes:",
+        "Baseline CT: Detail incidental finding(h)": "Clinical Details(f):",
+        "2nd MRI: mrCRM": "T2 N0 EMVI negative ISP involved CRM clear PSW clear \nCRT to downstage \n\n6 week MRI \u2013 staging unchanged but of low signal and may represent complete response\n\nPlan: for 10 week MRI and fleci sig",
+        "12 week MRI: mrCRM": "Persistent low signal, may represent complete response \nFlexi sig: scar seen\n\nOutcome: to see surgeon, for discussion with patient RE entering watch and wait"
+    }
+}

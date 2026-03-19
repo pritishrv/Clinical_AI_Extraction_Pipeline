@@ -1,0 +1,126 @@
+{
+    "case_index": 17,
+    "patient_nhs": "9998009018",
+    "nodes": [
+        {
+            "row": 0,
+            "col": 0,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 1,
+            "text": "Patient Details"
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "text": "Cancer Target Dates"
+        },
+        {
+            "row": 1,
+            "col": 0,
+            "text": "Hospital Number: 9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years"
+        },
+        {
+            "row": 1,
+            "col": 1,
+            "text": "Hospital Number: 9999018\nNHS Number: 9998009018\nHarper Kirk\nFemale\nDOB: 28/10/1981   Age: 45 Years"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "text": "62 DAY TARGET: 21/12/2024\n\nPlease note: If the 62 Day Breach Date is blank, the patient is on a 31 Day Pathway. Please ensure that the Decision To Treat Date is within 31 days of the Treatment Date."
+        },
+        {
+            "row": 2,
+            "col": 0,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "text": "Staging & Diagnosis(g)"
+        },
+        {
+            "row": 3,
+            "col": 0,
+            "text": "Diagnosis: Sigmoid adenocarcinoma\nICD10 Code: C18.6\nDifferentiation: Poorly differentiated"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "text": "Staging:  \nIntegrated TNM Stage: \nDukes:"
+        },
+        {
+            "row": 4,
+            "col": 0,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "text": "Clinical Details(f):"
+        },
+        {
+            "row": 5,
+            "col": 0,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "text": "Symptoms include rectal bleeding, mucous discharge, reduced appetite, and intermittent bloating for 7 weeks. Patient also reports fatigue. Relevant history includes rheumatoid arthritis.\n\n\nPET\u2011CT on 29/09/2024: FDG\u2011avid lesion in the low rectum, no distant uptake."
+        },
+        {
+            "row": 6,
+            "col": 0,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "text": "MDT Outcome(h)"
+        },
+        {
+            "row": 7,
+            "col": 0,
+            "text": "PET\u2011CT and oncology consultation."
+        },
+        {
+            "row": 7,
+            "col": 1,
+            "text": "PET\u2011CT and oncology consultation."
+        },
+        {
+            "row": 7,
+            "col": 2,
+            "text": "PET\u2011CT and oncology consultation."
+        }
+    ]
+}
