@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "26/07/2024",
+    "patient_details": {
+        "hospital_number": "9990023",
+        "nhs_number": "9990000023",
+        "name": "Ren Kerr",
+        "gender": "Male",
+        "dob": "18/06/1941",
+        "age": "85"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "26/08/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Ascending colon mass suspicious for malignancy",
+        "icd10_code": "C19",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Progressive altered bowel habit with new onset abdominal discomfort; fatigue over 7 weeks. Additional symptoms include tenesmus.",
+    "mdt_outcome": "For MRI rectum to stage."
+}

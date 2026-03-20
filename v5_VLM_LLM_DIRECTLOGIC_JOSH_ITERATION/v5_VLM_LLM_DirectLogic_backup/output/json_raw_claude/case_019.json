@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "31/07/2024",
+    "patient_details": {
+        "hospital_number": "9990020",
+        "nhs_number": "9990000020",
+        "name": "Oliver Door",
+        "gender": "Male",
+        "dob": "1979-07-03",
+        "age": "47"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "01/09/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Large sessile polyp with possible malignant change",
+        "icd10_code": "C20",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Symptoms include tenesmus, weight loss, reduced appetite and abdominal bloating for 9 weeks. Additional symptoms include pelvic pressure.",
+    "mdt_outcome": "For right hemicolectomy"
+}

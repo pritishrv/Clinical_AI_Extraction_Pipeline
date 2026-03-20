@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "22/06/2024",
+    "patient_details": {
+        "hospital_number": "9990045",
+        "nhs_number": "9990000045",
+        "name": "Geo Wilson",
+        "gender": "Male",
+        "dob": "1982-11-16",
+        "age": "44"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-08-23",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-08-23"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Right-sided colonic tumour",
+        "icd10_code": "C18.4",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Symptoms include altered bowel habit, altered bowel habit, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include fatigue. Past medical history significant for coeliac disease.",
+    "mdt_outcome": "Surgery"
+}

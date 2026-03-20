@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "07/03/2025",
+    "patient_details": {
+        "hospital_number": "9990004",
+        "nhs_number": "9990000004",
+        "name": "MATTEO ROSSI",
+        "gender": "Male",
+        "dob": "25/02/1943",
+        "age": "82 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "06/05/2025",
+        "pathway_type": "62-day",
+        "calculated_target_date": "06/05/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+        "icd10_code": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+        "differentiation": "Moderately differentiated",
+        "staging": "T3 N0 M0",
+        "integrated_tnm_stage": "I",
+        "dukes": "I"
+    },
+    "clinical_details": "Feb 2025 \u2013 adenocarcinoma of low rectum with deficient MMR MRI stage: T2 N0 EMVI negative ISP involved CRM clear PSW clear CRT to downstage",
+    "mdt_outcome": "MRI 1/3/25: Persistent low signal, may represent complete response Flexi sig: scar seen"
+}

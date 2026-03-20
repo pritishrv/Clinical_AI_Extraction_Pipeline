@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "21/06/2024",
+    "patient_details": {
+        "hospital_number": "9999007",
+        "nhs_number": "9998009007",
+        "name": "Mason Barker",
+        "gender": "Male",
+        "dob": "27/12/1947",
+        "age": "79"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "21/07/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Tubular adenoma with HGD",
+        "icd10_code": "C19",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Patient reports weight loss and altered bowel habit over 10 weeks, with increasing severity. Patient also reports night sweats. Relevant history includes ischaemic heart disease.",
+    "mdt_outcome": "Schedule colonoscopy + tattooing, plus MRI rectum."
+}

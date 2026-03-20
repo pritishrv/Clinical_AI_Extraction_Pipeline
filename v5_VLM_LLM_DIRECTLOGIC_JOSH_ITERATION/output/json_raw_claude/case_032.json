@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "08/04/2024",
+    "patient_details": {
+        "hospital_number": "9990033",
+        "nhs_number": "9990000033",
+        "name": "Liam Turner",
+        "gender": "Male",
+        "dob": "1967-11-15",
+        "age": "59"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "09/05/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Serrated adenoma with dysplasia",
+        "icd10_code": "C18.7",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Intermittent episodes of anaemia symptoms and rectal bleeding affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms.",
+    "mdt_outcome": "For colonoscopy, tattoo, left hemicolectomy"
+}

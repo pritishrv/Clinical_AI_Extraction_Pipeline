@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "07/03/2025",
+    "patient_details": {
+        "hospital_number": "9990003",
+        "nhs_number": "9990000003",
+        "name": "AISHA MOHAMMED",
+        "gender": "Female",
+        "dob": "1974-12-19",
+        "age": "51 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2025-05-28",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2025-05-28"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "ICD10 Code: Differentiation:",
+        "icd10_code": null,
+        "differentiation": null,
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": null
+    },
+    "clinical_details": "BCSP : wants further treatment locally.",
+    "mdt_outcome": "Descending colon polyp \u2013 well differentiated adenocarcinoma Other polyps \u2013 tubular adenoma with low grade dysplasia"
+}

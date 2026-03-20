@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "13/05/2024",
+    "patient_details": {
+        "hospital_number": "9990032",
+        "nhs_number": "9990000032",
+        "name": "Emma Cooper",
+        "gender": "Female",
+        "dob": "1967-02-14",
+        "age": "59"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "14/06/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Tubular adenoma with HGD",
+        "icd10_code": "D12.8",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Symptoms include abdominal discomfort, anaemia symptoms, reduced appetite and abdominal bloating for 12 weeks. Additional symptoms include nocturnal symptoms.",
+    "mdt_outcome": "For surgery (unsuitable for chemotherapy)"
+}

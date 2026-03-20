@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "07/03/2025",
+    "patient_details": {
+        "hospital_number": "9990001(d)",
+        "nhs_number": "9990000001(c)",
+        "name": "AIDEN O'CONNOR(b)",
+        "gender": "Male(e)",
+        "dob": "26/05/1970",
+        "age": "55"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "20/05/2025",
+        "pathway_type": "62-day",
+        "calculated_target_date": "20/05/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "ADENOCARCINOMA, NOT OTHERWISE SPECIFIED",
+        "icd10_code": "10 - C20: Malignant neoplasm of rectum - rectal ampulla",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "TWR / DTT\nColonoscopy : At 13cm from insertion there was a malignant looking mass with an abnormal pit pattern suspicious features for malignancy.",
+    "mdt_outcome": "TWR / DTT\nCT 29/02/2025: Mid rectal caner with associated mesorectal lymph nodes. Multiple modules within the lungs suspicious for lung metastases. Indeterminate retroperitoneal lymph nodes."
+}

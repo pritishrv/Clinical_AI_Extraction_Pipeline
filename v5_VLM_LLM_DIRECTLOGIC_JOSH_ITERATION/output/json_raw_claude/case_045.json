@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "12/11/2024",
+    "patient_details": {
+        "hospital_number": "9990046",
+        "nhs_number": "9990000046",
+        "name": "James Cooper",
+        "gender": "Male",
+        "dob": "1952-02-14",
+        "age": "72 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2025-01-13",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2025-01-13"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Rectal adenocarcinoma",
+        "icd10_code": "C20",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": ""
+    },
+    "clinical_details": "Symptoms include rectal bleeding, altered bowel habit, reduced appetite and abdominal bloating for 6 weeks. Additional symptoms include early satiety. Past medical history significant for hypertension.",
+    "mdt_outcome": "Plan neoadjuvant CRT, repeat MRI rectum in 6 weeks."
+}

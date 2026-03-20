@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "05/03/2024",
+    "patient_details": {
+        "hospital_number": "9990034",
+        "nhs_number": "9990000034",
+        "name": "Saskia Johnson",
+        "gender": "Female",
+        "dob": "1976-07-22",
+        "age": "50"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-06-05",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-06-05"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Caecal adenocarcinoma",
+        "icd10_code": "D12.8",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": null
+    },
+    "clinical_details": "Patient reports rectal bleeding and abdominal discomfort over 11 weeks with gradual worsening. Additional symptoms include back pain. Past medical history significant for atrial fibrillation.",
+    "mdt_outcome": "Chemotherapy and review"
+}

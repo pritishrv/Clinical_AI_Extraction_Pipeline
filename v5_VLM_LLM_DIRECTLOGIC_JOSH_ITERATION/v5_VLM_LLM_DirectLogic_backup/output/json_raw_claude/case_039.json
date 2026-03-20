@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "14/10/2024",
+    "patient_details": {
+        "hospital_number": "9990040",
+        "nhs_number": "9990000040",
+        "name": "Sophia Jackson",
+        "gender": "Female",
+        "dob": "1956-08-08",
+        "age": "70 Years"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": "2024-12-15",
+        "pathway_type": "62-day",
+        "calculated_target_date": "2024-12-15"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Caecal adenocarcinoma",
+        "icd10_code": "C18.2",
+        "differentiation": "Moderately differentiated",
+        "staging": "Integrated TNM Stage:",
+        "integrated_tnm_stage": "Dukes:",
+        "dukes": null
+    },
+    "clinical_details": "Intermittent episodes of abdominal discomfort and altered bowel habit affecting daily activities for 11 weeks. Additional symptoms include nocturnal symptoms. Past medical history significant for hypertension.",
+    "mdt_outcome": "For right hemicolectomy"
+}

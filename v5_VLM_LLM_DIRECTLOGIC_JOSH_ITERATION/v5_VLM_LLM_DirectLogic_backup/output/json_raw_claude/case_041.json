@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "07/04/2024",
+    "patient_details": {
+        "hospital_number": "9990042",
+        "nhs_number": "9990000042",
+        "name": "Maya Brown",
+        "gender": "Female",
+        "dob": "1958-07-13",
+        "age": "68"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "08/05/2024"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Large sessile polyp with possible malignant change",
+        "icd10_code": "C18.2",
+        "differentiation": "Well differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Symptoms include rectal bleeding, mucous discharge, reduced appetite and abdominal bloating for 3 weeks. Additional symptoms include tenesmus.",
+    "mdt_outcome": "Surgery"
+}

@@ -1,0 +1,26 @@
+{
+    "mdt_meeting_date": "04/01/2025",
+    "patient_details": {
+        "hospital_number": "9990029",
+        "nhs_number": "9990000029",
+        "name": "Lucien Bronte",
+        "gender": "Male",
+        "dob": "1953-09-14",
+        "age": "73"
+    },
+    "cancer_target_dates": {
+        "extracted_62_day_target": null,
+        "pathway_type": "31-day",
+        "calculated_target_date": "04/02/2025"
+    },
+    "staging_and_diagnosis": {
+        "diagnosis": "Ascending colon mass suspicious for malignancy",
+        "icd10_code": "C18.0",
+        "differentiation": "Poorly differentiated",
+        "staging": "Integrated TNM Stage: Dukes:",
+        "integrated_tnm_stage": null,
+        "dukes": null
+    },
+    "clinical_details": "Patient reports anaemia symptoms and weight loss over 3 month with gradual worsening. Additional symptoms include early satiety.",
+    "mdt_outcome": "Needs CT thorax to complete staging\nFor chemotherapy downstaging and then surgery"
+}
