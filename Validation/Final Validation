@@ -1,0 +1,205 @@
+# Final Validation Framework
+
+**Pipeline:** Clinical AI Extraction Pipeline — NHS Colorectal MDT Hackathon  
+**Version:** Final (v2)  
+**Date:** 2026-03-20  
+**Ground truth:** `data/hackathon-mdt-outcome-proformas.docx`  
+**Output tested:** `hackathon_EXPERT_REFINED__4_.xlsx`
+
+---
+
+## Overview
+
+This validation framework evaluates the accuracy of the two-stage AI extraction pipeline at every stage of the process. It is designed to answer two distinct questions:
+
+- **Accuracy:** When the pipeline extracts a value, is it correct?
+- **Coverage:** How much of the available clinical data does the pipeline actually extract?
+
+These are reported separately. Missing data does not reduce accuracy — it is reported as a coverage gap.
+
+---
+
+## Pipeline Architecture
+
+```
+Word Doc (ground truth)
+        │
+        ▼
+   [Stage 1: Claude Vision]
+        │
+        ▼
+  JSON per patient          ← Stage 1 errors caught here:  Doc vs JSON
+        │
+        ▼
+   [Stage 2: LLM mapper]
+        │
+        ▼
+   Final Excel              ← Stage 2 errors caught here:  JSON vs Excel
+```
+
+---
+
+## Accuracy Formula
+
+```
+Accuracy = Correct / (Correct + Wrong + Hallucination)
+```
+
+| Outcome | Definition | Affects accuracy? |
+|---|---|---|
+| ✅ Correct | Value matches source within tolerance | Yes — numerator |
+| ❌ Wrong | Value present, does not match source, but traceable to doc | Yes — denominator |
+| 🚨 Hallucination | Value present, cannot be traced to source document at all | Yes — denominator |
+| ⬜ Missing / N/A | Field absent in Excel or absent in source | **No — excluded entirely** |
+
+Missing values are reported in the **coverage report** as a separate metric.
+
+---
+
+## Matching Rules by Field Type
+
+Different field types use different matching logic. A single global threshold is not appropriate for clinical data.
+
+### Structured fields
+MRN, NHS number, DOB, dates, TNM staging (T/N/M), EMVI, CRM, PSW.
+
+**Rule:** Exact match or fuzzy ≥ 85 on normalised values. Dates normalised to DD/MM/YYYY before comparison. These fields have a definitive correct answer — no tolerance for wrong values.
+
+### Short clinical codes
+Diagnosis name, MMR status, endoscopy type.
+
+**Rule:** Fuzzy ≥ 85. Minor wording differences acceptable (e.g. hyphen variants). Wrong sub-fields are not acceptable (e.g. "Moderately differentiated" in the diagnosis column is Wrong, not near-correct).
+
+### Free-text narrative fields
+MDT treatment approach, endoscopy findings.
+
+**Rule:** Permissive matching. A value is Correct if **any** of the following are true:
+1. Fuzzy score ≥ 70 on full strings
+2. Fuzzy score ≥ 85 after stripping common filler prefixes ("For", "Consider", "Plan", "To", "Recommend")
+3. The ground truth value is a substring of the Excel value
+4. ≥ 80% of the key clinical terms (words > 3 characters, excluding stopwords) from the ground truth appear in the Excel value
+
+**Rationale:** MDT outcome fields are narrative prose. "For neoadjuvant CRT" and "neoadjuvant CRT" record the same clinical decision. "Needs CT TAP, then consider surgery versus neoadjuvant chemotherapy" contains the correct treatment decision. Penalising the pipeline for including clinical context is not clinically meaningful.
+
+---
+
+## Validation Checkpoints
+
+### Checkpoint A — Stage 1 (Doc → JSON)
+Compares the Word document ground truth against each intermediate JSON file, patient by patient.
+
+- If a field is wrong at this checkpoint, Stage 1 introduced the error
+- Stage 2 never had correct data to work with
+
+### Checkpoint B — Stage 2 / End-to-end (Doc → Excel)
+Compares the Word document ground truth against the final Excel output.
+
+Combined with Checkpoint A, errors can be attributed to the correct stage:
+
+| JSON vs Doc | Excel vs Doc | Attribution |
+|---|---|---|
+| ✅ Correct | ✅ Correct | End-to-end correct |
+| ✅ Correct | ❌ Wrong | Stage 2 error |
+| ❌ Wrong | ❌ Wrong | Stage 1 error (propagated) |
+| ❌ Wrong | ✅ Correct | Stage 2 corrected Stage 1 — flag for review |
+
+---
+
+## Field Groups and Categories
+
+### Category 1 — Demographics
+Populated by deterministic Python logic. Should be near-perfect.
+
+Fields: MRN, NHS number, DOB, Gender, MDT date
+
+### Category 2 — Clinical fields
+Populated by the LLM. Higher risk of errors and hallucinations. Reported per group:
+
+| Group | Fields |
+|---|---|
+| Histology | Diagnosis, MMR status |
+| Endoscopy | Date, type, findings |
+| Baseline CT | Date, T, N, M, EMVI |
+| Baseline MRI | Date, mrT, mrN, mrEMVI, mrCRM, mrPSW |
+| 1st MDT | Treatment approach |
+
+---
+
+## Overall Score Formula
+
+```
+Overall = (Category 1 accuracy × 0.4) + (Category 2 accuracy × 0.6)
+```
+
+Demographics receives 40% weight because incorrect patient identity is a clinical safety risk. Clinical fields receive 60% because that is the primary purpose of the database.
+
+---
+
+## Hallucination Detection
+
+A hallucination is any populated Excel cell whose value cannot be matched (fuzzy ≥ 85) to any text in the source Word document for that patient.
+
+- **Stage 1 hallucination:** Value appears in JSON with no source evidence
+- **Stage 2 hallucination:** Value appears in Excel with no evidence in either JSON or Word doc
+
+Hallucination rate per group = hallucinated cells / total populated cells in that group.
+
+---
+
+## Summary Outputs
+
+The validation script (`validate_final.py`) produces:
+
+1. **Per-stage accuracy** — one score for Stage 1 (Doc → JSON), one end-to-end (Doc → Excel)
+2. **Per-group breakdown** — Correct / Wrong / Hallucination counts, accuracy rate, coverage rate
+3. **Category summary** — Demographics vs Clinical at each stage
+4. **Error attribution** — % of failures introduced at Stage 1 vs Stage 2
+5. **Overall score** — Category 1 × 0.4 + Category 2 × 0.6
+6. **Coverage report** — proportion of source-present fields populated in the output
+
+---
+
+## Results — Expert-Refined Excel (v2)
+
+### Overall Score: 76.6%
+
+| Group | Accuracy | Coverage | Stage 1 acc |
+|---|---|---|---|
+| Demographics | 97.2% | 100% | 96.0% |
+| Histology | 36.8% | 71.7% | 98.0% |
+| Endoscopy | 80.0% | 15.6% | 0% |
+| Baseline CT | 100% | 3.0% | 0% |
+| Baseline MRI | 100% | 11.3% | 0% |
+| 1st MDT | 94.7% | 76.0% | 48% |
+
+**Category 1 — Demographics (×0.4):** 97.2%  
+**Category 2 — Clinical (×0.6):** 62.9%  
+**★ Overall: 76.6%**
+
+### Error Attribution
+
+- Stage 1 errors: 148 (78% of all failures)
+- Stage 2 errors: 42 (22% of all failures)
+
+### Key Findings
+
+**Histology (36.8% accuracy):** Stage 2 is placing the differentiation grade ("Moderately differentiated") into the diagnosis column — 22 cases. The correct diagnosis is present in the JSON but Stage 2 maps the wrong sub-field. This is a pure Stage 2 bug fixable with one line in the deterministic map.
+
+**CT / MRI (100% accuracy, low coverage):** When imaging values are extracted they are always correct. The coverage problem (3% and 11.3%) traces to Stage 1 — CT and MRI data were not separated into dedicated JSON fields, so Stage 2 had no structured data to map from.
+
+**1st MDT (94.7% accuracy):** One genuine hallucination (case_03: "downstaging nCRT" when source says "watch and wait"). All other values are correct under permissive matching.
+
+**80% of all errors originate at Stage 1.** The primary fix is the updated Stage 1 prompt (v2) which introduces dedicated structured fields for CT, MRI, and endoscopy data rather than a single unstructured blob.
+
+---
+
+## Usage
+
+```bash
+python validate_final.py \
+  --docx  data/hackathon-mdt-outcome-proformas.docx \
+  --excel <path-to-excel-output.xlsx> \
+  --jsons v5_VLM_LLM_DirectLogic/output/json_raw_claude/
+```
+
+Dependencies: `python-docx`, `openpyxl`, `difflib` (stdlib)
